@@ -5,7 +5,6 @@
 #include "data_to_graph.h"
 #include "shortest_path.h"
 
-
 int path_find_init(Station** stations, int source, int target, int num_nodes){
 	MinHeap* heap = initialize_heap(source, num_nodes);
 	int path_sums[num_nodes];
