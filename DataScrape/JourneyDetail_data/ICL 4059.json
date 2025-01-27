@@ -1,0 +1,633 @@
+{
+    "Stops": {
+        "Stop": [
+            {
+                "Notes": {
+                    "Note": [
+                        {
+                            "key": "FB",
+                            "type": "A"
+                        },
+                        {
+                            "value": "8600053///741,74/",
+                            "key": "TE",
+                            "type": "I",
+                            "txtN": "8600053///741,74/"
+                        },
+                        {
+                            "value": "4301",
+                            "key": "TN",
+                            "type": "I",
+                            "txtN": "4301"
+                        },
+                        {
+                            "value": "MTO",
+                            "key": "TP",
+                            "type": "I",
+                            "txtN": "MTO"
+                        },
+                        {
+                            "value": "MT 301",
+                            "key": "TR",
+                            "type": "I",
+                            "txtN": "MT 301"
+                        },
+                        {
+                            "value": "301",
+                            "key": "TW",
+                            "type": "I",
+                            "txtN": "301"
+                        },
+                        {
+                            "value": "200",
+                            "key": "en",
+                            "type": "I",
+                            "txtN": "200"
+                        },
+                        {
+                            "value": "200",
+                            "key": "ev",
+                            "type": "I",
+                            "txtN": "200"
+                        }
+                    ]
+                },
+                "depPlatform": {
+                    "type": "PL",
+                    "text": "4"
+                },
+                "rtDepPlatform": {
+                    "type": "PL",
+                    "text": "4"
+                },
+                "name": "Aarhus H",
+                "id": "A=1@O=Aarhus H@X=10204761@Y=56150444@U=86@L=8600053@",
+                "extId": "8600053",
+                "routeIdx": 0,
+                "lon": 10.204761,
+                "lat": 56.150444,
+                "depPrognosisType": "PROGNOSED",
+                "depTime": "18:50:00",
+                "depDate": "2024-11-27",
+                "depTrack": "4",
+                "rtDepTrack": "4",
+                "depDir": "Aalborg Lufthavn St.",
+                "minimumChangeDuration": "PT6M"
+            },
+            {
+                "Notes": {
+                    "Note": [
+                        {
+                            "key": "FB",
+                            "type": "A"
+                        },
+                        {
+                            "value": "4380",
+                            "key": "TN",
+                            "type": "I",
+                            "txtN": "4380"
+                        },
+                        {
+                            "value": "MTO",
+                            "key": "TP",
+                            "type": "I",
+                            "txtN": "MTO"
+                        },
+                        {
+                            "value": "MT 380",
+                            "key": "TR",
+                            "type": "I",
+                            "txtN": "MT 380"
+                        },
+                        {
+                            "value": "380",
+                            "key": "TW",
+                            "type": "I",
+                            "txtN": "380"
+                        }
+                    ]
+                },
+                "arrPlatform": {
+                    "type": "PL",
+                    "text": "1"
+                },
+                "rtArrPlatform": {
+                    "type": "PL",
+                    "text": "1"
+                },
+                "depPlatform": {
+                    "type": "PL",
+                    "text": "1"
+                },
+                "rtDepPlatform": {
+                    "type": "PL",
+                    "text": "1"
+                },
+                "name": "Randers St.",
+                "id": "A=1@O=Randers St.@X=10022011@Y=56461858@U=86@L=8600040@",
+                "extId": "8600040",
+                "routeIdx": 4,
+                "lon": 10.022011,
+                "lat": 56.461858,
+                "arrPrognosisType": "PROGNOSED",
+                "depPrognosisType": "PROGNOSED",
+                "depTime": "19:21:00",
+                "depDate": "2024-11-27",
+                "arrTime": "19:19:00",
+                "arrDate": "2024-11-27",
+                "arrTrack": "1",
+                "depTrack": "1",
+                "rtArrTrack": "1",
+                "rtDepTrack": "1",
+                "minimumChangeDuration": "PT2M"
+            },
+            {
+                "Notes": {
+                    "Note": [
+                        {
+                            "key": "FB",
+                            "type": "A"
+                        },
+                        {
+                            "value": "5029",
+                            "key": "TN",
+                            "type": "I",
+                            "txtN": "5029"
+                        },
+                        {
+                            "value": "NT",
+                            "key": "TP",
+                            "type": "I",
+                            "txtN": "NT"
+                        },
+                        {
+                            "value": "NT 029",
+                            "key": "TR",
+                            "type": "I",
+                            "txtN": "NT 029"
+                        },
+                        {
+                            "value": "29",
+                            "key": "TW",
+                            "type": "I",
+                            "txtN": "29"
+                        }
+                    ]
+                },
+                "arrPlatform": {
+                    "type": "PL",
+                    "text": "2"
+                },
+                "rtArrPlatform": {
+                    "type": "PL",
+                    "text": "2"
+                },
+                "depPlatform": {
+                    "type": "PL",
+                    "text": "2"
+                },
+                "rtDepPlatform": {
+                    "type": "PL",
+                    "text": "2"
+                },
+                "name": "Hobro St.",
+                "id": "A=1@O=Hobro St.@X=9782790@Y=56643539@U=86@L=8600032@",
+                "extId": "8600032",
+                "routeIdx": 5,
+                "lon": 9.78279,
+                "lat": 56.643539,
+                "arrPrognosisType": "PROGNOSED",
+                "depPrognosisType": "PROGNOSED",
+                "depTime": "19:37:00",
+                "depDate": "2024-11-27",
+                "arrTime": "19:36:00",
+                "arrDate": "2024-11-27",
+                "arrTrack": "2",
+                "depTrack": "2",
+                "rtArrTrack": "2",
+                "rtDepTrack": "2",
+                "minimumChangeDuration": "PT2M"
+            },
+            {
+                "Notes": {
+                    "Note": [
+                        {
+                            "key": "FB",
+                            "type": "A"
+                        },
+                        {
+                            "value": "5001",
+                            "key": "TN",
+                            "type": "I",
+                            "txtN": "5001"
+                        },
+                        {
+                            "value": "NT",
+                            "key": "TP",
+                            "type": "I",
+                            "txtN": "NT"
+                        },
+                        {
+                            "value": "NT 001",
+                            "key": "TR",
+                            "type": "I",
+                            "txtN": "NT 001"
+                        },
+                        {
+                            "value": "1",
+                            "key": "TW",
+                            "type": "I",
+                            "txtN": "1"
+                        },
+                        {
+                            "value": "200",
+                            "key": "en",
+                            "type": "I",
+                            "txtN": "200"
+                        },
+                        {
+                            "value": "200",
+                            "key": "ev",
+                            "type": "I",
+                            "txtN": "200"
+                        }
+                    ]
+                },
+                "arrPlatform": {
+                    "type": "PL",
+                    "text": "1"
+                },
+                "rtArrPlatform": {
+                    "type": "PL",
+                    "text": "1"
+                },
+                "depPlatform": {
+                    "type": "PL",
+                    "text": "1"
+                },
+                "rtDepPlatform": {
+                    "type": "PL",
+                    "text": "1"
+                },
+                "name": "Aalborg St.",
+                "id": "A=1@O=Aalborg St.@X=9917044@Y=57043037@U=86@L=8600020@",
+                "extId": "8600020",
+                "routeIdx": 11,
+                "lon": 9.917044,
+                "lat": 57.043037,
+                "arrPrognosisType": "PROGNOSED",
+                "depPrognosisType": "PROGNOSED",
+                "depTime": "20:09:00",
+                "depDate": "2024-11-27",
+                "arrTime": "20:06:00",
+                "arrDate": "2024-11-27",
+                "arrTrack": "1",
+                "depTrack": "1",
+                "rtArrTrack": "1",
+                "rtDepTrack": "1",
+                "minimumChangeDuration": "PT3M"
+            },
+            {
+                "Notes": {
+                    "Note": [
+                        {
+                            "key": "FB",
+                            "type": "A"
+                        },
+                        {
+                            "value": "5001",
+                            "key": "TN",
+                            "type": "I",
+                            "txtN": "5001"
+                        },
+                        {
+                            "value": "NT",
+                            "key": "TP",
+                            "type": "I",
+                            "txtN": "NT"
+                        },
+                        {
+                            "value": "NT 001",
+                            "key": "TR",
+                            "type": "I",
+                            "txtN": "NT 001"
+                        },
+                        {
+                            "value": "1",
+                            "key": "TW",
+                            "type": "I",
+                            "txtN": "1"
+                        }
+                    ]
+                },
+                "arrPlatform": {
+                    "type": "PL",
+                    "text": "1"
+                },
+                "rtArrPlatform": {
+                    "type": "PL",
+                    "text": "1"
+                },
+                "depPlatform": {
+                    "type": "PL",
+                    "text": "1"
+                },
+                "rtDepPlatform": {
+                    "type": "PL",
+                    "text": "1"
+                },
+                "name": "Aalborg Vestby St.",
+                "id": "A=1@O=Aalborg Vestby St.@X=9908639@Y=57053285@U=86@L=8600117@",
+                "extId": "8600117",
+                "routeIdx": 12,
+                "lon": 9.908639,
+                "lat": 57.053285,
+                "arrPrognosisType": "PROGNOSED",
+                "depPrognosisType": "PROGNOSED",
+                "depTime": "20:11:00",
+                "depDate": "2024-11-27",
+                "arrTime": "20:10:00",
+                "arrDate": "2024-11-27",
+                "arrTrack": "1",
+                "depTrack": "1",
+                "rtArrTrack": "1",
+                "rtDepTrack": "1",
+                "minimumChangeDuration": "PT2M"
+            },
+            {
+                "Notes": {
+                    "Note": [
+                        {
+                            "key": "FB",
+                            "type": "A"
+                        },
+                        {
+                            "value": "5001",
+                            "key": "TN",
+                            "type": "I",
+                            "txtN": "5001"
+                        },
+                        {
+                            "value": "NT",
+                            "key": "TP",
+                            "type": "I",
+                            "txtN": "NT"
+                        },
+                        {
+                            "value": "NT 001",
+                            "key": "TR",
+                            "type": "I",
+                            "txtN": "NT 001"
+                        },
+                        {
+                            "value": "1",
+                            "key": "TW",
+                            "type": "I",
+                            "txtN": "1"
+                        }
+                    ]
+                },
+                "arrPlatform": {
+                    "type": "PL",
+                    "text": "1"
+                },
+                "rtArrPlatform": {
+                    "type": "PL",
+                    "text": "1"
+                },
+                "depPlatform": {
+                    "type": "PL",
+                    "text": "1"
+                },
+                "rtDepPlatform": {
+                    "type": "PL",
+                    "text": "1"
+                },
+                "name": "Lindholm St.",
+                "id": "A=1@O=Lindholm St.@X=9904495@Y=57066733@U=86@L=8600116@",
+                "extId": "8600116",
+                "routeIdx": 13,
+                "lon": 9.904495,
+                "lat": 57.066733,
+                "arrPrognosisType": "PROGNOSED",
+                "depPrognosisType": "PROGNOSED",
+                "depTime": "20:15:00",
+                "depDate": "2024-11-27",
+                "arrTime": "20:14:00",
+                "arrDate": "2024-11-27",
+                "arrTrack": "1",
+                "depTrack": "1",
+                "rtArrTrack": "1",
+                "rtDepTrack": "1",
+                "minimumChangeDuration": "PT2M"
+            },
+            {
+                "Notes": {
+                    "Note": [
+                        {
+                            "key": "FB",
+                            "type": "A"
+                        },
+                        {
+                            "value": "5006",
+                            "key": "TN",
+                            "type": "I",
+                            "txtN": "5006"
+                        },
+                        {
+                            "value": "NT",
+                            "key": "TP",
+                            "type": "I",
+                            "txtN": "NT"
+                        },
+                        {
+                            "value": "NT 006",
+                            "key": "TR",
+                            "type": "I",
+                            "txtN": "NT 006"
+                        },
+                        {
+                            "value": "6",
+                            "key": "TW",
+                            "type": "I",
+                            "txtN": "6"
+                        }
+                    ]
+                },
+                "arrPlatform": {
+                    "type": "PL",
+                    "text": "1"
+                },
+                "rtArrPlatform": {
+                    "type": "PL",
+                    "text": "1"
+                },
+                "name": "Aalborg Lufthavn St.",
+                "id": "A=1@O=Aalborg Lufthavn St.@X=9874938@Y=57084801@U=86@L=8600115@",
+                "extId": "8600115",
+                "routeIdx": 14,
+                "lon": 9.874938,
+                "lat": 57.084801,
+                "arrPrognosisType": "CALCULATED",
+                "arrTime": "20:19:00",
+                "arrDate": "2024-11-27",
+                "arrTrack": "1",
+                "rtArrTrack": "1",
+                "minimumChangeDuration": "PT4M"
+            }
+        ]
+    },
+    "Names": {
+        "Name": [
+            {
+                "Product": {
+                    "icon": {
+                        "res": "prod_ic"
+                    },
+                    "operatorInfo": {
+                        "name": "DSB",
+                        "nameS": "DSB",
+                        "nameN": "DSB",
+                        "nameL": "DSB"
+                    },
+                    "name": "ICL 4059",
+                    "internalName": "ICL 4059",
+                    "displayNumber": "4059",
+                    "num": "4059",
+                    "catOut": "ICL",
+                    "catIn": "002",
+                    "catCode": "1",
+                    "cls": "2",
+                    "catOutS": "002",
+                    "catOutL": "ICL",
+                    "operatorCode": "DSB",
+                    "operator": "DSB",
+                    "admin": "000002",
+                    "matchId": "4059"
+                },
+                "name": "ICL 4059",
+                "number": "4059",
+                "category": "002",
+                "routeIdxFrom": 0,
+                "routeIdxTo": 14
+            }
+        ]
+    },
+    "Product": [
+        {
+            "icon": {
+                "res": "prod_ic"
+            },
+            "operatorInfo": {
+                "name": "DSB",
+                "nameS": "DSB",
+                "nameN": "DSB",
+                "nameL": "DSB"
+            },
+            "name": "ICL 4059",
+            "internalName": "ICL 4059",
+            "displayNumber": "4059",
+            "num": "4059",
+            "catOut": "ICL",
+            "catIn": "002",
+            "catCode": "1",
+            "cls": "2",
+            "catOutS": "002",
+            "catOutL": "ICL",
+            "operatorCode": "DSB",
+            "operator": "DSB",
+            "admin": "000002",
+            "routeIdxFrom": 0,
+            "routeIdxTo": 14,
+            "matchId": "4059"
+        }
+    ],
+    "Directions": {
+        "Direction": [
+            {
+                "value": "Aalborg Lufthavn St.",
+                "flag": "1",
+                "routeIdxFrom": 0,
+                "routeIdxTo": 14
+            }
+        ]
+    },
+    "Notes": {
+        "Note": [
+            {
+                "value": "Cykelreservering kr\u00e6ves",
+                "key": "CR",
+                "type": "A",
+                "priority": 0,
+                "routeIdxFrom": 0,
+                "routeIdxTo": 14,
+                "txtN": "Cykelreservering kr\u00e6ves"
+            },
+            {
+                "value": "Reservering anbefales",
+                "key": "RE",
+                "type": "A",
+                "priority": 0,
+                "routeIdxFrom": 0,
+                "routeIdxTo": 14,
+                "txtN": "Reservering anbefales"
+            },
+            {
+                "value": "Mulighed for internet",
+                "key": "TD",
+                "type": "A",
+                "priority": 200,
+                "routeIdxFrom": 0,
+                "routeIdxTo": 14,
+                "txtN": "Mulighed for internet"
+            },
+            {
+                "value": "fdba58",
+                "key": "CT",
+                "type": "I",
+                "routeIdxFrom": 0,
+                "routeIdxTo": 14,
+                "txtN": "fdba58"
+            },
+            {
+                "value": "000000",
+                "key": "CF",
+                "type": "I",
+                "routeIdxFrom": 0,
+                "routeIdxTo": 14,
+                "txtN": "000000"
+            }
+        ]
+    },
+    "JourneyStatus": "P",
+    "ServiceDays": [
+        {
+            "planningPeriodBegin": "2024-11-26",
+            "planningPeriodEnd": "2025-02-12",
+            "sDaysR": "ikke altid",
+            "sDaysI": "27. nov - 14. dec 2024",
+            "sDaysB": "FFFFE000000000000000",
+            "routeIdxFrom": 0,
+            "routeIdxTo": 14
+        }
+    ],
+    "TechnicalMessages": {
+        "TechnicalMessage": [
+            {
+                "value": "2024-11-27 18:43:00",
+                "key": "requestTime"
+            },
+            {
+                "value": "ttp=16402#16480 plancode0=xubi5 planid=1732618831 planid0=1732618831 planid_adr=1732528415 plancode_adr=xsdrl planid_poi=1732519734 plancode_poi=xr62g srvv=5.45.Rejseplanen.15.4.11 (customer/hcudk/release/2024.4.2.0) [2024-09-13] tlibv=TRFVER: rel/dk/10.05.5 2024-08-23 16:30:57 +0200 Rejsekort v10.5.5 jno=1",
+                "key": "backendInfo"
+            }
+        ]
+    },
+    "serverVersion": "2.45.2",
+    "dialectVersion": "2.45-Rejseplanen",
+    "planRtTs": "2024-11-27T18:42:52.000+01:00",
+    "requestId": "jm2w3zgw6qs4h6ck",
+    "reachable": true,
+    "dayOfOperation": "2024-11-27",
+    "ref": "2|#VN#1#ST#1732618831#PI#0#ZI#1221#TA#10#DA#271124#1S#8600053#1T#1850#LS#8600115#LT#2019#PU#86#RT#1#CA#002#ZE#4059#ZB#ICL 4059#PC#1#FR#8600053#FT#1850#TO#8600115#TT#2019#"
+}

@@ -1,0 +1,269 @@
+Kalundborg Øst,Kalundborg,0.000
+Svebølle,Kalundborg Øst,76766.751
+Kalundborg,Kalundborg Øst,11297981.726
+Jyderup,Svebølle,266622.884
+Kalundborg Øst,Svebølle,3492887.179
+Mørkøv,Jyderup,420048.818
+Svebølle,Jyderup,7998686.511
+Knabstrup,Mørkøv,258037.915
+Jyderup,Mørkøv,9346086.194
+Regstrup,Knabstrup,225494.484
+Mørkøv,Knabstrup,4541467.299
+Holbæk,Regstrup,3483165.620
+Knabstrup,Regstrup,3269670.013
+Roskilde,Holbæk,16136170.716
+Vipperød,Holbæk,46785679.574
+Regstrup,Holbæk,42793177.617
+Høje Taastrup,Roskilde,181591957.077
+Ringsted,Roskilde,30272121.134
+Trekroner,Roskilde,150261216.142
+Lejre,Roskilde,152382685.641
+Viby Sjælland,Roskilde,151443246.082
+Holbæk,Roskilde,148811352.159
+København H,Høje Taastrup,450231006.423
+Trekroner,Høje Taastrup,28510529.146
+Valby,Høje Taastrup,122631800.574
+Hedehusene,Høje Taastrup,60992682.439
+Ørestad,Høje Taastrup,90372903.058
+Roskilde,Høje Taastrup,15345799.190
+Nørreport,København H,620459282.901
+København Syd,København H,394305751.693
+Ringsted,København H,85585686.972
+Valby,København H,105994706.169
+Høje Taastrup,København H,91263041.843
+Østerport,Nørreport,226906802.277
+København H,Nørreport,100824633.471
+Snekkersten,Helsingør,570811.557
+Espergærde,Snekkersten,747988.851
+Helsingør,Snekkersten,52514663.229
+Humlebæk,Espergærde,1828224.253
+Snekkersten,Espergærde,34033492.719
+Nivå,Humlebæk,2094594.146
+Espergærde,Humlebæk,54846727.585
+Kokkedal,Nivå,2910672.887
+Humlebæk,Nivå,46604719.757
+Rungsted Kyst,Kokkedal,3113277.143
+Nivå,Kokkedal,51227842.816
+Vedbæk,Rungsted Kyst,1389529.329
+Kokkedal,Rungsted Kyst,45142518.579
+Skodsborg,Vedbæk,1136326.905
+Rungsted Kyst,Vedbæk,17071360.333
+Klampenborg,Skodsborg,1392019.619
+Vedbæk,Skodsborg,12073473.362
+Hellerup,Klampenborg,6926476.192
+Skodsborg,Klampenborg,12992183.114
+Østerport,Hellerup,17845624.666
+Klampenborg,Hellerup,57489752.393
+Nørreport,Østerport,33615822.560
+Hellerup,Østerport,133031020.234
+Køge Nord,København Syd,1998129.654
+København H,København Syd,23897318.284
+Ølby,Køge Nord,22576141.141
+København Syd,Køge Nord,6493921.374
+Ringsted,Køge Nord,5238034.070
+Køge,Ølby,23615598.881
+Køge Nord,Ølby,1297479.376
+Herfølge,Køge,21569798.259
+Ølby,Køge,1357218.327
+Tureby,Herfølge,2385553.819
+Køge,Herfølge,1268811.662
+Haslev,Tureby,1008851.816
+Herfølge,Tureby,407289.676
+Holme-Olstrup,Haslev,1174191.234
+Tureby,Haslev,10290288.524
+Næstved Nord,Holme-Olstrup,348358.033
+Haslev,Holme-Olstrup,17025772.888
+Næstved,Næstved Nord,3916316.649
+Holme-Olstrup,Næstved Nord,4279827.268
+Tårnby,CPH Lufthavn,420018.001
+Ørestad,Tårnby,239646.601
+CPH Lufthavn,Tårnby,38641656.113
+Høje Taastrup,Ørestad,3012430.102
+Tårnby,Ørestad,10903920.363
+Roskilde,Trekroner,2116355.157
+Hedehusene,Trekroner,24903744.960
+Høje Taastrup,Trekroner,1425526.457
+Sorø,Ringsted,46381311.498
+Roskilde,Ringsted,143288040.033
+Køge Nord,Ringsted,68967448.592
+Næstved,Ringsted,115429276.262
+Borup,Ringsted,79101301.603
+Glumsø,Ringsted,73041035.675
+Slagelse,Sorø,37134556.964
+Ringsted,Sorø,43482479.530
+Bramming,Esbjerg,200547.778
+Spangsbjerg,Esbjerg,17444524.114
+Vejen,Bramming,368079.760
+Gørding,Bramming,6526736.705
+Esbjerg,Bramming,18450395.538
+Lunderskov,Vejen,916422.920
+Brørup,Vejen,9953922.140
+Bramming,Vejen,10919699.556
+Kolding,Lunderskov,4050964.994
+Vejen,Lunderskov,13288132.345
+Middelfart,Kolding,5826615.886
+Taulov,Kolding,35550187.645
+Lunderskov,Kolding,49768998.495
+Odense,Middelfart,12538010.091
+Fredericia,Middelfart,103208294.870
+Nørre Aaby,Middelfart,26027725.759
+Kolding,Middelfart,43699619.146
+Langeskov,Odense,10417841.149
+Nyborg,Odense,19822280.007
+Middelfart,Odense,21757135.158
+Nyborg,Langeskov,357506.434
+Odense,Langeskov,260446.029
+Korsør,Nyborg,18263925.553
+Odense,Nyborg,25768964.009
+Langeskov,Nyborg,18590334.592
+Slagelse,Korsør,30058366.706
+Nyborg,Korsør,22177623.886
+Sorø,Slagelse,33345316.457
+Korsør,Slagelse,34951589.193
+København H,Valby,6624669.136
+Høje Taastrup,Valby,1613576.323
+Holsted,Gørding,419331.357
+Bramming,Gørding,145038.593
+Brørup,Holsted,89522.832
+Gørding,Holsted,59904.480
+Vejen,Brørup,221198.270
+Holsted,Brørup,3491390.461
+Fredericia,Taulov,1259645.704
+Kolding,Taulov,522796.877
+Børkop,Fredericia,88395548.327
+Taulov,Fredericia,30231496.905
+Kolding,Fredericia,38919551.159
+Middelfart,Fredericia,37944226.055
+Vejle,Fredericia,85049901.365
+Brejning,Børkop,4054896.139
+Fredericia,Børkop,1262793.548
+Vejle,Brejning,238196.792
+Børkop,Brejning,1256446.691
+Hedensted,Vejle,12198812.265
+Brejning,Vejle,2501066.320
+Fredericia,Vejle,26729969.001
+Horsens,Vejle,26804397.944
+Vejle Sygehus,Vejle,10407836.023
+Horsens,Hedensted,387846.093
+Vejle,Hedensted,167107.017
+Skanderborg,Horsens,29009407.969
+Hedensted,Horsens,7369075.768
+Vejle,Horsens,6976487.136
+Viby Jylland,Skanderborg,9690407.818
+Horsens,Skanderborg,6962257.913
+Aarhus H,Skanderborg,36013112.347
+Alken,Skanderborg,10203665.012
+Aarhus H,Viby Jylland,472760.794
+Skanderborg,Viby Jylland,125849.452
+Hørning,Viby Jylland,6860882.180
+Viby Jylland,Aarhus H,7091411.907
+Randers,Aarhus H,37311690.279
+Skanderborg,Aarhus H,7015541.366
+Hadsten,Aarhus H,37248911.488
+Hinnerup,Aarhus H,41255400.924
+Hobro,Randers,19974500.006
+Aarhus H,Randers,5667598.523
+Langå,Randers,9634925.612
+Aalborg,Hobro,33023165.256
+Arden,Hobro,9490588.378
+Randers,Hobro,2406566.266
+Aalborg Vestby,Aalborg,42931848.577
+Hobro,Aalborg,2303941.762
+Skalborg,Aalborg,35619924.673
+Lindholm,Aalborg Vestby,2783103.495
+Aalborg,Aalborg Vestby,1431061.619
+Aalborg Lufthavn,Lindholm,1541656.112
+Brønderslev,Lindholm,1153662.398
+Aalborg Vestby,Lindholm,61167.110
+Vrå,Brønderslev,0.000
+Hjørring,Vrå,0.000
+Tølløse,Vipperød,15593200.719
+Holbæk,Vipperød,1039681.768
+Hvalsø,Tølløse,902924.705
+Vipperød,Tølløse,375739.776
+Lejre,Hvalsø,757381.717
+Tølløse,Hvalsø,2708774.116
+Roskilde,Lejre,5136495.022
+Hvalsø,Lejre,22468990.951
+Høje Taastrup,Hedehusene,1219853.649
+Trekroner,Hedehusene,592946.309
+Vordingborg,Næstved,70501322.070
+Glumsø,Næstved,3583306.694
+Næstved Nord,Næstved,66577383.036
+Nykøbing F,Vordingborg,13661551.377
+Langå,Hadsten,3780359.207
+Aarhus H,Hadsten,827753.589
+Randers,Langå,642328.374
+Ulstrup,Langå,5127309.960
+Hadsten,Langå,80433.175
+Skørping,Arden,3301367.131
+Hobro,Arden,319907.473
+Støvring,Skørping,2758606.168
+Arden,Skørping,128624.693
+Svenstrup (Jylland),Støvring,885468.651
+Skørping,Støvring,678345.779
+Skalborg,Svenstrup (Jylland),218678.725
+Støvring,Svenstrup (Jylland),857797.755
+Aalborg,Skalborg,1369997.103
+Svenstrup (Jylland),Skalborg,937194.537
+Ringsted,Glumsø,4197760.671
+Næstved,Glumsø,716661.339
+Viby Sjælland,Borup,185552.409
+Ringsted,Borup,869245.073
+Roskilde,Viby Sjælland,3328422.991
+Borup,Viby Sjælland,185552.409
+Lindholm,Aalborg Lufthavn,16757.132
+Ejby,Nørre Aaby,5241857.446
+Gelsted,Ejby,4014067.713
+Aarup,Gelsted,4036946.025
+Tommerup,Aarup,5394037.169
+Odense,Tommerup,1306434.184
+Jelling,Vejle Sygehus,2807689.974
+Give,Jelling,4232002.628
+Thyregod,Give,3352625.344
+Brande,Thyregod,3428611.545
+Herning,Brande,21953572.047
+Gødstrup,Herning,27934259.871
+Herning Messecenter,Herning,26431305.263
+Vildbjerg,Gødstrup,5496371.375
+Aulum,Vildbjerg,3957857.039
+Holstebro,Aulum,9869251.726
+Hjerm,Holstebro,10473217.914
+Struer,Hjerm,794877.626
+Hadsten,Hinnerup,101641.629
+Bjerringbro,Ulstrup,6247485.043
+Rødkærsbro,Bjerringbro,6612438.450
+Viborg,Rødkærsbro,15886706.077
+Sparkær,Viborg,14861184.050
+Stoholm,Sparkær,2567386.829
+Højslev,Stoholm,2831139.735
+Skive,Højslev,6966452.889
+Vinderup,Skive,6608657.039
+Struer,Vinderup,138904.948
+Gjesing,Spangsbjerg,4508634.277
+Guldager,Gjesing,2514293.297
+Varde Kaserne,Guldager,1149411.493
+Varde,Varde Kaserne,704302.351
+Skanderborg,Hørning,141825.917
+Ry,Alken,7314194.228
+Laven,Ry,7688462.518
+Svejbæk,Laven,2263226.019
+Silkeborg,Svejbæk,15709338.598
+Engesvang,Silkeborg,15116509.912
+Bording,Engesvang,2998431.781
+Ikast,Bording,5319664.494
+Hammerum,Ikast,5133610.666
+Birk Centerpark,Hammerum,2167249.748
+Herning,Birk Centerpark,2482999.706
+Studsgård,Herning Messecenter,509353.956
+Kibæk,Studsgård,1497218.234
+Troldhede,Kibæk,1840729.432
+Borris,Troldhede,1168086.702
+Skjern,Borris,5257847.876
+Tarm,Skjern,7135866.811
+Ølgod,Tarm,4212759.316
+Gårde,Ølgod,2675050.447
+Tistrup,Gårde,1561665.443
+Sig,Tistrup,1887608.191
+Varde Nord,Sig,1744993.978
+Varde,Varde Nord,337694.191

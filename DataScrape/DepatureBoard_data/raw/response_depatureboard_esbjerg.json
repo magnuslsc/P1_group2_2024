@@ -1,0 +1,5012 @@
+{
+    "Departure": [
+        {
+            "JourneyDetailRef": {
+                "ref": "2|#VN#1#ST#1732618831#PI#0#ZI#55968#TA#3#DA#271124#1S#561022201#1T#1709#LS#561022201#LT#1900#PU#86#RT#1#CA#028#ZE#2A#ZB#Bybus 2A#PC#5#FR#561022201#FT#1709#TO#561022201#TT#1900#"
+            },
+            "JourneyStatus": "P",
+            "ProductAtStop": {
+                "icon": {
+                    "res": "prod_bus"
+                },
+                "operatorInfo": {
+                    "name": "Sydtrafik",
+                    "nameS": "SYD",
+                    "nameN": "SYD",
+                    "nameL": "Sydtrafik"
+                },
+                "name": "Bybus 2A",
+                "internalName": "Bybus 2A",
+                "displayNumber": "2A",
+                "num": "482",
+                "line": "2A",
+                "lineId": "028_245_32_2A",
+                "catOut": "Bybus",
+                "catIn": "028",
+                "catCode": "5",
+                "cls": "32",
+                "catOutS": "028",
+                "catOutL": "Bybus",
+                "operatorCode": "SYD",
+                "operator": "Sydtrafik",
+                "admin": "245_32",
+                "matchId": "18469"
+            },
+            "Product": [
+                {
+                    "icon": {
+                        "res": "prod_bus"
+                    },
+                    "operatorInfo": {
+                        "name": "Sydtrafik",
+                        "nameS": "SYD",
+                        "nameN": "SYD",
+                        "nameL": "Sydtrafik"
+                    },
+                    "name": "Bybus 2A",
+                    "internalName": "Bybus 2A",
+                    "displayNumber": "2A",
+                    "num": "482",
+                    "line": "2A",
+                    "lineId": "028_245_32_2A",
+                    "catOut": "Bybus",
+                    "catIn": "028",
+                    "catCode": "5",
+                    "cls": "32",
+                    "catOutS": "028",
+                    "catOutL": "Bybus",
+                    "operatorCode": "SYD",
+                    "operator": "Sydtrafik",
+                    "admin": "245_32",
+                    "routeIdxFrom": 73,
+                    "routeIdxTo": 88,
+                    "matchId": "18469"
+                }
+            ],
+            "Notes": {
+                "Note": [
+                    {
+                        "value": "Sydtrafik",
+                        "key": "PU",
+                        "type": "I",
+                        "routeIdxFrom": 73,
+                        "routeIdxTo": 88,
+                        "txtN": "Sydtrafik"
+                    },
+                    {
+                        "value": "2007",
+                        "key": "bp",
+                        "type": "I",
+                        "routeIdxFrom": 73,
+                        "routeIdxTo": 88,
+                        "txtN": "2007"
+                    },
+                    {
+                        "value": "FDAE00",
+                        "key": "CT",
+                        "type": "I",
+                        "routeIdxFrom": 73,
+                        "routeIdxTo": 88,
+                        "txtN": "FDAE00"
+                    },
+                    {
+                        "value": "18469",
+                        "key": "FD",
+                        "type": "I",
+                        "routeIdxFrom": 73,
+                        "routeIdxTo": 88,
+                        "txtN": "18469"
+                    },
+                    {
+                        "value": "3610",
+                        "key": "TN",
+                        "type": "I",
+                        "txtN": "3610"
+                    },
+                    {
+                        "value": "SYD",
+                        "key": "TP",
+                        "type": "I",
+                        "txtN": "SYD"
+                    },
+                    {
+                        "value": "ST 610",
+                        "key": "TR",
+                        "type": "I",
+                        "txtN": "ST 610"
+                    },
+                    {
+                        "value": "610",
+                        "key": "TW",
+                        "type": "I",
+                        "txtN": "610"
+                    }
+                ]
+            },
+            "platform": {
+                "type": "PL",
+                "text": "B"
+            },
+            "name": "Bybus 2A",
+            "type": "ST",
+            "stop": "Esbjerg Busterminal",
+            "stopid": "A=1@O=Esbjerg Busterminal@X=8458292@Y=55468748@U=86@L=561100102@",
+            "stopExtId": "561100102",
+            "lon": 8.458292,
+            "lat": 55.468748,
+            "prognosisType": "PROGNOSED",
+            "time": "18:41:00",
+            "date": "2024-11-27",
+            "track": "B",
+            "rtTime": "18:42:00",
+            "rtDate": "2024-11-27",
+            "reachable": true,
+            "direction": "Hedelund via Baggesens All\u00e9",
+            "directionFlag": "2"
+        },
+        {
+            "JourneyDetailRef": {
+                "ref": "2|#VN#1#ST#1732618831#PI#0#ZI#57279#TA#0#DA#271124#1S#8600215#1T#1842#LS#8604725#LT#1948#PU#86#RT#1#CA#030#ZE#5179#ZB#RA 5179#PC#2#FR#8600215#FT#1842#TO#8604725#TT#1948#"
+            },
+            "JourneyStatus": "P",
+            "ProductAtStop": {
+                "icon": {
+                    "res": "prod_ic"
+                },
+                "operatorInfo": {
+                    "name": "GoCollective",
+                    "nameS": "GoC",
+                    "nameN": "GoC",
+                    "nameL": "GoCollective"
+                },
+                "name": "RA 5179",
+                "internalName": "RA 5179",
+                "displayNumber": "5179",
+                "num": "5179",
+                "catOut": "RA",
+                "catIn": "030",
+                "catCode": "2",
+                "cls": "4",
+                "catOutS": "030",
+                "catOutL": "RA",
+                "operatorCode": "GoC",
+                "operator": "GoCollective",
+                "admin": "000087",
+                "matchId": "5179"
+            },
+            "Product": [
+                {
+                    "icon": {
+                        "res": "prod_ic"
+                    },
+                    "operatorInfo": {
+                        "name": "GoCollective",
+                        "nameS": "GoC",
+                        "nameN": "GoC",
+                        "nameL": "GoCollective"
+                    },
+                    "name": "RA 5179",
+                    "internalName": "RA 5179",
+                    "displayNumber": "5179",
+                    "num": "5179",
+                    "catOut": "RA",
+                    "catIn": "030",
+                    "catCode": "2",
+                    "cls": "4",
+                    "catOutS": "030",
+                    "catOutL": "RA",
+                    "operatorCode": "GoC",
+                    "operator": "GoCollective",
+                    "admin": "000087",
+                    "routeIdxFrom": 0,
+                    "routeIdxTo": 21,
+                    "matchId": "5179"
+                }
+            ],
+            "Notes": {
+                "Note": [
+                    {
+                        "value": "Mulighed for internet",
+                        "key": "TD",
+                        "type": "A",
+                        "priority": 200,
+                        "routeIdxFrom": 0,
+                        "routeIdxTo": 21,
+                        "txtN": "Mulighed for internet"
+                    },
+                    {
+                        "value": "6938a1",
+                        "key": "CT",
+                        "type": "I",
+                        "routeIdxFrom": 0,
+                        "routeIdxTo": 21,
+                        "txtN": "6938a1"
+                    },
+                    {
+                        "value": "ffffff",
+                        "key": "CF",
+                        "type": "I",
+                        "routeIdxFrom": 0,
+                        "routeIdxTo": 21,
+                        "txtN": "ffffff"
+                    },
+                    {
+                        "key": "FB",
+                        "type": "A"
+                    },
+                    {
+                        "value": "3610",
+                        "key": "TN",
+                        "type": "I",
+                        "txtN": "3610"
+                    },
+                    {
+                        "value": "SYD",
+                        "key": "TP",
+                        "type": "I",
+                        "txtN": "SYD"
+                    },
+                    {
+                        "value": "ST 610",
+                        "key": "TR",
+                        "type": "I",
+                        "txtN": "ST 610"
+                    },
+                    {
+                        "value": "610",
+                        "key": "TW",
+                        "type": "I",
+                        "txtN": "610"
+                    }
+                ]
+            },
+            "rtPlatform": {
+                "type": "PL",
+                "text": "1"
+            },
+            "name": "RA 5179",
+            "type": "ST",
+            "stop": "Esbjerg St.",
+            "stopid": "A=1@O=Esbjerg St.@X=8458193@Y=55467920@U=86@L=8600215@",
+            "stopExtId": "8600215",
+            "lon": 8.458193,
+            "lat": 55.46792,
+            "isMainMast": true,
+            "prognosisType": "PROGNOSED",
+            "time": "18:42:00",
+            "date": "2024-11-27",
+            "rtTrack": "1",
+            "reachable": true,
+            "direction": "Varde St.",
+            "directionFlag": "1"
+        },
+        {
+            "JourneyDetailRef": {
+                "ref": "2|#VN#1#ST#1732618831#PI#0#ZI#32412#TA#8#DA#271124#1S#561071802#1T#1811#LS#561030102#LT#1858#PU#86#RT#1#CA#028#ZE#1A#ZB#Bybus 1A#PC#5#FR#561071802#FT#1811#TO#561030102#TT#1858#"
+            },
+            "JourneyStatus": "P",
+            "ProductAtStop": {
+                "icon": {
+                    "res": "prod_bus"
+                },
+                "operatorInfo": {
+                    "name": "Sydtrafik",
+                    "nameS": "SYD",
+                    "nameN": "SYD",
+                    "nameL": "Sydtrafik"
+                },
+                "name": "Bybus 1A",
+                "internalName": "Bybus 1A",
+                "displayNumber": "1A",
+                "num": "1304",
+                "line": "1A",
+                "lineId": "028_245_32_1A",
+                "catOut": "Bybus",
+                "catIn": "028",
+                "catCode": "5",
+                "cls": "32",
+                "catOutS": "028",
+                "catOutL": "Bybus",
+                "operatorCode": "SYD",
+                "operator": "Sydtrafik",
+                "admin": "245_32",
+                "matchId": "19052"
+            },
+            "Product": [
+                {
+                    "icon": {
+                        "res": "prod_bus"
+                    },
+                    "operatorInfo": {
+                        "name": "Sydtrafik",
+                        "nameS": "SYD",
+                        "nameN": "SYD",
+                        "nameL": "Sydtrafik"
+                    },
+                    "name": "Bybus 1A",
+                    "internalName": "Bybus 1A",
+                    "displayNumber": "1A",
+                    "num": "1304",
+                    "line": "1A",
+                    "lineId": "028_245_32_1A",
+                    "catOut": "Bybus",
+                    "catIn": "028",
+                    "catCode": "5",
+                    "cls": "32",
+                    "catOutS": "028",
+                    "catOutL": "Bybus",
+                    "operatorCode": "SYD",
+                    "operator": "Sydtrafik",
+                    "admin": "245_32",
+                    "routeIdxFrom": 30,
+                    "routeIdxTo": 43,
+                    "matchId": "19052"
+                }
+            ],
+            "Notes": {
+                "Note": [
+                    {
+                        "value": "Sydtrafik",
+                        "key": "PU",
+                        "type": "I",
+                        "routeIdxFrom": 30,
+                        "routeIdxTo": 43,
+                        "txtN": "Sydtrafik"
+                    },
+                    {
+                        "value": "2007",
+                        "key": "bp",
+                        "type": "I",
+                        "routeIdxFrom": 30,
+                        "routeIdxTo": 43,
+                        "txtN": "2007"
+                    },
+                    {
+                        "value": "FDAE00",
+                        "key": "CT",
+                        "type": "I",
+                        "routeIdxFrom": 30,
+                        "routeIdxTo": 43,
+                        "txtN": "FDAE00"
+                    },
+                    {
+                        "value": "19052",
+                        "key": "FD",
+                        "type": "I",
+                        "routeIdxFrom": 30,
+                        "routeIdxTo": 43,
+                        "txtN": "19052"
+                    },
+                    {
+                        "value": "3610",
+                        "key": "TN",
+                        "type": "I",
+                        "txtN": "3610"
+                    },
+                    {
+                        "value": "SYD",
+                        "key": "TP",
+                        "type": "I",
+                        "txtN": "SYD"
+                    },
+                    {
+                        "value": "ST 610",
+                        "key": "TR",
+                        "type": "I",
+                        "txtN": "ST 610"
+                    },
+                    {
+                        "value": "610",
+                        "key": "TW",
+                        "type": "I",
+                        "txtN": "610"
+                    },
+                    {
+                        "value": "60",
+                        "key": "en",
+                        "type": "I",
+                        "txtN": "60"
+                    },
+                    {
+                        "value": "50",
+                        "key": "ev",
+                        "type": "I",
+                        "txtN": "50"
+                    }
+                ]
+            },
+            "platform": {
+                "type": "PL",
+                "text": "A"
+            },
+            "name": "Bybus 1A",
+            "type": "ST",
+            "stop": "Esbjerg Busterminal",
+            "stopid": "A=1@O=Esbjerg Busterminal@X=8458742@Y=55469233@U=86@L=561100101@",
+            "stopExtId": "561100101",
+            "lon": 8.458742,
+            "lat": 55.469233,
+            "prognosisType": "PROGNOSED",
+            "time": "18:43:00",
+            "date": "2024-11-27",
+            "track": "A",
+            "rtTime": "18:44:00",
+            "rtDate": "2024-11-27",
+            "reachable": true,
+            "direction": "Kvaglund via Jerne",
+            "directionFlag": "1"
+        },
+        {
+            "JourneyDetailRef": {
+                "ref": "2|#VN#1#ST#1732618831#PI#0#ZI#55968#TA#8#DA#271124#1S#561022201#1T#1824#LS#561022201#LT#2015#PU#86#RT#1#CA#028#ZE#2A#ZB#Bybus 2A#PC#5#FR#561022201#FT#1824#TO#561022201#TT#2015#"
+            },
+            "JourneyStatus": "P",
+            "ProductAtStop": {
+                "icon": {
+                    "res": "prod_bus"
+                },
+                "operatorInfo": {
+                    "name": "Sydtrafik",
+                    "nameS": "SYD",
+                    "nameN": "SYD",
+                    "nameL": "Sydtrafik"
+                },
+                "name": "Bybus 2A",
+                "internalName": "Bybus 2A",
+                "displayNumber": "2A",
+                "num": "533",
+                "line": "2A",
+                "lineId": "028_245_32_2A",
+                "catOut": "Bybus",
+                "catIn": "028",
+                "catCode": "5",
+                "cls": "32",
+                "catOutS": "028",
+                "catOutL": "Bybus",
+                "operatorCode": "SYD",
+                "operator": "Sydtrafik",
+                "admin": "245_32",
+                "matchId": "18437"
+            },
+            "Product": [
+                {
+                    "icon": {
+                        "res": "prod_bus"
+                    },
+                    "operatorInfo": {
+                        "name": "Sydtrafik",
+                        "nameS": "SYD",
+                        "nameN": "SYD",
+                        "nameL": "Sydtrafik"
+                    },
+                    "name": "Bybus 2A",
+                    "internalName": "Bybus 2A",
+                    "displayNumber": "2A",
+                    "num": "533",
+                    "line": "2A",
+                    "lineId": "028_245_32_2A",
+                    "catOut": "Bybus",
+                    "catIn": "028",
+                    "catCode": "5",
+                    "cls": "32",
+                    "catOutS": "028",
+                    "catOutL": "Bybus",
+                    "operatorCode": "SYD",
+                    "operator": "Sydtrafik",
+                    "admin": "245_32",
+                    "routeIdxFrom": 14,
+                    "routeIdxTo": 88,
+                    "matchId": "18437"
+                }
+            ],
+            "Notes": {
+                "Note": [
+                    {
+                        "value": "Sydtrafik",
+                        "key": "PU",
+                        "type": "I",
+                        "routeIdxFrom": 14,
+                        "routeIdxTo": 88,
+                        "txtN": "Sydtrafik"
+                    },
+                    {
+                        "value": "2007",
+                        "key": "bp",
+                        "type": "I",
+                        "routeIdxFrom": 14,
+                        "routeIdxTo": 88,
+                        "txtN": "2007"
+                    },
+                    {
+                        "value": "FDAE00",
+                        "key": "CT",
+                        "type": "I",
+                        "routeIdxFrom": 14,
+                        "routeIdxTo": 88,
+                        "txtN": "FDAE00"
+                    },
+                    {
+                        "value": "18437",
+                        "key": "FD",
+                        "type": "I",
+                        "routeIdxFrom": 14,
+                        "routeIdxTo": 88,
+                        "txtN": "18437"
+                    },
+                    {
+                        "value": "3610",
+                        "key": "TN",
+                        "type": "I",
+                        "txtN": "3610"
+                    },
+                    {
+                        "value": "SYD",
+                        "key": "TP",
+                        "type": "I",
+                        "txtN": "SYD"
+                    },
+                    {
+                        "value": "ST 610",
+                        "key": "TR",
+                        "type": "I",
+                        "txtN": "ST 610"
+                    },
+                    {
+                        "value": "610",
+                        "key": "TW",
+                        "type": "I",
+                        "txtN": "610"
+                    },
+                    {
+                        "value": "60",
+                        "key": "en",
+                        "type": "I",
+                        "txtN": "60"
+                    },
+                    {
+                        "value": "50",
+                        "key": "ev",
+                        "type": "I",
+                        "txtN": "50"
+                    }
+                ]
+            },
+            "platform": {
+                "type": "PL",
+                "text": "A"
+            },
+            "name": "Bybus 2A",
+            "type": "ST",
+            "stop": "Esbjerg Busterminal",
+            "stopid": "A=1@O=Esbjerg Busterminal@X=8458742@Y=55469233@U=86@L=561100101@",
+            "stopExtId": "561100101",
+            "lon": 8.458742,
+            "lat": 55.469233,
+            "time": "18:44:00",
+            "date": "2024-11-27",
+            "track": "A",
+            "reachable": true,
+            "direction": "Guldager via S\u00e6dding - S\u00f8nderris",
+            "directionFlag": "1"
+        },
+        {
+            "JourneyDetailRef": {
+                "ref": "2|#VN#1#ST#1732618831#PI#0#ZI#32483#TA#9#DA#271124#1S#561100101#1T#1848#LS#561044101#LT#1916#PU#86#RT#1#CA#028#ZE#3A#ZB#Bybus 3A#PC#5#FR#561100101#FT#1848#TO#561044101#TT#1916#"
+            },
+            "JourneyStatus": "P",
+            "ProductAtStop": {
+                "icon": {
+                    "res": "prod_bus"
+                },
+                "operatorInfo": {
+                    "name": "Sydtrafik",
+                    "nameS": "SYD",
+                    "nameN": "SYD",
+                    "nameL": "Sydtrafik"
+                },
+                "name": "Bybus 3A",
+                "internalName": "Bybus 3A",
+                "displayNumber": "3A",
+                "num": "1419",
+                "line": "3A",
+                "lineId": "028_245_32_3A",
+                "catOut": "Bybus",
+                "catIn": "028",
+                "catCode": "5",
+                "cls": "32",
+                "catOutS": "028",
+                "catOutL": "Bybus",
+                "operatorCode": "SYD",
+                "operator": "Sydtrafik",
+                "admin": "245_32",
+                "matchId": "18365"
+            },
+            "Product": [
+                {
+                    "icon": {
+                        "res": "prod_bus"
+                    },
+                    "operatorInfo": {
+                        "name": "Sydtrafik",
+                        "nameS": "SYD",
+                        "nameN": "SYD",
+                        "nameL": "Sydtrafik"
+                    },
+                    "name": "Bybus 3A",
+                    "internalName": "Bybus 3A",
+                    "displayNumber": "3A",
+                    "num": "1419",
+                    "line": "3A",
+                    "lineId": "028_245_32_3A",
+                    "catOut": "Bybus",
+                    "catIn": "028",
+                    "catCode": "5",
+                    "cls": "32",
+                    "catOutS": "028",
+                    "catOutL": "Bybus",
+                    "operatorCode": "SYD",
+                    "operator": "Sydtrafik",
+                    "admin": "245_32",
+                    "routeIdxFrom": 0,
+                    "routeIdxTo": 27,
+                    "matchId": "18365"
+                }
+            ],
+            "Notes": {
+                "Note": [
+                    {
+                        "value": "Sydtrafik",
+                        "key": "PU",
+                        "type": "I",
+                        "routeIdxFrom": 0,
+                        "routeIdxTo": 27,
+                        "txtN": "Sydtrafik"
+                    },
+                    {
+                        "value": "2007",
+                        "key": "bp",
+                        "type": "I",
+                        "routeIdxFrom": 0,
+                        "routeIdxTo": 27,
+                        "txtN": "2007"
+                    },
+                    {
+                        "value": "FDAE00",
+                        "key": "CT",
+                        "type": "I",
+                        "routeIdxFrom": 0,
+                        "routeIdxTo": 27,
+                        "txtN": "FDAE00"
+                    },
+                    {
+                        "value": "18365",
+                        "key": "FD",
+                        "type": "I",
+                        "routeIdxFrom": 0,
+                        "routeIdxTo": 27,
+                        "txtN": "18365"
+                    },
+                    {
+                        "value": "Bybus 3A: Tur annulleret mellem Gr\u00f8nlandsparken v Sukkertoppen (Esbjerg) og Gjesing Nord, Thulevej (Esbjerg). Du bedes benytte en anden forbindelse.",
+                        "key": "text.realtime.journey.partially.cancelled.between",
+                        "type": "R",
+                        "txtN": "Bybus 3A: Tur annulleret mellem Gr\u00f8nlandsparken v Sukkertoppen (Esbjerg) og Gjesing Nord, Thulevej (Esbjerg). Du bedes benytte en anden forbindelse."
+                    },
+                    {
+                        "value": "3610",
+                        "key": "TN",
+                        "type": "I",
+                        "txtN": "3610"
+                    },
+                    {
+                        "value": "SYD",
+                        "key": "TP",
+                        "type": "I",
+                        "txtN": "SYD"
+                    },
+                    {
+                        "value": "ST 610",
+                        "key": "TR",
+                        "type": "I",
+                        "txtN": "ST 610"
+                    },
+                    {
+                        "value": "610",
+                        "key": "TW",
+                        "type": "I",
+                        "txtN": "610"
+                    },
+                    {
+                        "value": "60",
+                        "key": "en",
+                        "type": "I",
+                        "txtN": "60"
+                    },
+                    {
+                        "value": "50",
+                        "key": "ev",
+                        "type": "I",
+                        "txtN": "50"
+                    }
+                ]
+            },
+            "platform": {
+                "type": "PL",
+                "text": "A"
+            },
+            "name": "Bybus 3A",
+            "type": "ST",
+            "stop": "Esbjerg Busterminal",
+            "stopid": "A=1@O=Esbjerg Busterminal@X=8458742@Y=55469233@U=86@L=561100101@",
+            "stopExtId": "561100101",
+            "lon": 8.458742,
+            "lat": 55.469233,
+            "time": "18:48:00",
+            "date": "2024-11-27",
+            "track": "A",
+            "partCancelled": true,
+            "reachable": true,
+            "direction": "Gr\u00f8nlandsparken via Spangbjerg - Gjesing",
+            "directionFlag": "2"
+        },
+        {
+            "JourneyDetailRef": {
+                "ref": "2|#VN#1#ST#1732618831#PI#0#ZI#56027#TA#0#DA#271124#1S#561090331#1T#1816#LS#561071801#LT#1958#PU#86#RT#1#CA#028#ZE#12#ZB#Bybus 12#PC#5#FR#561090331#FT#1816#TO#561071801#TT#1958#"
+            },
+            "JourneyStatus": "P",
+            "ProductAtStop": {
+                "icon": {
+                    "res": "prod_bus"
+                },
+                "operatorInfo": {
+                    "name": "Sydtrafik",
+                    "nameS": "SYD",
+                    "nameN": "SYD",
+                    "nameL": "Sydtrafik"
+                },
+                "name": "Bybus 10",
+                "internalName": "Bybus 10",
+                "displayNumber": "10",
+                "num": "512",
+                "line": "10",
+                "lineId": "028_245_32_10",
+                "catOut": "Bybus",
+                "catIn": "028",
+                "catCode": "5",
+                "cls": "32",
+                "catOutS": "028",
+                "catOutL": "Bybus",
+                "operatorCode": "SYD",
+                "operator": "Sydtrafik",
+                "admin": "245_32",
+                "matchId": "17770"
+            },
+            "Product": [
+                {
+                    "icon": {
+                        "res": "prod_bus"
+                    },
+                    "operatorInfo": {
+                        "name": "Sydtrafik",
+                        "nameS": "SYD",
+                        "nameN": "SYD",
+                        "nameL": "Sydtrafik"
+                    },
+                    "name": "Bybus 10",
+                    "internalName": "Bybus 10",
+                    "displayNumber": "10",
+                    "num": "512",
+                    "line": "10",
+                    "lineId": "028_245_32_10",
+                    "catOut": "Bybus",
+                    "catIn": "028",
+                    "catCode": "5",
+                    "cls": "32",
+                    "catOutS": "028",
+                    "catOutL": "Bybus",
+                    "operatorCode": "SYD",
+                    "operator": "Sydtrafik",
+                    "admin": "245_32",
+                    "routeIdxFrom": 26,
+                    "routeIdxTo": 90,
+                    "matchId": "17770"
+                }
+            ],
+            "Notes": {
+                "Note": [
+                    {
+                        "value": "Sydtrafik",
+                        "key": "PU",
+                        "type": "I",
+                        "routeIdxFrom": 26,
+                        "routeIdxTo": 90,
+                        "txtN": "Sydtrafik"
+                    },
+                    {
+                        "value": "2007",
+                        "key": "bp",
+                        "type": "I",
+                        "routeIdxFrom": 26,
+                        "routeIdxTo": 90,
+                        "txtN": "2007"
+                    },
+                    {
+                        "value": "FDAE00",
+                        "key": "CT",
+                        "type": "I",
+                        "routeIdxFrom": 26,
+                        "routeIdxTo": 90,
+                        "txtN": "FDAE00"
+                    },
+                    {
+                        "value": "17770",
+                        "key": "FD",
+                        "type": "I",
+                        "routeIdxFrom": 26,
+                        "routeIdxTo": 90,
+                        "txtN": "17770"
+                    },
+                    {
+                        "value": "3610",
+                        "key": "TN",
+                        "type": "I",
+                        "txtN": "3610"
+                    },
+                    {
+                        "value": "SYD",
+                        "key": "TP",
+                        "type": "I",
+                        "txtN": "SYD"
+                    },
+                    {
+                        "value": "ST 610",
+                        "key": "TR",
+                        "type": "I",
+                        "txtN": "ST 610"
+                    },
+                    {
+                        "value": "610",
+                        "key": "TW",
+                        "type": "I",
+                        "txtN": "610"
+                    }
+                ]
+            },
+            "platform": {
+                "type": "PL",
+                "text": "B"
+            },
+            "name": "Bybus 10",
+            "type": "ST",
+            "stop": "Esbjerg Busterminal",
+            "stopid": "A=1@O=Esbjerg Busterminal@X=8458292@Y=55468748@U=86@L=561100102@",
+            "stopExtId": "561100102",
+            "lon": 8.458292,
+            "lat": 55.468748,
+            "prognosisType": "PROGNOSED",
+            "time": "18:48:00",
+            "date": "2024-11-27",
+            "track": "B",
+            "rtTime": "18:55:00",
+            "rtDate": "2024-11-27",
+            "reachable": true,
+            "direction": "Hjerting via \u00d8sterbyen - Gjesing",
+            "directionFlag": "1"
+        },
+        {
+            "JourneyDetailRef": {
+                "ref": "2|#VN#1#ST#1732618831#PI#0#ZI#32425#TA#9#DA#271124#1S#561030101#1T#1833#LS#561071802#LT#1924#PU#86#RT#1#CA#028#ZE#1A#ZB#Bybus 1A#PC#5#FR#561030101#FT#1833#TO#561071802#TT#1924#"
+            },
+            "JourneyStatus": "P",
+            "ProductAtStop": {
+                "icon": {
+                    "res": "prod_bus"
+                },
+                "operatorInfo": {
+                    "name": "Sydtrafik",
+                    "nameS": "SYD",
+                    "nameN": "SYD",
+                    "nameL": "Sydtrafik"
+                },
+                "name": "Bybus 1A",
+                "internalName": "Bybus 1A",
+                "displayNumber": "1A",
+                "num": "1144",
+                "line": "1A",
+                "lineId": "028_245_32_1A",
+                "catOut": "Bybus",
+                "catIn": "028",
+                "catCode": "5",
+                "cls": "32",
+                "catOutS": "028",
+                "catOutL": "Bybus",
+                "operatorCode": "SYD",
+                "operator": "Sydtrafik",
+                "admin": "245_32",
+                "matchId": "18925"
+            },
+            "Product": [
+                {
+                    "icon": {
+                        "res": "prod_bus"
+                    },
+                    "operatorInfo": {
+                        "name": "Sydtrafik",
+                        "nameS": "SYD",
+                        "nameN": "SYD",
+                        "nameL": "Sydtrafik"
+                    },
+                    "name": "Bybus 1A",
+                    "internalName": "Bybus 1A",
+                    "displayNumber": "1A",
+                    "num": "1144",
+                    "line": "1A",
+                    "lineId": "028_245_32_1A",
+                    "catOut": "Bybus",
+                    "catIn": "028",
+                    "catCode": "5",
+                    "cls": "32",
+                    "catOutS": "028",
+                    "catOutL": "Bybus",
+                    "operatorCode": "SYD",
+                    "operator": "Sydtrafik",
+                    "admin": "245_32",
+                    "routeIdxFrom": 13,
+                    "routeIdxTo": 45,
+                    "matchId": "18925"
+                }
+            ],
+            "Notes": {
+                "Note": [
+                    {
+                        "value": "Sydtrafik",
+                        "key": "PU",
+                        "type": "I",
+                        "routeIdxFrom": 13,
+                        "routeIdxTo": 45,
+                        "txtN": "Sydtrafik"
+                    },
+                    {
+                        "value": "2007",
+                        "key": "bp",
+                        "type": "I",
+                        "routeIdxFrom": 13,
+                        "routeIdxTo": 45,
+                        "txtN": "2007"
+                    },
+                    {
+                        "value": "FDAE00",
+                        "key": "CT",
+                        "type": "I",
+                        "routeIdxFrom": 13,
+                        "routeIdxTo": 45,
+                        "txtN": "FDAE00"
+                    },
+                    {
+                        "value": "18925",
+                        "key": "FD",
+                        "type": "I",
+                        "routeIdxFrom": 13,
+                        "routeIdxTo": 45,
+                        "txtN": "18925"
+                    },
+                    {
+                        "value": "3610",
+                        "key": "TN",
+                        "type": "I",
+                        "txtN": "3610"
+                    },
+                    {
+                        "value": "SYD",
+                        "key": "TP",
+                        "type": "I",
+                        "txtN": "SYD"
+                    },
+                    {
+                        "value": "ST 610",
+                        "key": "TR",
+                        "type": "I",
+                        "txtN": "ST 610"
+                    },
+                    {
+                        "value": "610",
+                        "key": "TW",
+                        "type": "I",
+                        "txtN": "610"
+                    }
+                ]
+            },
+            "platform": {
+                "type": "PL",
+                "text": "B"
+            },
+            "name": "Bybus 1A",
+            "type": "ST",
+            "stop": "Esbjerg Busterminal",
+            "stopid": "A=1@O=Esbjerg Busterminal@X=8458292@Y=55468748@U=86@L=561100102@",
+            "stopExtId": "561100102",
+            "lon": 8.458292,
+            "lat": 55.468748,
+            "prognosisType": "PROGNOSED",
+            "time": "18:51:00",
+            "date": "2024-11-27",
+            "track": "B",
+            "rtTime": "18:55:00",
+            "rtDate": "2024-11-27",
+            "reachable": true,
+            "direction": "Hjerting via S\u00e6dding",
+            "directionFlag": "2"
+        },
+        {
+            "JourneyDetailRef": {
+                "ref": "2|#VN#1#ST#1732618831#PI#0#ZI#55968#TA#4#DA#271124#1S#561022201#1T#1724#LS#561022201#LT#1915#PU#86#RT#1#CA#028#ZE#2A#ZB#Bybus 2A#PC#5#FR#561022201#FT#1724#TO#561022201#TT#1915#"
+            },
+            "JourneyStatus": "P",
+            "ProductAtStop": {
+                "icon": {
+                    "res": "prod_bus"
+                },
+                "operatorInfo": {
+                    "name": "Sydtrafik",
+                    "nameS": "SYD",
+                    "nameN": "SYD",
+                    "nameL": "Sydtrafik"
+                },
+                "name": "Bybus 2A",
+                "internalName": "Bybus 2A",
+                "displayNumber": "2A",
+                "num": "494",
+                "line": "2A",
+                "lineId": "028_245_32_2A",
+                "catOut": "Bybus",
+                "catIn": "028",
+                "catCode": "5",
+                "cls": "32",
+                "catOutS": "028",
+                "catOutL": "Bybus",
+                "operatorCode": "SYD",
+                "operator": "Sydtrafik",
+                "admin": "245_32",
+                "matchId": "18399"
+            },
+            "Product": [
+                {
+                    "icon": {
+                        "res": "prod_bus"
+                    },
+                    "operatorInfo": {
+                        "name": "Sydtrafik",
+                        "nameS": "SYD",
+                        "nameN": "SYD",
+                        "nameL": "Sydtrafik"
+                    },
+                    "name": "Bybus 2A",
+                    "internalName": "Bybus 2A",
+                    "displayNumber": "2A",
+                    "num": "494",
+                    "line": "2A",
+                    "lineId": "028_245_32_2A",
+                    "catOut": "Bybus",
+                    "catIn": "028",
+                    "catCode": "5",
+                    "cls": "32",
+                    "catOutS": "028",
+                    "catOutL": "Bybus",
+                    "operatorCode": "SYD",
+                    "operator": "Sydtrafik",
+                    "admin": "245_32",
+                    "routeIdxFrom": 73,
+                    "routeIdxTo": 88,
+                    "matchId": "18399"
+                }
+            ],
+            "Notes": {
+                "Note": [
+                    {
+                        "value": "Sydtrafik",
+                        "key": "PU",
+                        "type": "I",
+                        "routeIdxFrom": 73,
+                        "routeIdxTo": 88,
+                        "txtN": "Sydtrafik"
+                    },
+                    {
+                        "value": "2007",
+                        "key": "bp",
+                        "type": "I",
+                        "routeIdxFrom": 73,
+                        "routeIdxTo": 88,
+                        "txtN": "2007"
+                    },
+                    {
+                        "value": "FDAE00",
+                        "key": "CT",
+                        "type": "I",
+                        "routeIdxFrom": 73,
+                        "routeIdxTo": 88,
+                        "txtN": "FDAE00"
+                    },
+                    {
+                        "value": "18399",
+                        "key": "FD",
+                        "type": "I",
+                        "routeIdxFrom": 73,
+                        "routeIdxTo": 88,
+                        "txtN": "18399"
+                    },
+                    {
+                        "value": "3610",
+                        "key": "TN",
+                        "type": "I",
+                        "txtN": "3610"
+                    },
+                    {
+                        "value": "SYD",
+                        "key": "TP",
+                        "type": "I",
+                        "txtN": "SYD"
+                    },
+                    {
+                        "value": "ST 610",
+                        "key": "TR",
+                        "type": "I",
+                        "txtN": "ST 610"
+                    },
+                    {
+                        "value": "610",
+                        "key": "TW",
+                        "type": "I",
+                        "txtN": "610"
+                    }
+                ]
+            },
+            "platform": {
+                "type": "PL",
+                "text": "B"
+            },
+            "name": "Bybus 2A",
+            "type": "ST",
+            "stop": "Esbjerg Busterminal",
+            "stopid": "A=1@O=Esbjerg Busterminal@X=8458292@Y=55468748@U=86@L=561100102@",
+            "stopExtId": "561100102",
+            "lon": 8.458292,
+            "lat": 55.468748,
+            "time": "18:56:00",
+            "date": "2024-11-27",
+            "track": "B",
+            "reachable": true,
+            "direction": "Hedelund via Baggesens All\u00e9",
+            "directionFlag": "2"
+        },
+        {
+            "JourneyDetailRef": {
+                "ref": "2|#VN#1#ST#1732618831#PI#0#ZI#32388#TA#1#DA#271124#1S#561130401#1T#1836#LS#561000201#LT#1904#PU#86#RT#1#CA#028#ZE#11#ZB#Bybus 11#PC#5#FR#561130401#FT#1836#TO#561000201#TT#1904#"
+            },
+            "JourneyStatus": "P",
+            "ProductAtStop": {
+                "icon": {
+                    "res": "prod_bus"
+                },
+                "operatorInfo": {
+                    "name": "Sydtrafik",
+                    "nameS": "SYD",
+                    "nameN": "SYD",
+                    "nameL": "Sydtrafik"
+                },
+                "name": "Bybus 11",
+                "internalName": "Bybus 11",
+                "displayNumber": "11",
+                "num": "876",
+                "line": "11",
+                "lineId": "028_245_32_11",
+                "catOut": "Bybus",
+                "catIn": "028",
+                "catCode": "5",
+                "cls": "32",
+                "catOutS": "028",
+                "catOutL": "Bybus",
+                "operatorCode": "SYD",
+                "operator": "Sydtrafik",
+                "admin": "245_32",
+                "matchId": "17672"
+            },
+            "Product": [
+                {
+                    "icon": {
+                        "res": "prod_bus"
+                    },
+                    "operatorInfo": {
+                        "name": "Sydtrafik",
+                        "nameS": "SYD",
+                        "nameN": "SYD",
+                        "nameL": "Sydtrafik"
+                    },
+                    "name": "Bybus 11",
+                    "internalName": "Bybus 11",
+                    "displayNumber": "11",
+                    "num": "876",
+                    "line": "11",
+                    "lineId": "028_245_32_11",
+                    "catOut": "Bybus",
+                    "catIn": "028",
+                    "catCode": "5",
+                    "cls": "32",
+                    "catOutS": "028",
+                    "catOutL": "Bybus",
+                    "operatorCode": "SYD",
+                    "operator": "Sydtrafik",
+                    "admin": "245_32",
+                    "routeIdxFrom": 15,
+                    "routeIdxTo": 19,
+                    "matchId": "17672"
+                }
+            ],
+            "Notes": {
+                "Note": [
+                    {
+                        "value": "Sydtrafik",
+                        "key": "PU",
+                        "type": "I",
+                        "routeIdxFrom": 15,
+                        "routeIdxTo": 19,
+                        "txtN": "Sydtrafik"
+                    },
+                    {
+                        "value": "2007",
+                        "key": "bp",
+                        "type": "I",
+                        "routeIdxFrom": 15,
+                        "routeIdxTo": 19,
+                        "txtN": "2007"
+                    },
+                    {
+                        "value": "FDAE00",
+                        "key": "CT",
+                        "type": "I",
+                        "routeIdxFrom": 15,
+                        "routeIdxTo": 19,
+                        "txtN": "FDAE00"
+                    },
+                    {
+                        "value": "17672",
+                        "key": "FD",
+                        "type": "I",
+                        "routeIdxFrom": 15,
+                        "routeIdxTo": 19,
+                        "txtN": "17672"
+                    },
+                    {
+                        "value": "3610",
+                        "key": "TN",
+                        "type": "I",
+                        "txtN": "3610"
+                    },
+                    {
+                        "value": "SYD",
+                        "key": "TP",
+                        "type": "I",
+                        "txtN": "SYD"
+                    },
+                    {
+                        "value": "ST 610",
+                        "key": "TR",
+                        "type": "I",
+                        "txtN": "ST 610"
+                    },
+                    {
+                        "value": "610",
+                        "key": "TW",
+                        "type": "I",
+                        "txtN": "610"
+                    }
+                ]
+            },
+            "platform": {
+                "type": "PL",
+                "text": "B"
+            },
+            "name": "Bybus 11",
+            "type": "ST",
+            "stop": "Esbjerg Busterminal",
+            "stopid": "A=1@O=Esbjerg Busterminal@X=8458292@Y=55468748@U=86@L=561100102@",
+            "stopExtId": "561100102",
+            "lon": 8.458292,
+            "lat": 55.468748,
+            "prognosisType": "PROGNOSED",
+            "time": "18:57:00",
+            "date": "2024-11-27",
+            "track": "B",
+            "rtTime": "19:02:00",
+            "rtDate": "2024-11-27",
+            "reachable": true,
+            "direction": "Fan\u00f8f\u00e6rgen",
+            "directionFlag": "2"
+        },
+        {
+            "JourneyDetailRef": {
+                "ref": "2|#VN#1#ST#1732618831#PI#0#ZI#32412#TA#9#DA#271124#1S#561071802#1T#1826#LS#561030102#LT#1913#PU#86#RT#1#CA#028#ZE#1A#ZB#Bybus 1A#PC#5#FR#561071802#FT#1826#TO#561030102#TT#1913#"
+            },
+            "JourneyStatus": "P",
+            "ProductAtStop": {
+                "icon": {
+                    "res": "prod_bus"
+                },
+                "operatorInfo": {
+                    "name": "Sydtrafik",
+                    "nameS": "SYD",
+                    "nameN": "SYD",
+                    "nameL": "Sydtrafik"
+                },
+                "name": "Bybus 1A",
+                "internalName": "Bybus 1A",
+                "displayNumber": "1A",
+                "num": "1289",
+                "line": "1A",
+                "lineId": "028_245_32_1A",
+                "catOut": "Bybus",
+                "catIn": "028",
+                "catCode": "5",
+                "cls": "32",
+                "catOutS": "028",
+                "catOutL": "Bybus",
+                "operatorCode": "SYD",
+                "operator": "Sydtrafik",
+                "admin": "245_32",
+                "matchId": "18941"
+            },
+            "Product": [
+                {
+                    "icon": {
+                        "res": "prod_bus"
+                    },
+                    "operatorInfo": {
+                        "name": "Sydtrafik",
+                        "nameS": "SYD",
+                        "nameN": "SYD",
+                        "nameL": "Sydtrafik"
+                    },
+                    "name": "Bybus 1A",
+                    "internalName": "Bybus 1A",
+                    "displayNumber": "1A",
+                    "num": "1289",
+                    "line": "1A",
+                    "lineId": "028_245_32_1A",
+                    "catOut": "Bybus",
+                    "catIn": "028",
+                    "catCode": "5",
+                    "cls": "32",
+                    "catOutS": "028",
+                    "catOutL": "Bybus",
+                    "operatorCode": "SYD",
+                    "operator": "Sydtrafik",
+                    "admin": "245_32",
+                    "routeIdxFrom": 30,
+                    "routeIdxTo": 43,
+                    "matchId": "18941"
+                }
+            ],
+            "Notes": {
+                "Note": [
+                    {
+                        "value": "Sydtrafik",
+                        "key": "PU",
+                        "type": "I",
+                        "routeIdxFrom": 30,
+                        "routeIdxTo": 43,
+                        "txtN": "Sydtrafik"
+                    },
+                    {
+                        "value": "2007",
+                        "key": "bp",
+                        "type": "I",
+                        "routeIdxFrom": 30,
+                        "routeIdxTo": 43,
+                        "txtN": "2007"
+                    },
+                    {
+                        "value": "FDAE00",
+                        "key": "CT",
+                        "type": "I",
+                        "routeIdxFrom": 30,
+                        "routeIdxTo": 43,
+                        "txtN": "FDAE00"
+                    },
+                    {
+                        "value": "18941",
+                        "key": "FD",
+                        "type": "I",
+                        "routeIdxFrom": 30,
+                        "routeIdxTo": 43,
+                        "txtN": "18941"
+                    },
+                    {
+                        "value": "3610",
+                        "key": "TN",
+                        "type": "I",
+                        "txtN": "3610"
+                    },
+                    {
+                        "value": "SYD",
+                        "key": "TP",
+                        "type": "I",
+                        "txtN": "SYD"
+                    },
+                    {
+                        "value": "ST 610",
+                        "key": "TR",
+                        "type": "I",
+                        "txtN": "ST 610"
+                    },
+                    {
+                        "value": "610",
+                        "key": "TW",
+                        "type": "I",
+                        "txtN": "610"
+                    },
+                    {
+                        "value": "60",
+                        "key": "en",
+                        "type": "I",
+                        "txtN": "60"
+                    },
+                    {
+                        "value": "50",
+                        "key": "ev",
+                        "type": "I",
+                        "txtN": "50"
+                    }
+                ]
+            },
+            "platform": {
+                "type": "PL",
+                "text": "A"
+            },
+            "name": "Bybus 1A",
+            "type": "ST",
+            "stop": "Esbjerg Busterminal",
+            "stopid": "A=1@O=Esbjerg Busterminal@X=8458742@Y=55469233@U=86@L=561100101@",
+            "stopExtId": "561100101",
+            "lon": 8.458742,
+            "lat": 55.469233,
+            "time": "18:58:00",
+            "date": "2024-11-27",
+            "track": "A",
+            "reachable": true,
+            "direction": "Kvaglund via Jerne",
+            "directionFlag": "1"
+        },
+        {
+            "JourneyDetailRef": {
+                "ref": "2|#VN#1#ST#1732618831#PI#0#ZI#56062#TA#0#DA#271124#1S#561022201#1T#1839#LS#561022201#LT#2028#PU#86#RT#1#CA#028#ZE#2A#ZB#Bybus 2A#PC#5#FR#561022201#FT#1839#TO#561022201#TT#2028#"
+            },
+            "JourneyStatus": "P",
+            "ProductAtStop": {
+                "icon": {
+                    "res": "prod_bus"
+                },
+                "operatorInfo": {
+                    "name": "Sydtrafik",
+                    "nameS": "SYD",
+                    "nameN": "SYD",
+                    "nameL": "Sydtrafik"
+                },
+                "name": "Bybus 2A",
+                "internalName": "Bybus 2A",
+                "displayNumber": "2A",
+                "num": "539",
+                "line": "2A",
+                "lineId": "028_245_32_2A",
+                "catOut": "Bybus",
+                "catIn": "028",
+                "catCode": "5",
+                "cls": "32",
+                "catOutS": "028",
+                "catOutL": "Bybus",
+                "operatorCode": "SYD",
+                "operator": "Sydtrafik",
+                "admin": "245_32",
+                "matchId": "18575"
+            },
+            "Product": [
+                {
+                    "icon": {
+                        "res": "prod_bus"
+                    },
+                    "operatorInfo": {
+                        "name": "Sydtrafik",
+                        "nameS": "SYD",
+                        "nameN": "SYD",
+                        "nameL": "Sydtrafik"
+                    },
+                    "name": "Bybus 2A",
+                    "internalName": "Bybus 2A",
+                    "displayNumber": "2A",
+                    "num": "539",
+                    "line": "2A",
+                    "lineId": "028_245_32_2A",
+                    "catOut": "Bybus",
+                    "catIn": "028",
+                    "catCode": "5",
+                    "cls": "32",
+                    "catOutS": "028",
+                    "catOutL": "Bybus",
+                    "operatorCode": "SYD",
+                    "operator": "Sydtrafik",
+                    "admin": "245_32",
+                    "routeIdxFrom": 14,
+                    "routeIdxTo": 88,
+                    "matchId": "18575"
+                }
+            ],
+            "Notes": {
+                "Note": [
+                    {
+                        "value": "Sydtrafik",
+                        "key": "PU",
+                        "type": "I",
+                        "routeIdxFrom": 14,
+                        "routeIdxTo": 88,
+                        "txtN": "Sydtrafik"
+                    },
+                    {
+                        "value": "2007",
+                        "key": "bp",
+                        "type": "I",
+                        "routeIdxFrom": 14,
+                        "routeIdxTo": 88,
+                        "txtN": "2007"
+                    },
+                    {
+                        "value": "FDAE00",
+                        "key": "CT",
+                        "type": "I",
+                        "routeIdxFrom": 14,
+                        "routeIdxTo": 88,
+                        "txtN": "FDAE00"
+                    },
+                    {
+                        "value": "18575",
+                        "key": "FD",
+                        "type": "I",
+                        "routeIdxFrom": 14,
+                        "routeIdxTo": 88,
+                        "txtN": "18575"
+                    },
+                    {
+                        "value": "3610",
+                        "key": "TN",
+                        "type": "I",
+                        "txtN": "3610"
+                    },
+                    {
+                        "value": "SYD",
+                        "key": "TP",
+                        "type": "I",
+                        "txtN": "SYD"
+                    },
+                    {
+                        "value": "ST 610",
+                        "key": "TR",
+                        "type": "I",
+                        "txtN": "ST 610"
+                    },
+                    {
+                        "value": "610",
+                        "key": "TW",
+                        "type": "I",
+                        "txtN": "610"
+                    },
+                    {
+                        "value": "60",
+                        "key": "en",
+                        "type": "I",
+                        "txtN": "60"
+                    },
+                    {
+                        "value": "50",
+                        "key": "ev",
+                        "type": "I",
+                        "txtN": "50"
+                    }
+                ]
+            },
+            "platform": {
+                "type": "PL",
+                "text": "A"
+            },
+            "name": "Bybus 2A",
+            "type": "ST",
+            "stop": "Esbjerg Busterminal",
+            "stopid": "A=1@O=Esbjerg Busterminal@X=8458742@Y=55469233@U=86@L=561100101@",
+            "stopExtId": "561100101",
+            "lon": 8.458742,
+            "lat": 55.469233,
+            "time": "18:59:00",
+            "date": "2024-11-27",
+            "track": "A",
+            "reachable": true,
+            "direction": "Guldager via S\u00e6dding - S\u00f8nderris",
+            "directionFlag": "1"
+        },
+        {
+            "JourneyDetailRef": {
+                "ref": "2|#VN#1#ST#1732618831#PI#0#ZI#55930#TA#1#DA#271124#1S#561131001#1T#1609#LS#561090331#LT#1930#PU#86#RT#1#CA#028#ZE#12#ZB#Bybus 12#PC#5#FR#561131001#FT#1609#TO#561090331#TT#1930#"
+            },
+            "JourneyStatus": "P",
+            "ProductAtStop": {
+                "icon": {
+                    "res": "prod_bus"
+                },
+                "operatorInfo": {
+                    "name": "Sydtrafik",
+                    "nameS": "SYD",
+                    "nameN": "SYD",
+                    "nameL": "Sydtrafik"
+                },
+                "name": "Bybus 12",
+                "internalName": "Bybus 12",
+                "displayNumber": "12",
+                "num": "519",
+                "line": "12",
+                "lineId": "028_245_32_12",
+                "catOut": "Bybus",
+                "catIn": "028",
+                "catCode": "5",
+                "cls": "32",
+                "catOutS": "028",
+                "catOutL": "Bybus",
+                "operatorCode": "SYD",
+                "operator": "Sydtrafik",
+                "admin": "245_32",
+                "matchId": "17325"
+            },
+            "Product": [
+                {
+                    "icon": {
+                        "res": "prod_bus"
+                    },
+                    "operatorInfo": {
+                        "name": "Sydtrafik",
+                        "nameS": "SYD",
+                        "nameN": "SYD",
+                        "nameL": "Sydtrafik"
+                    },
+                    "name": "Bybus 12",
+                    "internalName": "Bybus 12",
+                    "displayNumber": "12",
+                    "num": "519",
+                    "line": "12",
+                    "lineId": "028_245_32_12",
+                    "catOut": "Bybus",
+                    "catIn": "028",
+                    "catCode": "5",
+                    "cls": "32",
+                    "catOutS": "028",
+                    "catOutL": "Bybus",
+                    "operatorCode": "SYD",
+                    "operator": "Sydtrafik",
+                    "admin": "245_32",
+                    "routeIdxFrom": 147,
+                    "routeIdxTo": 173,
+                    "matchId": "17325"
+                }
+            ],
+            "Notes": {
+                "Note": [
+                    {
+                        "value": "Sydtrafik",
+                        "key": "PU",
+                        "type": "I",
+                        "routeIdxFrom": 147,
+                        "routeIdxTo": 173,
+                        "txtN": "Sydtrafik"
+                    },
+                    {
+                        "value": "2007",
+                        "key": "bp",
+                        "type": "I",
+                        "routeIdxFrom": 147,
+                        "routeIdxTo": 173,
+                        "txtN": "2007"
+                    },
+                    {
+                        "value": "FDAE00",
+                        "key": "CT",
+                        "type": "I",
+                        "routeIdxFrom": 147,
+                        "routeIdxTo": 173,
+                        "txtN": "FDAE00"
+                    },
+                    {
+                        "value": "17325",
+                        "key": "FD",
+                        "type": "I",
+                        "routeIdxFrom": 147,
+                        "routeIdxTo": 173,
+                        "txtN": "17325"
+                    },
+                    {
+                        "value": "3610",
+                        "key": "TN",
+                        "type": "I",
+                        "txtN": "3610"
+                    },
+                    {
+                        "value": "SYD",
+                        "key": "TP",
+                        "type": "I",
+                        "txtN": "SYD"
+                    },
+                    {
+                        "value": "ST 610",
+                        "key": "TR",
+                        "type": "I",
+                        "txtN": "ST 610"
+                    },
+                    {
+                        "value": "610",
+                        "key": "TW",
+                        "type": "I",
+                        "txtN": "610"
+                    }
+                ]
+            },
+            "platform": {
+                "type": "PL",
+                "text": "B"
+            },
+            "name": "Bybus 12",
+            "type": "ST",
+            "stop": "Esbjerg Busterminal",
+            "stopid": "A=1@O=Esbjerg Busterminal@X=8458292@Y=55468748@U=86@L=561100102@",
+            "stopExtId": "561100102",
+            "lon": 8.458292,
+            "lat": 55.468748,
+            "time": "19:02:00",
+            "date": "2024-11-27",
+            "track": "B",
+            "reachable": true,
+            "direction": "Tarp via Skolegade - Gjesing",
+            "directionFlag": "1"
+        },
+        {
+            "JourneyDetailRef": {
+                "ref": "2|#VN#1#ST#1732618831#PI#0#ZI#32483#TA#10#DA#271124#1S#561100101#1T#1903#LS#561044101#LT#1931#PU#86#RT#1#CA#028#ZE#3A#ZB#Bybus 3A#PC#5#FR#561100101#FT#1903#TO#561044101#TT#1931#"
+            },
+            "JourneyStatus": "P",
+            "ProductAtStop": {
+                "icon": {
+                    "res": "prod_bus"
+                },
+                "operatorInfo": {
+                    "name": "Sydtrafik",
+                    "nameS": "SYD",
+                    "nameN": "SYD",
+                    "nameL": "Sydtrafik"
+                },
+                "name": "Bybus 3A",
+                "internalName": "Bybus 3A",
+                "displayNumber": "3A",
+                "num": "1426",
+                "line": "3A",
+                "lineId": "028_245_32_3A",
+                "catOut": "Bybus",
+                "catIn": "028",
+                "catCode": "5",
+                "cls": "32",
+                "catOutS": "028",
+                "catOutL": "Bybus",
+                "operatorCode": "SYD",
+                "operator": "Sydtrafik",
+                "admin": "245_32",
+                "matchId": "17984"
+            },
+            "Product": [
+                {
+                    "icon": {
+                        "res": "prod_bus"
+                    },
+                    "operatorInfo": {
+                        "name": "Sydtrafik",
+                        "nameS": "SYD",
+                        "nameN": "SYD",
+                        "nameL": "Sydtrafik"
+                    },
+                    "name": "Bybus 3A",
+                    "internalName": "Bybus 3A",
+                    "displayNumber": "3A",
+                    "num": "1426",
+                    "line": "3A",
+                    "lineId": "028_245_32_3A",
+                    "catOut": "Bybus",
+                    "catIn": "028",
+                    "catCode": "5",
+                    "cls": "32",
+                    "catOutS": "028",
+                    "catOutL": "Bybus",
+                    "operatorCode": "SYD",
+                    "operator": "Sydtrafik",
+                    "admin": "245_32",
+                    "routeIdxFrom": 0,
+                    "routeIdxTo": 27,
+                    "matchId": "17984"
+                }
+            ],
+            "Notes": {
+                "Note": [
+                    {
+                        "value": "Sydtrafik",
+                        "key": "PU",
+                        "type": "I",
+                        "routeIdxFrom": 0,
+                        "routeIdxTo": 27,
+                        "txtN": "Sydtrafik"
+                    },
+                    {
+                        "value": "2007",
+                        "key": "bp",
+                        "type": "I",
+                        "routeIdxFrom": 0,
+                        "routeIdxTo": 27,
+                        "txtN": "2007"
+                    },
+                    {
+                        "value": "FDAE00",
+                        "key": "CT",
+                        "type": "I",
+                        "routeIdxFrom": 0,
+                        "routeIdxTo": 27,
+                        "txtN": "FDAE00"
+                    },
+                    {
+                        "value": "17984",
+                        "key": "FD",
+                        "type": "I",
+                        "routeIdxFrom": 0,
+                        "routeIdxTo": 27,
+                        "txtN": "17984"
+                    },
+                    {
+                        "value": "Bybus 3A: Tur annulleret mellem Gr\u00f8nlandsparken v Sukkertoppen (Esbjerg) og Gjesing Nord, Thulevej (Esbjerg). Du bedes benytte en anden forbindelse.",
+                        "key": "text.realtime.journey.partially.cancelled.between",
+                        "type": "R",
+                        "txtN": "Bybus 3A: Tur annulleret mellem Gr\u00f8nlandsparken v Sukkertoppen (Esbjerg) og Gjesing Nord, Thulevej (Esbjerg). Du bedes benytte en anden forbindelse."
+                    },
+                    {
+                        "value": "3610",
+                        "key": "TN",
+                        "type": "I",
+                        "txtN": "3610"
+                    },
+                    {
+                        "value": "SYD",
+                        "key": "TP",
+                        "type": "I",
+                        "txtN": "SYD"
+                    },
+                    {
+                        "value": "ST 610",
+                        "key": "TR",
+                        "type": "I",
+                        "txtN": "ST 610"
+                    },
+                    {
+                        "value": "610",
+                        "key": "TW",
+                        "type": "I",
+                        "txtN": "610"
+                    },
+                    {
+                        "value": "60",
+                        "key": "en",
+                        "type": "I",
+                        "txtN": "60"
+                    },
+                    {
+                        "value": "50",
+                        "key": "ev",
+                        "type": "I",
+                        "txtN": "50"
+                    }
+                ]
+            },
+            "platform": {
+                "type": "PL",
+                "text": "A"
+            },
+            "name": "Bybus 3A",
+            "type": "ST",
+            "stop": "Esbjerg Busterminal",
+            "stopid": "A=1@O=Esbjerg Busterminal@X=8458742@Y=55469233@U=86@L=561100101@",
+            "stopExtId": "561100101",
+            "lon": 8.458742,
+            "lat": 55.469233,
+            "time": "19:03:00",
+            "date": "2024-11-27",
+            "track": "A",
+            "partCancelled": true,
+            "reachable": true,
+            "direction": "Gr\u00f8nlandsparken via Spangbjerg - Gjesing",
+            "directionFlag": "2"
+        },
+        {
+            "JourneyDetailRef": {
+                "ref": "2|#VN#1#ST#1732618831#PI#0#ZI#32425#TA#10#DA#271124#1S#561030101#1T#1848#LS#561071802#LT#1939#PU#86#RT#1#CA#028#ZE#1A#ZB#Bybus 1A#PC#5#FR#561030101#FT#1848#TO#561071802#TT#1939#"
+            },
+            "JourneyStatus": "P",
+            "ProductAtStop": {
+                "icon": {
+                    "res": "prod_bus"
+                },
+                "operatorInfo": {
+                    "name": "Sydtrafik",
+                    "nameS": "SYD",
+                    "nameN": "SYD",
+                    "nameL": "Sydtrafik"
+                },
+                "name": "Bybus 1A",
+                "internalName": "Bybus 1A",
+                "displayNumber": "1A",
+                "num": "1126",
+                "line": "1A",
+                "lineId": "028_245_32_1A",
+                "catOut": "Bybus",
+                "catIn": "028",
+                "catCode": "5",
+                "cls": "32",
+                "catOutS": "028",
+                "catOutL": "Bybus",
+                "operatorCode": "SYD",
+                "operator": "Sydtrafik",
+                "admin": "245_32",
+                "matchId": "19074"
+            },
+            "Product": [
+                {
+                    "icon": {
+                        "res": "prod_bus"
+                    },
+                    "operatorInfo": {
+                        "name": "Sydtrafik",
+                        "nameS": "SYD",
+                        "nameN": "SYD",
+                        "nameL": "Sydtrafik"
+                    },
+                    "name": "Bybus 1A",
+                    "internalName": "Bybus 1A",
+                    "displayNumber": "1A",
+                    "num": "1126",
+                    "line": "1A",
+                    "lineId": "028_245_32_1A",
+                    "catOut": "Bybus",
+                    "catIn": "028",
+                    "catCode": "5",
+                    "cls": "32",
+                    "catOutS": "028",
+                    "catOutL": "Bybus",
+                    "operatorCode": "SYD",
+                    "operator": "Sydtrafik",
+                    "admin": "245_32",
+                    "routeIdxFrom": 13,
+                    "routeIdxTo": 45,
+                    "matchId": "19074"
+                }
+            ],
+            "Notes": {
+                "Note": [
+                    {
+                        "value": "Sydtrafik",
+                        "key": "PU",
+                        "type": "I",
+                        "routeIdxFrom": 13,
+                        "routeIdxTo": 45,
+                        "txtN": "Sydtrafik"
+                    },
+                    {
+                        "value": "2007",
+                        "key": "bp",
+                        "type": "I",
+                        "routeIdxFrom": 13,
+                        "routeIdxTo": 45,
+                        "txtN": "2007"
+                    },
+                    {
+                        "value": "FDAE00",
+                        "key": "CT",
+                        "type": "I",
+                        "routeIdxFrom": 13,
+                        "routeIdxTo": 45,
+                        "txtN": "FDAE00"
+                    },
+                    {
+                        "value": "19074",
+                        "key": "FD",
+                        "type": "I",
+                        "routeIdxFrom": 13,
+                        "routeIdxTo": 45,
+                        "txtN": "19074"
+                    },
+                    {
+                        "value": "3610",
+                        "key": "TN",
+                        "type": "I",
+                        "txtN": "3610"
+                    },
+                    {
+                        "value": "SYD",
+                        "key": "TP",
+                        "type": "I",
+                        "txtN": "SYD"
+                    },
+                    {
+                        "value": "ST 610",
+                        "key": "TR",
+                        "type": "I",
+                        "txtN": "ST 610"
+                    },
+                    {
+                        "value": "610",
+                        "key": "TW",
+                        "type": "I",
+                        "txtN": "610"
+                    }
+                ]
+            },
+            "platform": {
+                "type": "PL",
+                "text": "B"
+            },
+            "name": "Bybus 1A",
+            "type": "ST",
+            "stop": "Esbjerg Busterminal",
+            "stopid": "A=1@O=Esbjerg Busterminal@X=8458292@Y=55468748@U=86@L=561100102@",
+            "stopExtId": "561100102",
+            "lon": 8.458292,
+            "lat": 55.468748,
+            "time": "19:06:00",
+            "date": "2024-11-27",
+            "track": "B",
+            "reachable": true,
+            "direction": "Hjerting via S\u00e6dding",
+            "directionFlag": "2"
+        },
+        {
+            "JourneyDetailRef": {
+                "ref": "2|#VN#1#ST#1732618831#PI#0#ZI#55934#TA#0#DA#271124#1S#561000103#1T#1910#LS#561000103#LT#2129#PU#86#RT#1#CA#023#ZE#944X#ZB#X Bus 944X#PC#6#FR#561000103#FT#1910#TO#561000103#TT#2129#"
+            },
+            "JourneyStatus": "P",
+            "ProductAtStop": {
+                "icon": {
+                    "res": "prod_bus"
+                },
+                "operatorInfo": {
+                    "name": "Sydtrafik",
+                    "nameS": "SYD",
+                    "nameN": "SYD",
+                    "nameL": "Sydtrafik"
+                },
+                "name": "X Bus 944X",
+                "internalName": "X Bus 944X",
+                "displayNumber": "944X",
+                "num": "419",
+                "line": "944X",
+                "lineId": "023_245_36_944X",
+                "catOut": "X Bus",
+                "catIn": "023",
+                "catCode": "6",
+                "cls": "64",
+                "catOutS": "023",
+                "catOutL": "X Bus",
+                "operatorCode": "SYD",
+                "operator": "Sydtrafik",
+                "admin": "245_36",
+                "matchId": "3973"
+            },
+            "Product": [
+                {
+                    "icon": {
+                        "res": "prod_bus"
+                    },
+                    "operatorInfo": {
+                        "name": "Sydtrafik",
+                        "nameS": "SYD",
+                        "nameN": "SYD",
+                        "nameL": "Sydtrafik"
+                    },
+                    "name": "X Bus 944X",
+                    "internalName": "X Bus 944X",
+                    "displayNumber": "944X",
+                    "num": "419",
+                    "line": "944X",
+                    "lineId": "023_245_36_944X",
+                    "catOut": "X Bus",
+                    "catIn": "023",
+                    "catCode": "6",
+                    "cls": "64",
+                    "catOutS": "023",
+                    "catOutL": "X Bus",
+                    "operatorCode": "SYD",
+                    "operator": "Sydtrafik",
+                    "admin": "245_36",
+                    "routeIdxFrom": 0,
+                    "routeIdxTo": 22,
+                    "matchId": "3973"
+                }
+            ],
+            "Notes": {
+                "Note": [
+                    {
+                        "value": "Sydtrafik",
+                        "key": "PU",
+                        "type": "I",
+                        "routeIdxFrom": 0,
+                        "routeIdxTo": 22,
+                        "txtN": "Sydtrafik"
+                    },
+                    {
+                        "value": "2007",
+                        "key": "bp",
+                        "type": "I",
+                        "routeIdxFrom": 0,
+                        "routeIdxTo": 22,
+                        "txtN": "2007"
+                    },
+                    {
+                        "value": "007AC2",
+                        "key": "CT",
+                        "type": "I",
+                        "routeIdxFrom": 0,
+                        "routeIdxTo": 22,
+                        "txtN": "007AC2"
+                    },
+                    {
+                        "value": "3973",
+                        "key": "FD",
+                        "type": "I",
+                        "routeIdxFrom": 0,
+                        "routeIdxTo": 22,
+                        "txtN": "3973"
+                    },
+                    {
+                        "value": "3610",
+                        "key": "TN",
+                        "type": "I",
+                        "txtN": "3610"
+                    },
+                    {
+                        "value": "SYD",
+                        "key": "TP",
+                        "type": "I",
+                        "txtN": "SYD"
+                    },
+                    {
+                        "value": "ST 610",
+                        "key": "TR",
+                        "type": "I",
+                        "txtN": "ST 610"
+                    },
+                    {
+                        "value": "610",
+                        "key": "TW",
+                        "type": "I",
+                        "txtN": "610"
+                    }
+                ]
+            },
+            "platform": {
+                "type": "PL",
+                "text": "E"
+            },
+            "name": "X Bus 944X",
+            "type": "ST",
+            "stop": "Esbjerg Busterminal",
+            "stopid": "A=1@O=Esbjerg Busterminal@X=8459299@Y=55470159@U=86@L=561000103@",
+            "stopExtId": "561000103",
+            "lon": 8.459299,
+            "lat": 55.470159,
+            "time": "19:10:00",
+            "date": "2024-11-27",
+            "track": "E",
+            "reachable": true,
+            "direction": "Grindsted - Billund",
+            "directionFlag": "1"
+        },
+        {
+            "JourneyDetailRef": {
+                "ref": "2|#VN#1#ST#1732618831#PI#0#ZI#57535#TA#0#DA#271124#1S#8604725#1T#1756#LS#8600432#LT#2032#PU#86#RT#1#CA#005#ZE#005#ZB#Lokalbane 005#PC#3#FR#8604725#FT#1756#TO#8600432#TT#2032#"
+            },
+            "JourneyStatus": "P",
+            "ProductAtStop": {
+                "icon": {
+                    "res": "prod_ic"
+                },
+                "operatorInfo": {
+                    "name": "GoCollective",
+                    "nameS": "GoC",
+                    "nameN": "GoC",
+                    "nameL": "GoCollective"
+                },
+                "name": "RA 5075",
+                "internalName": "RA 5075",
+                "displayNumber": "5075",
+                "num": "5075",
+                "catOut": "RA",
+                "catIn": "030",
+                "catCode": "2",
+                "cls": "4",
+                "catOutS": "030",
+                "catOutL": "RA",
+                "operatorCode": "GoC",
+                "operator": "GoCollective",
+                "admin": "000087",
+                "matchId": "5075"
+            },
+            "Product": [
+                {
+                    "icon": {
+                        "res": "prod_ic"
+                    },
+                    "operatorInfo": {
+                        "name": "GoCollective",
+                        "nameS": "GoC",
+                        "nameN": "GoC",
+                        "nameL": "GoCollective"
+                    },
+                    "name": "RA 5075",
+                    "internalName": "RA 5075",
+                    "displayNumber": "5075",
+                    "num": "5075",
+                    "catOut": "RA",
+                    "catIn": "030",
+                    "catCode": "2",
+                    "cls": "4",
+                    "catOutS": "030",
+                    "catOutL": "RA",
+                    "operatorCode": "GoC",
+                    "operator": "GoCollective",
+                    "admin": "000087",
+                    "routeIdxFrom": 21,
+                    "routeIdxTo": 37,
+                    "matchId": "5075"
+                }
+            ],
+            "Notes": {
+                "Note": [
+                    {
+                        "value": "Mulighed for internet",
+                        "key": "TD",
+                        "type": "A",
+                        "priority": 200,
+                        "routeIdxFrom": 21,
+                        "routeIdxTo": 37,
+                        "txtN": "Mulighed for internet"
+                    },
+                    {
+                        "value": "6938a1",
+                        "key": "CT",
+                        "type": "I",
+                        "routeIdxFrom": 21,
+                        "routeIdxTo": 37,
+                        "txtN": "6938a1"
+                    },
+                    {
+                        "value": "ffffff",
+                        "key": "CF",
+                        "type": "I",
+                        "routeIdxFrom": 21,
+                        "routeIdxTo": 37,
+                        "txtN": "ffffff"
+                    },
+                    {
+                        "key": "FB",
+                        "type": "A"
+                    },
+                    {
+                        "value": "3610",
+                        "key": "TN",
+                        "type": "I",
+                        "txtN": "3610"
+                    },
+                    {
+                        "value": "SYD",
+                        "key": "TP",
+                        "type": "I",
+                        "txtN": "SYD"
+                    },
+                    {
+                        "value": "ST 610",
+                        "key": "TR",
+                        "type": "I",
+                        "txtN": "ST 610"
+                    },
+                    {
+                        "value": "610",
+                        "key": "TW",
+                        "type": "I",
+                        "txtN": "610"
+                    }
+                ]
+            },
+            "rtPlatform": {
+                "type": "PL",
+                "text": "0"
+            },
+            "name": "RA 5075",
+            "type": "ST",
+            "stop": "Esbjerg St.",
+            "stopid": "A=1@O=Esbjerg St.@X=8458193@Y=55467920@U=86@L=8600215@",
+            "stopExtId": "8600215",
+            "lon": 8.458193,
+            "lat": 55.46792,
+            "isMainMast": true,
+            "prognosisType": "PROGNOSED",
+            "time": "19:10:00",
+            "date": "2024-11-27",
+            "rtTrack": "0",
+            "reachable": true,
+            "direction": "T\u00f8nder St.",
+            "directionFlag": "1"
+        },
+        {
+            "JourneyDetailRef": {
+                "ref": "2|#VN#1#ST#1732618831#PI#0#ZI#55968#TA#5#DA#271124#1S#561022201#1T#1739#LS#561022201#LT#1930#PU#86#RT#1#CA#028#ZE#2A#ZB#Bybus 2A#PC#5#FR#561022201#FT#1739#TO#561022201#TT#1930#"
+            },
+            "JourneyStatus": "P",
+            "ProductAtStop": {
+                "icon": {
+                    "res": "prod_bus"
+                },
+                "operatorInfo": {
+                    "name": "Sydtrafik",
+                    "nameS": "SYD",
+                    "nameN": "SYD",
+                    "nameL": "Sydtrafik"
+                },
+                "name": "Bybus 2A",
+                "internalName": "Bybus 2A",
+                "displayNumber": "2A",
+                "num": "502",
+                "line": "2A",
+                "lineId": "028_245_32_2A",
+                "catOut": "Bybus",
+                "catIn": "028",
+                "catCode": "5",
+                "cls": "32",
+                "catOutS": "028",
+                "catOutL": "Bybus",
+                "operatorCode": "SYD",
+                "operator": "Sydtrafik",
+                "admin": "245_32",
+                "matchId": "18681"
+            },
+            "Product": [
+                {
+                    "icon": {
+                        "res": "prod_bus"
+                    },
+                    "operatorInfo": {
+                        "name": "Sydtrafik",
+                        "nameS": "SYD",
+                        "nameN": "SYD",
+                        "nameL": "Sydtrafik"
+                    },
+                    "name": "Bybus 2A",
+                    "internalName": "Bybus 2A",
+                    "displayNumber": "2A",
+                    "num": "502",
+                    "line": "2A",
+                    "lineId": "028_245_32_2A",
+                    "catOut": "Bybus",
+                    "catIn": "028",
+                    "catCode": "5",
+                    "cls": "32",
+                    "catOutS": "028",
+                    "catOutL": "Bybus",
+                    "operatorCode": "SYD",
+                    "operator": "Sydtrafik",
+                    "admin": "245_32",
+                    "routeIdxFrom": 73,
+                    "routeIdxTo": 88,
+                    "matchId": "18681"
+                }
+            ],
+            "Notes": {
+                "Note": [
+                    {
+                        "value": "Sydtrafik",
+                        "key": "PU",
+                        "type": "I",
+                        "routeIdxFrom": 73,
+                        "routeIdxTo": 88,
+                        "txtN": "Sydtrafik"
+                    },
+                    {
+                        "value": "2007",
+                        "key": "bp",
+                        "type": "I",
+                        "routeIdxFrom": 73,
+                        "routeIdxTo": 88,
+                        "txtN": "2007"
+                    },
+                    {
+                        "value": "FDAE00",
+                        "key": "CT",
+                        "type": "I",
+                        "routeIdxFrom": 73,
+                        "routeIdxTo": 88,
+                        "txtN": "FDAE00"
+                    },
+                    {
+                        "value": "18681",
+                        "key": "FD",
+                        "type": "I",
+                        "routeIdxFrom": 73,
+                        "routeIdxTo": 88,
+                        "txtN": "18681"
+                    },
+                    {
+                        "value": "3610",
+                        "key": "TN",
+                        "type": "I",
+                        "txtN": "3610"
+                    },
+                    {
+                        "value": "SYD",
+                        "key": "TP",
+                        "type": "I",
+                        "txtN": "SYD"
+                    },
+                    {
+                        "value": "ST 610",
+                        "key": "TR",
+                        "type": "I",
+                        "txtN": "ST 610"
+                    },
+                    {
+                        "value": "610",
+                        "key": "TW",
+                        "type": "I",
+                        "txtN": "610"
+                    }
+                ]
+            },
+            "platform": {
+                "type": "PL",
+                "text": "B"
+            },
+            "name": "Bybus 2A",
+            "type": "ST",
+            "stop": "Esbjerg Busterminal",
+            "stopid": "A=1@O=Esbjerg Busterminal@X=8458292@Y=55468748@U=86@L=561100102@",
+            "stopExtId": "561100102",
+            "lon": 8.458292,
+            "lat": 55.468748,
+            "time": "19:11:00",
+            "date": "2024-11-27",
+            "track": "B",
+            "reachable": true,
+            "direction": "Hedelund via Baggesens All\u00e9",
+            "directionFlag": "2"
+        },
+        {
+            "JourneyDetailRef": {
+                "ref": "2|#VN#1#ST#1732618831#PI#0#ZI#32412#TA#10#DA#271124#1S#561071802#1T#1841#LS#561030102#LT#1928#PU#86#RT#1#CA#028#ZE#1A#ZB#Bybus 1A#PC#5#FR#561071802#FT#1841#TO#561030102#TT#1928#"
+            },
+            "JourneyStatus": "P",
+            "ProductAtStop": {
+                "icon": {
+                    "res": "prod_bus"
+                },
+                "operatorInfo": {
+                    "name": "Sydtrafik",
+                    "nameS": "SYD",
+                    "nameN": "SYD",
+                    "nameL": "Sydtrafik"
+                },
+                "name": "Bybus 1A",
+                "internalName": "Bybus 1A",
+                "displayNumber": "1A",
+                "num": "1299",
+                "line": "1A",
+                "lineId": "028_245_32_1A",
+                "catOut": "Bybus",
+                "catIn": "028",
+                "catCode": "5",
+                "cls": "32",
+                "catOutS": "028",
+                "catOutL": "Bybus",
+                "operatorCode": "SYD",
+                "operator": "Sydtrafik",
+                "admin": "245_32",
+                "matchId": "18806"
+            },
+            "Product": [
+                {
+                    "icon": {
+                        "res": "prod_bus"
+                    },
+                    "operatorInfo": {
+                        "name": "Sydtrafik",
+                        "nameS": "SYD",
+                        "nameN": "SYD",
+                        "nameL": "Sydtrafik"
+                    },
+                    "name": "Bybus 1A",
+                    "internalName": "Bybus 1A",
+                    "displayNumber": "1A",
+                    "num": "1299",
+                    "line": "1A",
+                    "lineId": "028_245_32_1A",
+                    "catOut": "Bybus",
+                    "catIn": "028",
+                    "catCode": "5",
+                    "cls": "32",
+                    "catOutS": "028",
+                    "catOutL": "Bybus",
+                    "operatorCode": "SYD",
+                    "operator": "Sydtrafik",
+                    "admin": "245_32",
+                    "routeIdxFrom": 30,
+                    "routeIdxTo": 43,
+                    "matchId": "18806"
+                }
+            ],
+            "Notes": {
+                "Note": [
+                    {
+                        "value": "Sydtrafik",
+                        "key": "PU",
+                        "type": "I",
+                        "routeIdxFrom": 30,
+                        "routeIdxTo": 43,
+                        "txtN": "Sydtrafik"
+                    },
+                    {
+                        "value": "2007",
+                        "key": "bp",
+                        "type": "I",
+                        "routeIdxFrom": 30,
+                        "routeIdxTo": 43,
+                        "txtN": "2007"
+                    },
+                    {
+                        "value": "FDAE00",
+                        "key": "CT",
+                        "type": "I",
+                        "routeIdxFrom": 30,
+                        "routeIdxTo": 43,
+                        "txtN": "FDAE00"
+                    },
+                    {
+                        "value": "18806",
+                        "key": "FD",
+                        "type": "I",
+                        "routeIdxFrom": 30,
+                        "routeIdxTo": 43,
+                        "txtN": "18806"
+                    },
+                    {
+                        "value": "3610",
+                        "key": "TN",
+                        "type": "I",
+                        "txtN": "3610"
+                    },
+                    {
+                        "value": "SYD",
+                        "key": "TP",
+                        "type": "I",
+                        "txtN": "SYD"
+                    },
+                    {
+                        "value": "ST 610",
+                        "key": "TR",
+                        "type": "I",
+                        "txtN": "ST 610"
+                    },
+                    {
+                        "value": "610",
+                        "key": "TW",
+                        "type": "I",
+                        "txtN": "610"
+                    },
+                    {
+                        "value": "60",
+                        "key": "en",
+                        "type": "I",
+                        "txtN": "60"
+                    },
+                    {
+                        "value": "50",
+                        "key": "ev",
+                        "type": "I",
+                        "txtN": "50"
+                    }
+                ]
+            },
+            "platform": {
+                "type": "PL",
+                "text": "A"
+            },
+            "name": "Bybus 1A",
+            "type": "ST",
+            "stop": "Esbjerg Busterminal",
+            "stopid": "A=1@O=Esbjerg Busterminal@X=8458742@Y=55469233@U=86@L=561100101@",
+            "stopExtId": "561100101",
+            "lon": 8.458742,
+            "lat": 55.469233,
+            "time": "19:13:00",
+            "date": "2024-11-27",
+            "track": "A",
+            "reachable": true,
+            "direction": "Kvaglund via Jerne",
+            "directionFlag": "1"
+        },
+        {
+            "JourneyDetailRef": {
+                "ref": "2|#VN#1#ST#1732618831#PI#0#ZI#32374#TA#14#DA#271124#1S#561000201#1T#1907#LS#561130401#LT#1935#PU#86#RT#1#CA#028#ZE#11#ZB#Bybus 11#PC#5#FR#561000201#FT#1907#TO#561130401#TT#1935#"
+            },
+            "JourneyStatus": "P",
+            "ProductAtStop": {
+                "icon": {
+                    "res": "prod_bus"
+                },
+                "operatorInfo": {
+                    "name": "Sydtrafik",
+                    "nameS": "SYD",
+                    "nameN": "SYD",
+                    "nameL": "Sydtrafik"
+                },
+                "name": "Bybus 11",
+                "internalName": "Bybus 11",
+                "displayNumber": "11",
+                "num": "955",
+                "line": "11",
+                "lineId": "028_245_32_11",
+                "catOut": "Bybus",
+                "catIn": "028",
+                "catCode": "5",
+                "cls": "32",
+                "catOutS": "028",
+                "catOutL": "Bybus",
+                "operatorCode": "SYD",
+                "operator": "Sydtrafik",
+                "admin": "245_32",
+                "matchId": "17640"
+            },
+            "Product": [
+                {
+                    "icon": {
+                        "res": "prod_bus"
+                    },
+                    "operatorInfo": {
+                        "name": "Sydtrafik",
+                        "nameS": "SYD",
+                        "nameN": "SYD",
+                        "nameL": "Sydtrafik"
+                    },
+                    "name": "Bybus 11",
+                    "internalName": "Bybus 11",
+                    "displayNumber": "11",
+                    "num": "955",
+                    "line": "11",
+                    "lineId": "028_245_32_11",
+                    "catOut": "Bybus",
+                    "catIn": "028",
+                    "catCode": "5",
+                    "cls": "32",
+                    "catOutS": "028",
+                    "catOutL": "Bybus",
+                    "operatorCode": "SYD",
+                    "operator": "Sydtrafik",
+                    "admin": "245_32",
+                    "routeIdxFrom": 3,
+                    "routeIdxTo": 18,
+                    "matchId": "17640"
+                }
+            ],
+            "Notes": {
+                "Note": [
+                    {
+                        "value": "Sydtrafik",
+                        "key": "PU",
+                        "type": "I",
+                        "routeIdxFrom": 3,
+                        "routeIdxTo": 18,
+                        "txtN": "Sydtrafik"
+                    },
+                    {
+                        "value": "2007",
+                        "key": "bp",
+                        "type": "I",
+                        "routeIdxFrom": 3,
+                        "routeIdxTo": 18,
+                        "txtN": "2007"
+                    },
+                    {
+                        "value": "FDAE00",
+                        "key": "CT",
+                        "type": "I",
+                        "routeIdxFrom": 3,
+                        "routeIdxTo": 18,
+                        "txtN": "FDAE00"
+                    },
+                    {
+                        "value": "17640",
+                        "key": "FD",
+                        "type": "I",
+                        "routeIdxFrom": 3,
+                        "routeIdxTo": 18,
+                        "txtN": "17640"
+                    },
+                    {
+                        "value": "3610",
+                        "key": "TN",
+                        "type": "I",
+                        "txtN": "3610"
+                    },
+                    {
+                        "value": "SYD",
+                        "key": "TP",
+                        "type": "I",
+                        "txtN": "SYD"
+                    },
+                    {
+                        "value": "ST 610",
+                        "key": "TR",
+                        "type": "I",
+                        "txtN": "ST 610"
+                    },
+                    {
+                        "value": "610",
+                        "key": "TW",
+                        "type": "I",
+                        "txtN": "610"
+                    },
+                    {
+                        "value": "60",
+                        "key": "en",
+                        "type": "I",
+                        "txtN": "60"
+                    },
+                    {
+                        "value": "50",
+                        "key": "ev",
+                        "type": "I",
+                        "txtN": "50"
+                    }
+                ]
+            },
+            "platform": {
+                "type": "PL",
+                "text": "A"
+            },
+            "name": "Bybus 11",
+            "type": "ST",
+            "stop": "Esbjerg Busterminal",
+            "stopid": "A=1@O=Esbjerg Busterminal@X=8458742@Y=55469233@U=86@L=561100101@",
+            "stopExtId": "561100101",
+            "lon": 8.458742,
+            "lat": 55.469233,
+            "time": "19:14:00",
+            "date": "2024-11-27",
+            "track": "A",
+            "reachable": true,
+            "direction": "Esbjerg Lufthavn via Strandby Kirkevej - Andrup",
+            "directionFlag": "1"
+        },
+        {
+            "JourneyDetailRef": {
+                "ref": "2|#VN#1#ST#1732618831#PI#0#ZI#32439#TA#0#DA#271124#1S#561022201#1T#1854#LS#561076112#LT#1947#PU#86#RT#1#CA#028#ZE#2A#ZB#Bybus 2A#PC#5#FR#561022201#FT#1854#TO#561076112#TT#1947#"
+            },
+            "JourneyStatus": "P",
+            "ProductAtStop": {
+                "icon": {
+                    "res": "prod_bus"
+                },
+                "operatorInfo": {
+                    "name": "Sydtrafik",
+                    "nameS": "SYD",
+                    "nameN": "SYD",
+                    "nameL": "Sydtrafik"
+                },
+                "name": "Bybus 2A",
+                "internalName": "Bybus 2A",
+                "displayNumber": "2A",
+                "num": "1325",
+                "line": "2A",
+                "lineId": "028_245_32_2A",
+                "catOut": "Bybus",
+                "catIn": "028",
+                "catCode": "5",
+                "cls": "32",
+                "catOutS": "028",
+                "catOutL": "Bybus",
+                "operatorCode": "SYD",
+                "operator": "Sydtrafik",
+                "admin": "245_32",
+                "matchId": "18742"
+            },
+            "Product": [
+                {
+                    "icon": {
+                        "res": "prod_bus"
+                    },
+                    "operatorInfo": {
+                        "name": "Sydtrafik",
+                        "nameS": "SYD",
+                        "nameN": "SYD",
+                        "nameL": "Sydtrafik"
+                    },
+                    "name": "Bybus 2A",
+                    "internalName": "Bybus 2A",
+                    "displayNumber": "2A",
+                    "num": "1325",
+                    "line": "2A",
+                    "lineId": "028_245_32_2A",
+                    "catOut": "Bybus",
+                    "catIn": "028",
+                    "catCode": "5",
+                    "cls": "32",
+                    "catOutS": "028",
+                    "catOutL": "Bybus",
+                    "operatorCode": "SYD",
+                    "operator": "Sydtrafik",
+                    "admin": "245_32",
+                    "routeIdxFrom": 14,
+                    "routeIdxTo": 44,
+                    "matchId": "18742"
+                }
+            ],
+            "Notes": {
+                "Note": [
+                    {
+                        "value": "Sydtrafik",
+                        "key": "PU",
+                        "type": "I",
+                        "routeIdxFrom": 14,
+                        "routeIdxTo": 44,
+                        "txtN": "Sydtrafik"
+                    },
+                    {
+                        "value": "2007",
+                        "key": "bp",
+                        "type": "I",
+                        "routeIdxFrom": 14,
+                        "routeIdxTo": 44,
+                        "txtN": "2007"
+                    },
+                    {
+                        "value": "FDAE00",
+                        "key": "CT",
+                        "type": "I",
+                        "routeIdxFrom": 14,
+                        "routeIdxTo": 44,
+                        "txtN": "FDAE00"
+                    },
+                    {
+                        "value": "18742",
+                        "key": "FD",
+                        "type": "I",
+                        "routeIdxFrom": 14,
+                        "routeIdxTo": 44,
+                        "txtN": "18742"
+                    },
+                    {
+                        "value": "3610",
+                        "key": "TN",
+                        "type": "I",
+                        "txtN": "3610"
+                    },
+                    {
+                        "value": "SYD",
+                        "key": "TP",
+                        "type": "I",
+                        "txtN": "SYD"
+                    },
+                    {
+                        "value": "ST 610",
+                        "key": "TR",
+                        "type": "I",
+                        "txtN": "ST 610"
+                    },
+                    {
+                        "value": "610",
+                        "key": "TW",
+                        "type": "I",
+                        "txtN": "610"
+                    },
+                    {
+                        "value": "60",
+                        "key": "en",
+                        "type": "I",
+                        "txtN": "60"
+                    },
+                    {
+                        "value": "50",
+                        "key": "ev",
+                        "type": "I",
+                        "txtN": "50"
+                    }
+                ]
+            },
+            "platform": {
+                "type": "PL",
+                "text": "A"
+            },
+            "name": "Bybus 2A",
+            "type": "ST",
+            "stop": "Esbjerg Busterminal",
+            "stopid": "A=1@O=Esbjerg Busterminal@X=8458742@Y=55469233@U=86@L=561100101@",
+            "stopExtId": "561100101",
+            "lon": 8.458742,
+            "lat": 55.469233,
+            "time": "19:14:00",
+            "date": "2024-11-27",
+            "track": "A",
+            "reachable": true,
+            "direction": "Guldager via S\u00e6dding - S\u00f8nderris",
+            "directionFlag": "1"
+        },
+        {
+            "JourneyDetailRef": {
+                "ref": "2|#VN#1#ST#1732618831#PI#0#ZI#32483#TA#11#DA#271124#1S#561100101#1T#1918#LS#561044101#LT#1946#PU#86#RT#1#CA#028#ZE#3A#ZB#Bybus 3A#PC#5#FR#561100101#FT#1918#TO#561044101#TT#1946#"
+            },
+            "JourneyStatus": "P",
+            "ProductAtStop": {
+                "icon": {
+                    "res": "prod_bus"
+                },
+                "operatorInfo": {
+                    "name": "Sydtrafik",
+                    "nameS": "SYD",
+                    "nameN": "SYD",
+                    "nameL": "Sydtrafik"
+                },
+                "name": "Bybus 3A",
+                "internalName": "Bybus 3A",
+                "displayNumber": "3A",
+                "num": "1427",
+                "line": "3A",
+                "lineId": "028_245_32_3A",
+                "catOut": "Bybus",
+                "catIn": "028",
+                "catCode": "5",
+                "cls": "32",
+                "catOutS": "028",
+                "catOutL": "Bybus",
+                "operatorCode": "SYD",
+                "operator": "Sydtrafik",
+                "admin": "245_32",
+                "matchId": "18074"
+            },
+            "Product": [
+                {
+                    "icon": {
+                        "res": "prod_bus"
+                    },
+                    "operatorInfo": {
+                        "name": "Sydtrafik",
+                        "nameS": "SYD",
+                        "nameN": "SYD",
+                        "nameL": "Sydtrafik"
+                    },
+                    "name": "Bybus 3A",
+                    "internalName": "Bybus 3A",
+                    "displayNumber": "3A",
+                    "num": "1427",
+                    "line": "3A",
+                    "lineId": "028_245_32_3A",
+                    "catOut": "Bybus",
+                    "catIn": "028",
+                    "catCode": "5",
+                    "cls": "32",
+                    "catOutS": "028",
+                    "catOutL": "Bybus",
+                    "operatorCode": "SYD",
+                    "operator": "Sydtrafik",
+                    "admin": "245_32",
+                    "routeIdxFrom": 0,
+                    "routeIdxTo": 27,
+                    "matchId": "18074"
+                }
+            ],
+            "Notes": {
+                "Note": [
+                    {
+                        "value": "Sydtrafik",
+                        "key": "PU",
+                        "type": "I",
+                        "routeIdxFrom": 0,
+                        "routeIdxTo": 27,
+                        "txtN": "Sydtrafik"
+                    },
+                    {
+                        "value": "2007",
+                        "key": "bp",
+                        "type": "I",
+                        "routeIdxFrom": 0,
+                        "routeIdxTo": 27,
+                        "txtN": "2007"
+                    },
+                    {
+                        "value": "FDAE00",
+                        "key": "CT",
+                        "type": "I",
+                        "routeIdxFrom": 0,
+                        "routeIdxTo": 27,
+                        "txtN": "FDAE00"
+                    },
+                    {
+                        "value": "18074",
+                        "key": "FD",
+                        "type": "I",
+                        "routeIdxFrom": 0,
+                        "routeIdxTo": 27,
+                        "txtN": "18074"
+                    },
+                    {
+                        "value": "Bybus 3A: Tur annulleret mellem Gr\u00f8nlandsparken v Sukkertoppen (Esbjerg) og Gjesing Nord, Thulevej (Esbjerg). Du bedes benytte en anden forbindelse.",
+                        "key": "text.realtime.journey.partially.cancelled.between",
+                        "type": "R",
+                        "txtN": "Bybus 3A: Tur annulleret mellem Gr\u00f8nlandsparken v Sukkertoppen (Esbjerg) og Gjesing Nord, Thulevej (Esbjerg). Du bedes benytte en anden forbindelse."
+                    },
+                    {
+                        "value": "3610",
+                        "key": "TN",
+                        "type": "I",
+                        "txtN": "3610"
+                    },
+                    {
+                        "value": "SYD",
+                        "key": "TP",
+                        "type": "I",
+                        "txtN": "SYD"
+                    },
+                    {
+                        "value": "ST 610",
+                        "key": "TR",
+                        "type": "I",
+                        "txtN": "ST 610"
+                    },
+                    {
+                        "value": "610",
+                        "key": "TW",
+                        "type": "I",
+                        "txtN": "610"
+                    },
+                    {
+                        "value": "60",
+                        "key": "en",
+                        "type": "I",
+                        "txtN": "60"
+                    },
+                    {
+                        "value": "50",
+                        "key": "ev",
+                        "type": "I",
+                        "txtN": "50"
+                    }
+                ]
+            },
+            "platform": {
+                "type": "PL",
+                "text": "A"
+            },
+            "name": "Bybus 3A",
+            "type": "ST",
+            "stop": "Esbjerg Busterminal",
+            "stopid": "A=1@O=Esbjerg Busterminal@X=8458742@Y=55469233@U=86@L=561100101@",
+            "stopExtId": "561100101",
+            "lon": 8.458742,
+            "lat": 55.469233,
+            "time": "19:18:00",
+            "date": "2024-11-27",
+            "track": "A",
+            "partCancelled": true,
+            "reachable": true,
+            "direction": "Gr\u00f8nlandsparken via Spangbjerg - Gjesing",
+            "directionFlag": "2"
+        },
+        {
+            "JourneyDetailRef": {
+                "ref": "2|#VN#1#ST#1732618831#PI#0#ZI#56027#TA#1#DA#271124#1S#561090331#1T#1846#LS#561071801#LT#2028#PU#86#RT#1#CA#028#ZE#12#ZB#Bybus 12#PC#5#FR#561090331#FT#1846#TO#561071801#TT#2028#"
+            },
+            "JourneyStatus": "P",
+            "ProductAtStop": {
+                "icon": {
+                    "res": "prod_bus"
+                },
+                "operatorInfo": {
+                    "name": "Sydtrafik",
+                    "nameS": "SYD",
+                    "nameN": "SYD",
+                    "nameL": "Sydtrafik"
+                },
+                "name": "Bybus 10",
+                "internalName": "Bybus 10",
+                "displayNumber": "10",
+                "num": "532",
+                "line": "10",
+                "lineId": "028_245_32_10",
+                "catOut": "Bybus",
+                "catIn": "028",
+                "catCode": "5",
+                "cls": "32",
+                "catOutS": "028",
+                "catOutL": "Bybus",
+                "operatorCode": "SYD",
+                "operator": "Sydtrafik",
+                "admin": "245_32",
+                "matchId": "17913"
+            },
+            "Product": [
+                {
+                    "icon": {
+                        "res": "prod_bus"
+                    },
+                    "operatorInfo": {
+                        "name": "Sydtrafik",
+                        "nameS": "SYD",
+                        "nameN": "SYD",
+                        "nameL": "Sydtrafik"
+                    },
+                    "name": "Bybus 10",
+                    "internalName": "Bybus 10",
+                    "displayNumber": "10",
+                    "num": "532",
+                    "line": "10",
+                    "lineId": "028_245_32_10",
+                    "catOut": "Bybus",
+                    "catIn": "028",
+                    "catCode": "5",
+                    "cls": "32",
+                    "catOutS": "028",
+                    "catOutL": "Bybus",
+                    "operatorCode": "SYD",
+                    "operator": "Sydtrafik",
+                    "admin": "245_32",
+                    "routeIdxFrom": 26,
+                    "routeIdxTo": 90,
+                    "matchId": "17913"
+                }
+            ],
+            "Notes": {
+                "Note": [
+                    {
+                        "value": "Sydtrafik",
+                        "key": "PU",
+                        "type": "I",
+                        "routeIdxFrom": 26,
+                        "routeIdxTo": 90,
+                        "txtN": "Sydtrafik"
+                    },
+                    {
+                        "value": "2007",
+                        "key": "bp",
+                        "type": "I",
+                        "routeIdxFrom": 26,
+                        "routeIdxTo": 90,
+                        "txtN": "2007"
+                    },
+                    {
+                        "value": "FDAE00",
+                        "key": "CT",
+                        "type": "I",
+                        "routeIdxFrom": 26,
+                        "routeIdxTo": 90,
+                        "txtN": "FDAE00"
+                    },
+                    {
+                        "value": "17913",
+                        "key": "FD",
+                        "type": "I",
+                        "routeIdxFrom": 26,
+                        "routeIdxTo": 90,
+                        "txtN": "17913"
+                    },
+                    {
+                        "value": "3610",
+                        "key": "TN",
+                        "type": "I",
+                        "txtN": "3610"
+                    },
+                    {
+                        "value": "SYD",
+                        "key": "TP",
+                        "type": "I",
+                        "txtN": "SYD"
+                    },
+                    {
+                        "value": "ST 610",
+                        "key": "TR",
+                        "type": "I",
+                        "txtN": "ST 610"
+                    },
+                    {
+                        "value": "610",
+                        "key": "TW",
+                        "type": "I",
+                        "txtN": "610"
+                    }
+                ]
+            },
+            "platform": {
+                "type": "PL",
+                "text": "B"
+            },
+            "name": "Bybus 10",
+            "type": "ST",
+            "stop": "Esbjerg Busterminal",
+            "stopid": "A=1@O=Esbjerg Busterminal@X=8458292@Y=55468748@U=86@L=561100102@",
+            "stopExtId": "561100102",
+            "lon": 8.458292,
+            "lat": 55.468748,
+            "time": "19:18:00",
+            "date": "2024-11-27",
+            "track": "B",
+            "reachable": true,
+            "direction": "Hjerting via \u00d8sterbyen - Gjesing",
+            "directionFlag": "1"
+        },
+        {
+            "JourneyDetailRef": {
+                "ref": "2|#VN#1#ST#1732618831#PI#0#ZI#32425#TA#11#DA#271124#1S#561030101#1T#1903#LS#561071802#LT#1954#PU#86#RT#1#CA#028#ZE#1A#ZB#Bybus 1A#PC#5#FR#561030101#FT#1903#TO#561071802#TT#1954#"
+            },
+            "JourneyStatus": "P",
+            "ProductAtStop": {
+                "icon": {
+                    "res": "prod_bus"
+                },
+                "operatorInfo": {
+                    "name": "Sydtrafik",
+                    "nameS": "SYD",
+                    "nameN": "SYD",
+                    "nameL": "Sydtrafik"
+                },
+                "name": "Bybus 1A",
+                "internalName": "Bybus 1A",
+                "displayNumber": "1A",
+                "num": "1141",
+                "line": "1A",
+                "lineId": "028_245_32_1A",
+                "catOut": "Bybus",
+                "catIn": "028",
+                "catCode": "5",
+                "cls": "32",
+                "catOutS": "028",
+                "catOutL": "Bybus",
+                "operatorCode": "SYD",
+                "operator": "Sydtrafik",
+                "admin": "245_32",
+                "matchId": "18869"
+            },
+            "Product": [
+                {
+                    "icon": {
+                        "res": "prod_bus"
+                    },
+                    "operatorInfo": {
+                        "name": "Sydtrafik",
+                        "nameS": "SYD",
+                        "nameN": "SYD",
+                        "nameL": "Sydtrafik"
+                    },
+                    "name": "Bybus 1A",
+                    "internalName": "Bybus 1A",
+                    "displayNumber": "1A",
+                    "num": "1141",
+                    "line": "1A",
+                    "lineId": "028_245_32_1A",
+                    "catOut": "Bybus",
+                    "catIn": "028",
+                    "catCode": "5",
+                    "cls": "32",
+                    "catOutS": "028",
+                    "catOutL": "Bybus",
+                    "operatorCode": "SYD",
+                    "operator": "Sydtrafik",
+                    "admin": "245_32",
+                    "routeIdxFrom": 13,
+                    "routeIdxTo": 45,
+                    "matchId": "18869"
+                }
+            ],
+            "Notes": {
+                "Note": [
+                    {
+                        "value": "Sydtrafik",
+                        "key": "PU",
+                        "type": "I",
+                        "routeIdxFrom": 13,
+                        "routeIdxTo": 45,
+                        "txtN": "Sydtrafik"
+                    },
+                    {
+                        "value": "2007",
+                        "key": "bp",
+                        "type": "I",
+                        "routeIdxFrom": 13,
+                        "routeIdxTo": 45,
+                        "txtN": "2007"
+                    },
+                    {
+                        "value": "FDAE00",
+                        "key": "CT",
+                        "type": "I",
+                        "routeIdxFrom": 13,
+                        "routeIdxTo": 45,
+                        "txtN": "FDAE00"
+                    },
+                    {
+                        "value": "18869",
+                        "key": "FD",
+                        "type": "I",
+                        "routeIdxFrom": 13,
+                        "routeIdxTo": 45,
+                        "txtN": "18869"
+                    },
+                    {
+                        "value": "3610",
+                        "key": "TN",
+                        "type": "I",
+                        "txtN": "3610"
+                    },
+                    {
+                        "value": "SYD",
+                        "key": "TP",
+                        "type": "I",
+                        "txtN": "SYD"
+                    },
+                    {
+                        "value": "ST 610",
+                        "key": "TR",
+                        "type": "I",
+                        "txtN": "ST 610"
+                    },
+                    {
+                        "value": "610",
+                        "key": "TW",
+                        "type": "I",
+                        "txtN": "610"
+                    }
+                ]
+            },
+            "platform": {
+                "type": "PL",
+                "text": "B"
+            },
+            "name": "Bybus 1A",
+            "type": "ST",
+            "stop": "Esbjerg Busterminal",
+            "stopid": "A=1@O=Esbjerg Busterminal@X=8458292@Y=55468748@U=86@L=561100102@",
+            "stopExtId": "561100102",
+            "lon": 8.458292,
+            "lat": 55.468748,
+            "time": "19:21:00",
+            "date": "2024-11-27",
+            "track": "B",
+            "reachable": true,
+            "direction": "Hjerting via S\u00e6dding",
+            "directionFlag": "2"
+        },
+        {
+            "JourneyDetailRef": {
+                "ref": "2|#VN#1#ST#1732618831#PI#0#ZI#55968#TA#6#DA#271124#1S#561022201#1T#1754#LS#561022201#LT#1945#PU#86#RT#1#CA#028#ZE#2A#ZB#Bybus 2A#PC#5#FR#561022201#FT#1754#TO#561022201#TT#1945#"
+            },
+            "JourneyStatus": "P",
+            "ProductAtStop": {
+                "icon": {
+                    "res": "prod_bus"
+                },
+                "operatorInfo": {
+                    "name": "Sydtrafik",
+                    "nameS": "SYD",
+                    "nameN": "SYD",
+                    "nameL": "Sydtrafik"
+                },
+                "name": "Bybus 2A",
+                "internalName": "Bybus 2A",
+                "displayNumber": "2A",
+                "num": "514",
+                "line": "2A",
+                "lineId": "028_245_32_2A",
+                "catOut": "Bybus",
+                "catIn": "028",
+                "catCode": "5",
+                "cls": "32",
+                "catOutS": "028",
+                "catOutL": "Bybus",
+                "operatorCode": "SYD",
+                "operator": "Sydtrafik",
+                "admin": "245_32",
+                "matchId": "18715"
+            },
+            "Product": [
+                {
+                    "icon": {
+                        "res": "prod_bus"
+                    },
+                    "operatorInfo": {
+                        "name": "Sydtrafik",
+                        "nameS": "SYD",
+                        "nameN": "SYD",
+                        "nameL": "Sydtrafik"
+                    },
+                    "name": "Bybus 2A",
+                    "internalName": "Bybus 2A",
+                    "displayNumber": "2A",
+                    "num": "514",
+                    "line": "2A",
+                    "lineId": "028_245_32_2A",
+                    "catOut": "Bybus",
+                    "catIn": "028",
+                    "catCode": "5",
+                    "cls": "32",
+                    "catOutS": "028",
+                    "catOutL": "Bybus",
+                    "operatorCode": "SYD",
+                    "operator": "Sydtrafik",
+                    "admin": "245_32",
+                    "routeIdxFrom": 73,
+                    "routeIdxTo": 88,
+                    "matchId": "18715"
+                }
+            ],
+            "Notes": {
+                "Note": [
+                    {
+                        "value": "Sydtrafik",
+                        "key": "PU",
+                        "type": "I",
+                        "routeIdxFrom": 73,
+                        "routeIdxTo": 88,
+                        "txtN": "Sydtrafik"
+                    },
+                    {
+                        "value": "2007",
+                        "key": "bp",
+                        "type": "I",
+                        "routeIdxFrom": 73,
+                        "routeIdxTo": 88,
+                        "txtN": "2007"
+                    },
+                    {
+                        "value": "FDAE00",
+                        "key": "CT",
+                        "type": "I",
+                        "routeIdxFrom": 73,
+                        "routeIdxTo": 88,
+                        "txtN": "FDAE00"
+                    },
+                    {
+                        "value": "18715",
+                        "key": "FD",
+                        "type": "I",
+                        "routeIdxFrom": 73,
+                        "routeIdxTo": 88,
+                        "txtN": "18715"
+                    },
+                    {
+                        "value": "3610",
+                        "key": "TN",
+                        "type": "I",
+                        "txtN": "3610"
+                    },
+                    {
+                        "value": "SYD",
+                        "key": "TP",
+                        "type": "I",
+                        "txtN": "SYD"
+                    },
+                    {
+                        "value": "ST 610",
+                        "key": "TR",
+                        "type": "I",
+                        "txtN": "ST 610"
+                    },
+                    {
+                        "value": "610",
+                        "key": "TW",
+                        "type": "I",
+                        "txtN": "610"
+                    }
+                ]
+            },
+            "platform": {
+                "type": "PL",
+                "text": "B"
+            },
+            "name": "Bybus 2A",
+            "type": "ST",
+            "stop": "Esbjerg Busterminal",
+            "stopid": "A=1@O=Esbjerg Busterminal@X=8458292@Y=55468748@U=86@L=561100102@",
+            "stopExtId": "561100102",
+            "lon": 8.458292,
+            "lat": 55.468748,
+            "time": "19:26:00",
+            "date": "2024-11-27",
+            "track": "B",
+            "reachable": true,
+            "direction": "Hedelund via Baggesens All\u00e9",
+            "directionFlag": "2"
+        },
+        {
+            "JourneyDetailRef": {
+                "ref": "2|#VN#1#ST#1732618831#PI#0#ZI#364#TA#0#DA#271124#1S#8600215#1T#1927#LS#8600650#LT#2300#PU#86#RT#1#CA#001#ZE#8466#ZB#IC   8466#PC#0#FR#8600215#FT#1927#TO#8600650#TT#2300#"
+            },
+            "JourneyStatus": "P",
+            "ProductAtStop": {
+                "icon": {
+                    "res": "prod_ic"
+                },
+                "operatorInfo": {
+                    "name": "DSB",
+                    "nameS": "DSB",
+                    "nameN": "DSB",
+                    "nameL": "DSB"
+                },
+                "name": "IC 8466",
+                "internalName": "IC   8466",
+                "displayNumber": "8466",
+                "num": "8466",
+                "catOut": "IC",
+                "catIn": "001",
+                "catCode": "0",
+                "cls": "1",
+                "catOutS": "001",
+                "catOutL": "IC",
+                "operatorCode": "DSB",
+                "operator": "DSB",
+                "admin": "000002",
+                "matchId": "8466"
+            },
+            "Product": [
+                {
+                    "icon": {
+                        "res": "prod_ic"
+                    },
+                    "operatorInfo": {
+                        "name": "DSB",
+                        "nameS": "DSB",
+                        "nameN": "DSB",
+                        "nameL": "DSB"
+                    },
+                    "name": "IC 8466",
+                    "internalName": "IC   8466",
+                    "displayNumber": "8466",
+                    "num": "8466",
+                    "catOut": "IC",
+                    "catIn": "001",
+                    "catCode": "0",
+                    "cls": "1",
+                    "catOutS": "001",
+                    "catOutL": "IC",
+                    "operatorCode": "DSB",
+                    "operator": "DSB",
+                    "admin": "000002",
+                    "routeIdxFrom": 0,
+                    "routeIdxTo": 38,
+                    "matchId": "8466"
+                }
+            ],
+            "Notes": {
+                "Note": [
+                    {
+                        "value": "Cykelreservering kr\u00e6ves",
+                        "key": "CR",
+                        "type": "A",
+                        "priority": 0,
+                        "routeIdxFrom": 0,
+                        "routeIdxTo": 38,
+                        "txtN": "Cykelreservering kr\u00e6ves"
+                    },
+                    {
+                        "value": "Reservering anbefales",
+                        "key": "RE",
+                        "type": "A",
+                        "priority": 0,
+                        "routeIdxFrom": 0,
+                        "routeIdxTo": 38,
+                        "txtN": "Reservering anbefales"
+                    },
+                    {
+                        "value": "Mulighed for internet",
+                        "key": "TD",
+                        "type": "A",
+                        "priority": 200,
+                        "routeIdxFrom": 0,
+                        "routeIdxTo": 38,
+                        "txtN": "Mulighed for internet"
+                    },
+                    {
+                        "value": "ec3400",
+                        "key": "CT",
+                        "type": "I",
+                        "routeIdxFrom": 0,
+                        "routeIdxTo": 38,
+                        "txtN": "ec3400"
+                    },
+                    {
+                        "key": "FB",
+                        "type": "A"
+                    },
+                    {
+                        "value": "3610",
+                        "key": "TN",
+                        "type": "I",
+                        "txtN": "3610"
+                    },
+                    {
+                        "value": "SYD",
+                        "key": "TP",
+                        "type": "I",
+                        "txtN": "SYD"
+                    },
+                    {
+                        "value": "ST 610",
+                        "key": "TR",
+                        "type": "I",
+                        "txtN": "ST 610"
+                    },
+                    {
+                        "value": "610",
+                        "key": "TW",
+                        "type": "I",
+                        "txtN": "610"
+                    }
+                ]
+            },
+            "platform": {
+                "type": "PL",
+                "text": "3"
+            },
+            "rtPlatform": {
+                "type": "PL",
+                "text": "3"
+            },
+            "name": "IC 8466",
+            "type": "ST",
+            "stop": "Esbjerg St.",
+            "stopid": "A=1@O=Esbjerg St.@X=8458193@Y=55467920@U=86@L=8600215@",
+            "stopExtId": "8600215",
+            "lon": 8.458193,
+            "lat": 55.46792,
+            "isMainMast": true,
+            "prognosisType": "PROGNOSED",
+            "time": "19:27:00",
+            "date": "2024-11-27",
+            "track": "3",
+            "rtTrack": "3",
+            "reachable": true,
+            "direction": "\u00d8sterport St.",
+            "directionFlag": "1"
+        },
+        {
+            "JourneyDetailRef": {
+                "ref": "2|#VN#1#ST#1732618831#PI#0#ZI#32412#TA#11#DA#271124#1S#561071802#1T#1856#LS#561030102#LT#1943#PU#86#RT#1#CA#028#ZE#1A#ZB#Bybus 1A#PC#5#FR#561071802#FT#1856#TO#561030102#TT#1943#"
+            },
+            "JourneyStatus": "P",
+            "ProductAtStop": {
+                "icon": {
+                    "res": "prod_bus"
+                },
+                "operatorInfo": {
+                    "name": "Sydtrafik",
+                    "nameS": "SYD",
+                    "nameN": "SYD",
+                    "nameL": "Sydtrafik"
+                },
+                "name": "Bybus 1A",
+                "internalName": "Bybus 1A",
+                "displayNumber": "1A",
+                "num": "1281",
+                "line": "1A",
+                "lineId": "028_245_32_1A",
+                "catOut": "Bybus",
+                "catIn": "028",
+                "catCode": "5",
+                "cls": "32",
+                "catOutS": "028",
+                "catOutL": "Bybus",
+                "operatorCode": "SYD",
+                "operator": "Sydtrafik",
+                "admin": "245_32",
+                "matchId": "18979"
+            },
+            "Product": [
+                {
+                    "icon": {
+                        "res": "prod_bus"
+                    },
+                    "operatorInfo": {
+                        "name": "Sydtrafik",
+                        "nameS": "SYD",
+                        "nameN": "SYD",
+                        "nameL": "Sydtrafik"
+                    },
+                    "name": "Bybus 1A",
+                    "internalName": "Bybus 1A",
+                    "displayNumber": "1A",
+                    "num": "1281",
+                    "line": "1A",
+                    "lineId": "028_245_32_1A",
+                    "catOut": "Bybus",
+                    "catIn": "028",
+                    "catCode": "5",
+                    "cls": "32",
+                    "catOutS": "028",
+                    "catOutL": "Bybus",
+                    "operatorCode": "SYD",
+                    "operator": "Sydtrafik",
+                    "admin": "245_32",
+                    "routeIdxFrom": 30,
+                    "routeIdxTo": 43,
+                    "matchId": "18979"
+                }
+            ],
+            "Notes": {
+                "Note": [
+                    {
+                        "value": "Sydtrafik",
+                        "key": "PU",
+                        "type": "I",
+                        "routeIdxFrom": 30,
+                        "routeIdxTo": 43,
+                        "txtN": "Sydtrafik"
+                    },
+                    {
+                        "value": "2007",
+                        "key": "bp",
+                        "type": "I",
+                        "routeIdxFrom": 30,
+                        "routeIdxTo": 43,
+                        "txtN": "2007"
+                    },
+                    {
+                        "value": "FDAE00",
+                        "key": "CT",
+                        "type": "I",
+                        "routeIdxFrom": 30,
+                        "routeIdxTo": 43,
+                        "txtN": "FDAE00"
+                    },
+                    {
+                        "value": "18979",
+                        "key": "FD",
+                        "type": "I",
+                        "routeIdxFrom": 30,
+                        "routeIdxTo": 43,
+                        "txtN": "18979"
+                    },
+                    {
+                        "value": "3610",
+                        "key": "TN",
+                        "type": "I",
+                        "txtN": "3610"
+                    },
+                    {
+                        "value": "SYD",
+                        "key": "TP",
+                        "type": "I",
+                        "txtN": "SYD"
+                    },
+                    {
+                        "value": "ST 610",
+                        "key": "TR",
+                        "type": "I",
+                        "txtN": "ST 610"
+                    },
+                    {
+                        "value": "610",
+                        "key": "TW",
+                        "type": "I",
+                        "txtN": "610"
+                    },
+                    {
+                        "value": "60",
+                        "key": "en",
+                        "type": "I",
+                        "txtN": "60"
+                    },
+                    {
+                        "value": "50",
+                        "key": "ev",
+                        "type": "I",
+                        "txtN": "50"
+                    }
+                ]
+            },
+            "platform": {
+                "type": "PL",
+                "text": "A"
+            },
+            "name": "Bybus 1A",
+            "type": "ST",
+            "stop": "Esbjerg Busterminal",
+            "stopid": "A=1@O=Esbjerg Busterminal@X=8458742@Y=55469233@U=86@L=561100101@",
+            "stopExtId": "561100101",
+            "lon": 8.458742,
+            "lat": 55.469233,
+            "time": "19:28:00",
+            "date": "2024-11-27",
+            "track": "A",
+            "reachable": true,
+            "direction": "Kvaglund via Jerne",
+            "directionFlag": "1"
+        },
+        {
+            "JourneyDetailRef": {
+                "ref": "2|#VN#1#ST#1732618831#PI#0#ZI#56062#TA#1#DA#271124#1S#561022201#1T#1909#LS#561022201#LT#2058#PU#86#RT#1#CA#028#ZE#2A#ZB#Bybus 2A#PC#5#FR#561022201#FT#1909#TO#561022201#TT#2058#"
+            },
+            "JourneyStatus": "P",
+            "ProductAtStop": {
+                "icon": {
+                    "res": "prod_bus"
+                },
+                "operatorInfo": {
+                    "name": "Sydtrafik",
+                    "nameS": "SYD",
+                    "nameN": "SYD",
+                    "nameL": "Sydtrafik"
+                },
+                "name": "Bybus 2A",
+                "internalName": "Bybus 2A",
+                "displayNumber": "2A",
+                "num": "554",
+                "line": "2A",
+                "lineId": "028_245_32_2A",
+                "catOut": "Bybus",
+                "catIn": "028",
+                "catCode": "5",
+                "cls": "32",
+                "catOutS": "028",
+                "catOutL": "Bybus",
+                "operatorCode": "SYD",
+                "operator": "Sydtrafik",
+                "admin": "245_32",
+                "matchId": "18419"
+            },
+            "Product": [
+                {
+                    "icon": {
+                        "res": "prod_bus"
+                    },
+                    "operatorInfo": {
+                        "name": "Sydtrafik",
+                        "nameS": "SYD",
+                        "nameN": "SYD",
+                        "nameL": "Sydtrafik"
+                    },
+                    "name": "Bybus 2A",
+                    "internalName": "Bybus 2A",
+                    "displayNumber": "2A",
+                    "num": "554",
+                    "line": "2A",
+                    "lineId": "028_245_32_2A",
+                    "catOut": "Bybus",
+                    "catIn": "028",
+                    "catCode": "5",
+                    "cls": "32",
+                    "catOutS": "028",
+                    "catOutL": "Bybus",
+                    "operatorCode": "SYD",
+                    "operator": "Sydtrafik",
+                    "admin": "245_32",
+                    "routeIdxFrom": 14,
+                    "routeIdxTo": 88,
+                    "matchId": "18419"
+                }
+            ],
+            "Notes": {
+                "Note": [
+                    {
+                        "value": "Sydtrafik",
+                        "key": "PU",
+                        "type": "I",
+                        "routeIdxFrom": 14,
+                        "routeIdxTo": 88,
+                        "txtN": "Sydtrafik"
+                    },
+                    {
+                        "value": "2007",
+                        "key": "bp",
+                        "type": "I",
+                        "routeIdxFrom": 14,
+                        "routeIdxTo": 88,
+                        "txtN": "2007"
+                    },
+                    {
+                        "value": "FDAE00",
+                        "key": "CT",
+                        "type": "I",
+                        "routeIdxFrom": 14,
+                        "routeIdxTo": 88,
+                        "txtN": "FDAE00"
+                    },
+                    {
+                        "value": "18419",
+                        "key": "FD",
+                        "type": "I",
+                        "routeIdxFrom": 14,
+                        "routeIdxTo": 88,
+                        "txtN": "18419"
+                    },
+                    {
+                        "value": "3610",
+                        "key": "TN",
+                        "type": "I",
+                        "txtN": "3610"
+                    },
+                    {
+                        "value": "SYD",
+                        "key": "TP",
+                        "type": "I",
+                        "txtN": "SYD"
+                    },
+                    {
+                        "value": "ST 610",
+                        "key": "TR",
+                        "type": "I",
+                        "txtN": "ST 610"
+                    },
+                    {
+                        "value": "610",
+                        "key": "TW",
+                        "type": "I",
+                        "txtN": "610"
+                    },
+                    {
+                        "value": "60",
+                        "key": "en",
+                        "type": "I",
+                        "txtN": "60"
+                    },
+                    {
+                        "value": "50",
+                        "key": "ev",
+                        "type": "I",
+                        "txtN": "50"
+                    }
+                ]
+            },
+            "platform": {
+                "type": "PL",
+                "text": "A"
+            },
+            "name": "Bybus 2A",
+            "type": "ST",
+            "stop": "Esbjerg Busterminal",
+            "stopid": "A=1@O=Esbjerg Busterminal@X=8458742@Y=55469233@U=86@L=561100101@",
+            "stopExtId": "561100101",
+            "lon": 8.458742,
+            "lat": 55.469233,
+            "time": "19:29:00",
+            "date": "2024-11-27",
+            "track": "A",
+            "reachable": true,
+            "direction": "Guldager via S\u00e6dding - S\u00f8nderris",
+            "directionFlag": "1"
+        },
+        {
+            "JourneyDetailRef": {
+                "ref": "2|#VN#1#ST#1732618831#PI#0#ZI#55618#TA#1#DA#271124#1S#561131001#1T#1639#LS#561090331#LT#2000#PU#86#RT#1#CA#028#ZE#12#ZB#Bybus 12#PC#5#FR#561131001#FT#1639#TO#561090331#TT#2000#"
+            },
+            "JourneyStatus": "P",
+            "ProductAtStop": {
+                "icon": {
+                    "res": "prod_bus"
+                },
+                "operatorInfo": {
+                    "name": "Sydtrafik",
+                    "nameS": "SYD",
+                    "nameN": "SYD",
+                    "nameL": "Sydtrafik"
+                },
+                "name": "Bybus 12",
+                "internalName": "Bybus 12",
+                "displayNumber": "12",
+                "num": "536",
+                "line": "12",
+                "lineId": "028_245_32_12",
+                "catOut": "Bybus",
+                "catIn": "028",
+                "catCode": "5",
+                "cls": "32",
+                "catOutS": "028",
+                "catOutL": "Bybus",
+                "operatorCode": "SYD",
+                "operator": "Sydtrafik",
+                "admin": "245_32",
+                "matchId": "17475"
+            },
+            "Product": [
+                {
+                    "icon": {
+                        "res": "prod_bus"
+                    },
+                    "operatorInfo": {
+                        "name": "Sydtrafik",
+                        "nameS": "SYD",
+                        "nameN": "SYD",
+                        "nameL": "Sydtrafik"
+                    },
+                    "name": "Bybus 12",
+                    "internalName": "Bybus 12",
+                    "displayNumber": "12",
+                    "num": "536",
+                    "line": "12",
+                    "lineId": "028_245_32_12",
+                    "catOut": "Bybus",
+                    "catIn": "028",
+                    "catCode": "5",
+                    "cls": "32",
+                    "catOutS": "028",
+                    "catOutL": "Bybus",
+                    "operatorCode": "SYD",
+                    "operator": "Sydtrafik",
+                    "admin": "245_32",
+                    "routeIdxFrom": 147,
+                    "routeIdxTo": 173,
+                    "matchId": "17475"
+                }
+            ],
+            "Notes": {
+                "Note": [
+                    {
+                        "value": "Sydtrafik",
+                        "key": "PU",
+                        "type": "I",
+                        "routeIdxFrom": 147,
+                        "routeIdxTo": 173,
+                        "txtN": "Sydtrafik"
+                    },
+                    {
+                        "value": "2007",
+                        "key": "bp",
+                        "type": "I",
+                        "routeIdxFrom": 147,
+                        "routeIdxTo": 173,
+                        "txtN": "2007"
+                    },
+                    {
+                        "value": "FDAE00",
+                        "key": "CT",
+                        "type": "I",
+                        "routeIdxFrom": 147,
+                        "routeIdxTo": 173,
+                        "txtN": "FDAE00"
+                    },
+                    {
+                        "value": "17475",
+                        "key": "FD",
+                        "type": "I",
+                        "routeIdxFrom": 147,
+                        "routeIdxTo": 173,
+                        "txtN": "17475"
+                    },
+                    {
+                        "value": "3610",
+                        "key": "TN",
+                        "type": "I",
+                        "txtN": "3610"
+                    },
+                    {
+                        "value": "SYD",
+                        "key": "TP",
+                        "type": "I",
+                        "txtN": "SYD"
+                    },
+                    {
+                        "value": "ST 610",
+                        "key": "TR",
+                        "type": "I",
+                        "txtN": "ST 610"
+                    },
+                    {
+                        "value": "610",
+                        "key": "TW",
+                        "type": "I",
+                        "txtN": "610"
+                    }
+                ]
+            },
+            "platform": {
+                "type": "PL",
+                "text": "B"
+            },
+            "name": "Bybus 12",
+            "type": "ST",
+            "stop": "Esbjerg Busterminal",
+            "stopid": "A=1@O=Esbjerg Busterminal@X=8458292@Y=55468748@U=86@L=561100102@",
+            "stopExtId": "561100102",
+            "lon": 8.458292,
+            "lat": 55.468748,
+            "prognosisType": "PROGNOSED",
+            "time": "19:32:00",
+            "date": "2024-11-27",
+            "track": "B",
+            "rtTime": "20:03:00",
+            "rtDate": "2024-11-27",
+            "reachable": true,
+            "direction": "Tarp via Skolegade - Gjesing",
+            "directionFlag": "1"
+        },
+        {
+            "JourneyDetailRef": {
+                "ref": "2|#VN#1#ST#1732618831#PI#0#ZI#32483#TA#12#DA#271124#1S#561100101#1T#1933#LS#561044101#LT#2001#PU#86#RT#1#CA#028#ZE#3A#ZB#Bybus 3A#PC#5#FR#561100101#FT#1933#TO#561044101#TT#2001#"
+            },
+            "JourneyStatus": "P",
+            "ProductAtStop": {
+                "icon": {
+                    "res": "prod_bus"
+                },
+                "operatorInfo": {
+                    "name": "Sydtrafik",
+                    "nameS": "SYD",
+                    "nameN": "SYD",
+                    "nameL": "Sydtrafik"
+                },
+                "name": "Bybus 3A",
+                "internalName": "Bybus 3A",
+                "displayNumber": "3A",
+                "num": "1420",
+                "line": "3A",
+                "lineId": "028_245_32_3A",
+                "catOut": "Bybus",
+                "catIn": "028",
+                "catCode": "5",
+                "cls": "32",
+                "catOutS": "028",
+                "catOutL": "Bybus",
+                "operatorCode": "SYD",
+                "operator": "Sydtrafik",
+                "admin": "245_32",
+                "matchId": "18173"
+            },
+            "Product": [
+                {
+                    "icon": {
+                        "res": "prod_bus"
+                    },
+                    "operatorInfo": {
+                        "name": "Sydtrafik",
+                        "nameS": "SYD",
+                        "nameN": "SYD",
+                        "nameL": "Sydtrafik"
+                    },
+                    "name": "Bybus 3A",
+                    "internalName": "Bybus 3A",
+                    "displayNumber": "3A",
+                    "num": "1420",
+                    "line": "3A",
+                    "lineId": "028_245_32_3A",
+                    "catOut": "Bybus",
+                    "catIn": "028",
+                    "catCode": "5",
+                    "cls": "32",
+                    "catOutS": "028",
+                    "catOutL": "Bybus",
+                    "operatorCode": "SYD",
+                    "operator": "Sydtrafik",
+                    "admin": "245_32",
+                    "routeIdxFrom": 0,
+                    "routeIdxTo": 27,
+                    "matchId": "18173"
+                }
+            ],
+            "Notes": {
+                "Note": [
+                    {
+                        "value": "Sydtrafik",
+                        "key": "PU",
+                        "type": "I",
+                        "routeIdxFrom": 0,
+                        "routeIdxTo": 27,
+                        "txtN": "Sydtrafik"
+                    },
+                    {
+                        "value": "2007",
+                        "key": "bp",
+                        "type": "I",
+                        "routeIdxFrom": 0,
+                        "routeIdxTo": 27,
+                        "txtN": "2007"
+                    },
+                    {
+                        "value": "FDAE00",
+                        "key": "CT",
+                        "type": "I",
+                        "routeIdxFrom": 0,
+                        "routeIdxTo": 27,
+                        "txtN": "FDAE00"
+                    },
+                    {
+                        "value": "18173",
+                        "key": "FD",
+                        "type": "I",
+                        "routeIdxFrom": 0,
+                        "routeIdxTo": 27,
+                        "txtN": "18173"
+                    },
+                    {
+                        "value": "Bybus 3A: Tur annulleret mellem Gr\u00f8nlandsparken v Sukkertoppen (Esbjerg) og Gjesing Nord, Thulevej (Esbjerg). Du bedes benytte en anden forbindelse.",
+                        "key": "text.realtime.journey.partially.cancelled.between",
+                        "type": "R",
+                        "txtN": "Bybus 3A: Tur annulleret mellem Gr\u00f8nlandsparken v Sukkertoppen (Esbjerg) og Gjesing Nord, Thulevej (Esbjerg). Du bedes benytte en anden forbindelse."
+                    },
+                    {
+                        "value": "3610",
+                        "key": "TN",
+                        "type": "I",
+                        "txtN": "3610"
+                    },
+                    {
+                        "value": "SYD",
+                        "key": "TP",
+                        "type": "I",
+                        "txtN": "SYD"
+                    },
+                    {
+                        "value": "ST 610",
+                        "key": "TR",
+                        "type": "I",
+                        "txtN": "ST 610"
+                    },
+                    {
+                        "value": "610",
+                        "key": "TW",
+                        "type": "I",
+                        "txtN": "610"
+                    },
+                    {
+                        "value": "60",
+                        "key": "en",
+                        "type": "I",
+                        "txtN": "60"
+                    },
+                    {
+                        "value": "50",
+                        "key": "ev",
+                        "type": "I",
+                        "txtN": "50"
+                    }
+                ]
+            },
+            "platform": {
+                "type": "PL",
+                "text": "A"
+            },
+            "name": "Bybus 3A",
+            "type": "ST",
+            "stop": "Esbjerg Busterminal",
+            "stopid": "A=1@O=Esbjerg Busterminal@X=8458742@Y=55469233@U=86@L=561100101@",
+            "stopExtId": "561100101",
+            "lon": 8.458742,
+            "lat": 55.469233,
+            "time": "19:33:00",
+            "date": "2024-11-27",
+            "track": "A",
+            "partCancelled": true,
+            "reachable": true,
+            "direction": "Gr\u00f8nlandsparken via Spangbjerg - Gjesing",
+            "directionFlag": "2"
+        },
+        {
+            "JourneyDetailRef": {
+                "ref": "2|#VN#1#ST#1732618831#PI#0#ZI#32425#TA#12#DA#271124#1S#561030101#1T#1918#LS#561071802#LT#2009#PU#86#RT#1#CA#028#ZE#1A#ZB#Bybus 1A#PC#5#FR#561030101#FT#1918#TO#561071802#TT#2009#"
+            },
+            "JourneyStatus": "P",
+            "ProductAtStop": {
+                "icon": {
+                    "res": "prod_bus"
+                },
+                "operatorInfo": {
+                    "name": "Sydtrafik",
+                    "nameS": "SYD",
+                    "nameN": "SYD",
+                    "nameL": "Sydtrafik"
+                },
+                "name": "Bybus 1A",
+                "internalName": "Bybus 1A",
+                "displayNumber": "1A",
+                "num": "1140",
+                "line": "1A",
+                "lineId": "028_245_32_1A",
+                "catOut": "Bybus",
+                "catIn": "028",
+                "catCode": "5",
+                "cls": "32",
+                "catOutS": "028",
+                "catOutL": "Bybus",
+                "operatorCode": "SYD",
+                "operator": "Sydtrafik",
+                "admin": "245_32",
+                "matchId": "19101"
+            },
+            "Product": [
+                {
+                    "icon": {
+                        "res": "prod_bus"
+                    },
+                    "operatorInfo": {
+                        "name": "Sydtrafik",
+                        "nameS": "SYD",
+                        "nameN": "SYD",
+                        "nameL": "Sydtrafik"
+                    },
+                    "name": "Bybus 1A",
+                    "internalName": "Bybus 1A",
+                    "displayNumber": "1A",
+                    "num": "1140",
+                    "line": "1A",
+                    "lineId": "028_245_32_1A",
+                    "catOut": "Bybus",
+                    "catIn": "028",
+                    "catCode": "5",
+                    "cls": "32",
+                    "catOutS": "028",
+                    "catOutL": "Bybus",
+                    "operatorCode": "SYD",
+                    "operator": "Sydtrafik",
+                    "admin": "245_32",
+                    "routeIdxFrom": 13,
+                    "routeIdxTo": 45,
+                    "matchId": "19101"
+                }
+            ],
+            "Notes": {
+                "Note": [
+                    {
+                        "value": "Sydtrafik",
+                        "key": "PU",
+                        "type": "I",
+                        "routeIdxFrom": 13,
+                        "routeIdxTo": 45,
+                        "txtN": "Sydtrafik"
+                    },
+                    {
+                        "value": "2007",
+                        "key": "bp",
+                        "type": "I",
+                        "routeIdxFrom": 13,
+                        "routeIdxTo": 45,
+                        "txtN": "2007"
+                    },
+                    {
+                        "value": "FDAE00",
+                        "key": "CT",
+                        "type": "I",
+                        "routeIdxFrom": 13,
+                        "routeIdxTo": 45,
+                        "txtN": "FDAE00"
+                    },
+                    {
+                        "value": "19101",
+                        "key": "FD",
+                        "type": "I",
+                        "routeIdxFrom": 13,
+                        "routeIdxTo": 45,
+                        "txtN": "19101"
+                    },
+                    {
+                        "value": "3610",
+                        "key": "TN",
+                        "type": "I",
+                        "txtN": "3610"
+                    },
+                    {
+                        "value": "SYD",
+                        "key": "TP",
+                        "type": "I",
+                        "txtN": "SYD"
+                    },
+                    {
+                        "value": "ST 610",
+                        "key": "TR",
+                        "type": "I",
+                        "txtN": "ST 610"
+                    },
+                    {
+                        "value": "610",
+                        "key": "TW",
+                        "type": "I",
+                        "txtN": "610"
+                    }
+                ]
+            },
+            "platform": {
+                "type": "PL",
+                "text": "B"
+            },
+            "name": "Bybus 1A",
+            "type": "ST",
+            "stop": "Esbjerg Busterminal",
+            "stopid": "A=1@O=Esbjerg Busterminal@X=8458292@Y=55468748@U=86@L=561100102@",
+            "stopExtId": "561100102",
+            "lon": 8.458292,
+            "lat": 55.468748,
+            "time": "19:36:00",
+            "date": "2024-11-27",
+            "track": "B",
+            "reachable": true,
+            "direction": "Hjerting via S\u00e6dding",
+            "directionFlag": "2"
+        },
+        {
+            "JourneyDetailRef": {
+                "ref": "2|#VN#1#ST#1732618831#PI#0#ZI#32388#TA#2#DA#271124#1S#561130401#1T#1916#LS#561000201#LT#1944#PU#86#RT#1#CA#028#ZE#11#ZB#Bybus 11#PC#5#FR#561130401#FT#1916#TO#561000201#TT#1944#"
+            },
+            "JourneyStatus": "P",
+            "ProductAtStop": {
+                "icon": {
+                    "res": "prod_bus"
+                },
+                "operatorInfo": {
+                    "name": "Sydtrafik",
+                    "nameS": "SYD",
+                    "nameN": "SYD",
+                    "nameL": "Sydtrafik"
+                },
+                "name": "Bybus 11",
+                "internalName": "Bybus 11",
+                "displayNumber": "11",
+                "num": "872",
+                "line": "11",
+                "lineId": "028_245_32_11",
+                "catOut": "Bybus",
+                "catIn": "028",
+                "catCode": "5",
+                "cls": "32",
+                "catOutS": "028",
+                "catOutL": "Bybus",
+                "operatorCode": "SYD",
+                "operator": "Sydtrafik",
+                "admin": "245_32",
+                "matchId": "17633"
+            },
+            "Product": [
+                {
+                    "icon": {
+                        "res": "prod_bus"
+                    },
+                    "operatorInfo": {
+                        "name": "Sydtrafik",
+                        "nameS": "SYD",
+                        "nameN": "SYD",
+                        "nameL": "Sydtrafik"
+                    },
+                    "name": "Bybus 11",
+                    "internalName": "Bybus 11",
+                    "displayNumber": "11",
+                    "num": "872",
+                    "line": "11",
+                    "lineId": "028_245_32_11",
+                    "catOut": "Bybus",
+                    "catIn": "028",
+                    "catCode": "5",
+                    "cls": "32",
+                    "catOutS": "028",
+                    "catOutL": "Bybus",
+                    "operatorCode": "SYD",
+                    "operator": "Sydtrafik",
+                    "admin": "245_32",
+                    "routeIdxFrom": 15,
+                    "routeIdxTo": 19,
+                    "matchId": "17633"
+                }
+            ],
+            "Notes": {
+                "Note": [
+                    {
+                        "value": "Sydtrafik",
+                        "key": "PU",
+                        "type": "I",
+                        "routeIdxFrom": 15,
+                        "routeIdxTo": 19,
+                        "txtN": "Sydtrafik"
+                    },
+                    {
+                        "value": "2007",
+                        "key": "bp",
+                        "type": "I",
+                        "routeIdxFrom": 15,
+                        "routeIdxTo": 19,
+                        "txtN": "2007"
+                    },
+                    {
+                        "value": "FDAE00",
+                        "key": "CT",
+                        "type": "I",
+                        "routeIdxFrom": 15,
+                        "routeIdxTo": 19,
+                        "txtN": "FDAE00"
+                    },
+                    {
+                        "value": "17633",
+                        "key": "FD",
+                        "type": "I",
+                        "routeIdxFrom": 15,
+                        "routeIdxTo": 19,
+                        "txtN": "17633"
+                    },
+                    {
+                        "value": "3610",
+                        "key": "TN",
+                        "type": "I",
+                        "txtN": "3610"
+                    },
+                    {
+                        "value": "SYD",
+                        "key": "TP",
+                        "type": "I",
+                        "txtN": "SYD"
+                    },
+                    {
+                        "value": "ST 610",
+                        "key": "TR",
+                        "type": "I",
+                        "txtN": "ST 610"
+                    },
+                    {
+                        "value": "610",
+                        "key": "TW",
+                        "type": "I",
+                        "txtN": "610"
+                    }
+                ]
+            },
+            "platform": {
+                "type": "PL",
+                "text": "B"
+            },
+            "name": "Bybus 11",
+            "type": "ST",
+            "stop": "Esbjerg Busterminal",
+            "stopid": "A=1@O=Esbjerg Busterminal@X=8458292@Y=55468748@U=86@L=561100102@",
+            "stopExtId": "561100102",
+            "lon": 8.458292,
+            "lat": 55.468748,
+            "time": "19:37:00",
+            "date": "2024-11-27",
+            "track": "B",
+            "reachable": true,
+            "direction": "Fan\u00f8f\u00e6rgen",
+            "directionFlag": "2"
+        },
+        {
+            "JourneyDetailRef": {
+                "ref": "2|#VN#1#ST#1732618831#PI#0#ZI#2719#TA#0#DA#271124#1S#8600215#1T#1941#LS#8600053#LT#2202#PU#86#RT#1#CA#003#ZE#3371#ZB#Re 3371#PC#2#FR#8600215#FT#1941#TO#8600053#TT#2202#"
+            },
+            "JourneyStatus": "P",
+            "ProductAtStop": {
+                "icon": {
+                    "res": "prod_ic"
+                },
+                "operatorInfo": {
+                    "name": "DSB",
+                    "nameS": "DSB",
+                    "nameN": "DSB",
+                    "nameL": "DSB"
+                },
+                "name": "Re 3371",
+                "internalName": "Re 3371",
+                "displayNumber": "3371",
+                "num": "3371",
+                "catOut": "Re",
+                "catIn": "003",
+                "catCode": "2",
+                "cls": "4",
+                "catOutS": "003",
+                "catOutL": "Re",
+                "operatorCode": "DSB",
+                "operator": "DSB",
+                "admin": "000002",
+                "matchId": "3371"
+            },
+            "Product": [
+                {
+                    "icon": {
+                        "res": "prod_ic"
+                    },
+                    "operatorInfo": {
+                        "name": "DSB",
+                        "nameS": "DSB",
+                        "nameN": "DSB",
+                        "nameL": "DSB"
+                    },
+                    "name": "Re 3371",
+                    "internalName": "Re 3371",
+                    "displayNumber": "3371",
+                    "num": "3371",
+                    "catOut": "Re",
+                    "catIn": "003",
+                    "catCode": "2",
+                    "cls": "4",
+                    "catOutS": "003",
+                    "catOutL": "Re",
+                    "operatorCode": "DSB",
+                    "operator": "DSB",
+                    "admin": "000002",
+                    "routeIdxFrom": 0,
+                    "routeIdxTo": 20,
+                    "matchId": "3371"
+                }
+            ],
+            "Notes": {
+                "Note": [
+                    {
+                        "value": "Cykelreservering kr\u00e6ves",
+                        "key": "CR",
+                        "type": "A",
+                        "priority": 0,
+                        "routeIdxFrom": 0,
+                        "routeIdxTo": 20,
+                        "txtN": "Cykelreservering kr\u00e6ves"
+                    },
+                    {
+                        "value": "Mulighed for internet",
+                        "key": "TD",
+                        "type": "A",
+                        "priority": 200,
+                        "routeIdxFrom": 0,
+                        "routeIdxTo": 20,
+                        "txtN": "Mulighed for internet"
+                    },
+                    {
+                        "value": "50ae30",
+                        "key": "CT",
+                        "type": "I",
+                        "routeIdxFrom": 0,
+                        "routeIdxTo": 20,
+                        "txtN": "50ae30"
+                    },
+                    {
+                        "key": "FB",
+                        "type": "A"
+                    },
+                    {
+                        "value": "3610",
+                        "key": "TN",
+                        "type": "I",
+                        "txtN": "3610"
+                    },
+                    {
+                        "value": "SYD",
+                        "key": "TP",
+                        "type": "I",
+                        "txtN": "SYD"
+                    },
+                    {
+                        "value": "ST 610",
+                        "key": "TR",
+                        "type": "I",
+                        "txtN": "ST 610"
+                    },
+                    {
+                        "value": "610",
+                        "key": "TW",
+                        "type": "I",
+                        "txtN": "610"
+                    }
+                ]
+            },
+            "platform": {
+                "type": "PL",
+                "text": "2"
+            },
+            "rtPlatform": {
+                "type": "PL",
+                "text": "2"
+            },
+            "name": "Re 3371",
+            "type": "ST",
+            "stop": "Esbjerg St.",
+            "stopid": "A=1@O=Esbjerg St.@X=8458193@Y=55467920@U=86@L=8600215@",
+            "stopExtId": "8600215",
+            "lon": 8.458193,
+            "lat": 55.46792,
+            "isMainMast": true,
+            "prognosisType": "PROGNOSED",
+            "time": "19:41:00",
+            "date": "2024-11-27",
+            "track": "2",
+            "rtTrack": "2",
+            "reachable": true,
+            "direction": "Aarhus H",
+            "directionFlag": "1"
+        },
+        {
+            "JourneyDetailRef": {
+                "ref": "2|#VN#1#ST#1732618831#PI#0#ZI#55968#TA#7#DA#271124#1S#561022201#1T#1809#LS#561022201#LT#2000#PU#86#RT#1#CA#028#ZE#2A#ZB#Bybus 2A#PC#5#FR#561022201#FT#1809#TO#561022201#TT#2000#"
+            },
+            "JourneyStatus": "P",
+            "ProductAtStop": {
+                "icon": {
+                    "res": "prod_bus"
+                },
+                "operatorInfo": {
+                    "name": "Sydtrafik",
+                    "nameS": "SYD",
+                    "nameN": "SYD",
+                    "nameL": "Sydtrafik"
+                },
+                "name": "Bybus 2A",
+                "internalName": "Bybus 2A",
+                "displayNumber": "2A",
+                "num": "522",
+                "line": "2A",
+                "lineId": "028_245_32_2A",
+                "catOut": "Bybus",
+                "catIn": "028",
+                "catCode": "5",
+                "cls": "32",
+                "catOutS": "028",
+                "catOutL": "Bybus",
+                "operatorCode": "SYD",
+                "operator": "Sydtrafik",
+                "admin": "245_32",
+                "matchId": "18682"
+            },
+            "Product": [
+                {
+                    "icon": {
+                        "res": "prod_bus"
+                    },
+                    "operatorInfo": {
+                        "name": "Sydtrafik",
+                        "nameS": "SYD",
+                        "nameN": "SYD",
+                        "nameL": "Sydtrafik"
+                    },
+                    "name": "Bybus 2A",
+                    "internalName": "Bybus 2A",
+                    "displayNumber": "2A",
+                    "num": "522",
+                    "line": "2A",
+                    "lineId": "028_245_32_2A",
+                    "catOut": "Bybus",
+                    "catIn": "028",
+                    "catCode": "5",
+                    "cls": "32",
+                    "catOutS": "028",
+                    "catOutL": "Bybus",
+                    "operatorCode": "SYD",
+                    "operator": "Sydtrafik",
+                    "admin": "245_32",
+                    "routeIdxFrom": 73,
+                    "routeIdxTo": 88,
+                    "matchId": "18682"
+                }
+            ],
+            "Notes": {
+                "Note": [
+                    {
+                        "value": "Sydtrafik",
+                        "key": "PU",
+                        "type": "I",
+                        "routeIdxFrom": 73,
+                        "routeIdxTo": 88,
+                        "txtN": "Sydtrafik"
+                    },
+                    {
+                        "value": "2007",
+                        "key": "bp",
+                        "type": "I",
+                        "routeIdxFrom": 73,
+                        "routeIdxTo": 88,
+                        "txtN": "2007"
+                    },
+                    {
+                        "value": "FDAE00",
+                        "key": "CT",
+                        "type": "I",
+                        "routeIdxFrom": 73,
+                        "routeIdxTo": 88,
+                        "txtN": "FDAE00"
+                    },
+                    {
+                        "value": "18682",
+                        "key": "FD",
+                        "type": "I",
+                        "routeIdxFrom": 73,
+                        "routeIdxTo": 88,
+                        "txtN": "18682"
+                    },
+                    {
+                        "value": "3610",
+                        "key": "TN",
+                        "type": "I",
+                        "txtN": "3610"
+                    },
+                    {
+                        "value": "SYD",
+                        "key": "TP",
+                        "type": "I",
+                        "txtN": "SYD"
+                    },
+                    {
+                        "value": "ST 610",
+                        "key": "TR",
+                        "type": "I",
+                        "txtN": "ST 610"
+                    },
+                    {
+                        "value": "610",
+                        "key": "TW",
+                        "type": "I",
+                        "txtN": "610"
+                    }
+                ]
+            },
+            "platform": {
+                "type": "PL",
+                "text": "B"
+            },
+            "name": "Bybus 2A",
+            "type": "ST",
+            "stop": "Esbjerg Busterminal",
+            "stopid": "A=1@O=Esbjerg Busterminal@X=8458292@Y=55468748@U=86@L=561100102@",
+            "stopExtId": "561100102",
+            "lon": 8.458292,
+            "lat": 55.468748,
+            "time": "19:41:00",
+            "date": "2024-11-27",
+            "track": "B",
+            "reachable": true,
+            "direction": "Hedelund via Baggesens All\u00e9",
+            "directionFlag": "2"
+        },
+        {
+            "JourneyDetailRef": {
+                "ref": "2|#VN#1#ST#1732618831#PI#0#ZI#29630#TA#0#DA#271124#1S#8600215#1T#1942#LS#8600212#LT#2000#PU#86#RT#1#CA#030#ZE#5183#ZB#RA 5183#PC#2#FR#8600215#FT#1942#TO#8600212#TT#2000#"
+            },
+            "JourneyStatus": "P",
+            "ProductAtStop": {
+                "icon": {
+                    "res": "prod_ic"
+                },
+                "operatorInfo": {
+                    "name": "GoCollective",
+                    "nameS": "GoC",
+                    "nameN": "GoC",
+                    "nameL": "GoCollective"
+                },
+                "name": "RA 5183",
+                "internalName": "RA 5183",
+                "displayNumber": "5183",
+                "num": "5183",
+                "catOut": "RA",
+                "catIn": "030",
+                "catCode": "2",
+                "cls": "4",
+                "catOutS": "030",
+                "catOutL": "RA",
+                "operatorCode": "GoC",
+                "operator": "GoCollective",
+                "admin": "000087",
+                "matchId": "5183"
+            },
+            "Product": [
+                {
+                    "icon": {
+                        "res": "prod_ic"
+                    },
+                    "operatorInfo": {
+                        "name": "GoCollective",
+                        "nameS": "GoC",
+                        "nameN": "GoC",
+                        "nameL": "GoCollective"
+                    },
+                    "name": "RA 5183",
+                    "internalName": "RA 5183",
+                    "displayNumber": "5183",
+                    "num": "5183",
+                    "catOut": "RA",
+                    "catIn": "030",
+                    "catCode": "2",
+                    "cls": "4",
+                    "catOutS": "030",
+                    "catOutL": "RA",
+                    "operatorCode": "GoC",
+                    "operator": "GoCollective",
+                    "admin": "000087",
+                    "routeIdxFrom": 0,
+                    "routeIdxTo": 5,
+                    "matchId": "5183"
+                }
+            ],
+            "Notes": {
+                "Note": [
+                    {
+                        "value": "Mulighed for internet",
+                        "key": "TD",
+                        "type": "A",
+                        "priority": 200,
+                        "routeIdxFrom": 0,
+                        "routeIdxTo": 5,
+                        "txtN": "Mulighed for internet"
+                    },
+                    {
+                        "value": "6938a1",
+                        "key": "CT",
+                        "type": "I",
+                        "routeIdxFrom": 0,
+                        "routeIdxTo": 5,
+                        "txtN": "6938a1"
+                    },
+                    {
+                        "value": "ffffff",
+                        "key": "CF",
+                        "type": "I",
+                        "routeIdxFrom": 0,
+                        "routeIdxTo": 5,
+                        "txtN": "ffffff"
+                    },
+                    {
+                        "key": "FB",
+                        "type": "A"
+                    },
+                    {
+                        "value": "3610",
+                        "key": "TN",
+                        "type": "I",
+                        "txtN": "3610"
+                    },
+                    {
+                        "value": "SYD",
+                        "key": "TP",
+                        "type": "I",
+                        "txtN": "SYD"
+                    },
+                    {
+                        "value": "ST 610",
+                        "key": "TR",
+                        "type": "I",
+                        "txtN": "ST 610"
+                    },
+                    {
+                        "value": "610",
+                        "key": "TW",
+                        "type": "I",
+                        "txtN": "610"
+                    }
+                ]
+            },
+            "rtPlatform": {
+                "type": "PL",
+                "text": "1"
+            },
+            "name": "RA 5183",
+            "type": "ST",
+            "stop": "Esbjerg St.",
+            "stopid": "A=1@O=Esbjerg St.@X=8458193@Y=55467920@U=86@L=8600215@",
+            "stopExtId": "8600215",
+            "lon": 8.458193,
+            "lat": 55.46792,
+            "isMainMast": true,
+            "prognosisType": "PROGNOSED",
+            "time": "19:42:00",
+            "date": "2024-11-27",
+            "rtTrack": "1",
+            "reachable": true,
+            "direction": "Varde St.",
+            "directionFlag": "1"
+        }
+    ],
+    "TechnicalMessages": {
+        "TechnicalMessage": [
+            {
+                "value": "2024-11-27 18:42:56",
+                "key": "requestTime"
+            },
+            {
+                "value": "ttp=16402#16480 plancode0=xubi5 planid=1732618831 planid0=1732618831 planid_adr=1732528415 plancode_adr=xsdrl planid_poi=1732519734 plancode_poi=xr62g srvv=5.45.Rejseplanen.15.4.11 (customer/hcudk/release/2024.4.2.0) [2024-09-13] tlibv=TRFVER: rel/dk/10.05.5 2024-08-23 16:30:57 +0200 Rejsekort v10.5.5 jno=1",
+                "key": "backendInfo"
+            }
+        ]
+    },
+    "serverVersion": "2.45.2",
+    "dialectVersion": "2.45-Rejseplanen",
+    "planRtTs": "2024-11-27T18:42:42.000+01:00",
+    "requestId": "8tgwpzg26qswgm4k"
+}

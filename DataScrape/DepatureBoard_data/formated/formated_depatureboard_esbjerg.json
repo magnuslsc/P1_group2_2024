@@ -1,0 +1,702 @@
+{"Depature":[{
+    "JourneyDetailRef": {
+        "ref": "2|#VN#1#ST#1732618831#PI#0#ZI#57279#TA#0#DA#271124#1S#8600215#1T#1842#LS#8604725#LT#1948#PU#86#RT#1#CA#030#ZE#5179#ZB#RA 5179#PC#2#FR#8600215#FT#1842#TO#8604725#TT#1948#"
+    },
+    "JourneyStatus": "P",
+    "ProductAtStop": {
+        "icon": {
+            "res": "prod_ic"
+        },
+        "operatorInfo": {
+            "name": "GoCollective",
+            "nameS": "GoC",
+            "nameN": "GoC",
+            "nameL": "GoCollective"
+        },
+        "name": "RA 5179",
+        "internalName": "RA 5179",
+        "displayNumber": "5179",
+        "num": "5179",
+        "catOut": "RA",
+        "catIn": "030",
+        "catCode": "2",
+        "cls": "4",
+        "catOutS": "030",
+        "catOutL": "RA",
+        "operatorCode": "GoC",
+        "operator": "GoCollective",
+        "admin": "000087",
+        "matchId": "5179"
+    },
+    "Product": [
+        {
+            "icon": {
+                "res": "prod_ic"
+            },
+            "operatorInfo": {
+                "name": "GoCollective",
+                "nameS": "GoC",
+                "nameN": "GoC",
+                "nameL": "GoCollective"
+            },
+            "name": "RA 5179",
+            "internalName": "RA 5179",
+            "displayNumber": "5179",
+            "num": "5179",
+            "catOut": "RA",
+            "catIn": "030",
+            "catCode": "2",
+            "cls": "4",
+            "catOutS": "030",
+            "catOutL": "RA",
+            "operatorCode": "GoC",
+            "operator": "GoCollective",
+            "admin": "000087",
+            "routeIdxFrom": 0,
+            "routeIdxTo": 21,
+            "matchId": "5179"
+        }
+    ],
+    "Notes": {
+        "Note": [
+            {
+                "value": "Mulighed for internet",
+                "key": "TD",
+                "type": "A",
+                "priority": 200,
+                "routeIdxFrom": 0,
+                "routeIdxTo": 21,
+                "txtN": "Mulighed for internet"
+            },
+            {
+                "value": "6938a1",
+                "key": "CT",
+                "type": "I",
+                "routeIdxFrom": 0,
+                "routeIdxTo": 21,
+                "txtN": "6938a1"
+            },
+            {
+                "value": "ffffff",
+                "key": "CF",
+                "type": "I",
+                "routeIdxFrom": 0,
+                "routeIdxTo": 21,
+                "txtN": "ffffff"
+            },
+            {
+                "key": "FB",
+                "type": "A"
+            },
+            {
+                "value": "3610",
+                "key": "TN",
+                "type": "I",
+                "txtN": "3610"
+            },
+            {
+                "value": "SYD",
+                "key": "TP",
+                "type": "I",
+                "txtN": "SYD"
+            },
+            {
+                "value": "ST 610",
+                "key": "TR",
+                "type": "I",
+                "txtN": "ST 610"
+            },
+            {
+                "value": "610",
+                "key": "TW",
+                "type": "I",
+                "txtN": "610"
+            }
+        ]
+    },
+    "rtPlatform": {
+        "type": "PL",
+        "text": "1"
+    },
+    "name": "RA 5179",
+    "type": "ST",
+    "stop": "Esbjerg St.",
+    "stopid": "A=1@O=Esbjerg St.@X=8458193@Y=55467920@U=86@L=8600215@",
+    "stopExtId": "8600215",
+    "lon": 8.458193,
+    "lat": 55.46792,
+    "isMainMast": true,
+    "prognosisType": "PROGNOSED",
+    "time": "18:42:00",
+    "date": "2024-11-27",
+    "rtTrack": "1",
+    "reachable": true,
+    "direction": "Varde St.",
+    "directionFlag": "1"
+},
+{
+    "JourneyDetailRef": {
+        "ref": "2|#VN#1#ST#1732618831#PI#0#ZI#57535#TA#0#DA#271124#1S#8604725#1T#1756#LS#8600432#LT#2032#PU#86#RT#1#CA#005#ZE#005#ZB#Lokalbane 005#PC#3#FR#8604725#FT#1756#TO#8600432#TT#2032#"
+    },
+    "JourneyStatus": "P",
+    "ProductAtStop": {
+        "icon": {
+            "res": "prod_ic"
+        },
+        "operatorInfo": {
+            "name": "GoCollective",
+            "nameS": "GoC",
+            "nameN": "GoC",
+            "nameL": "GoCollective"
+        },
+        "name": "RA 5075",
+        "internalName": "RA 5075",
+        "displayNumber": "5075",
+        "num": "5075",
+        "catOut": "RA",
+        "catIn": "030",
+        "catCode": "2",
+        "cls": "4",
+        "catOutS": "030",
+        "catOutL": "RA",
+        "operatorCode": "GoC",
+        "operator": "GoCollective",
+        "admin": "000087",
+        "matchId": "5075"
+    },
+    "Product": [
+        {
+            "icon": {
+                "res": "prod_ic"
+            },
+            "operatorInfo": {
+                "name": "GoCollective",
+                "nameS": "GoC",
+                "nameN": "GoC",
+                "nameL": "GoCollective"
+            },
+            "name": "RA 5075",
+            "internalName": "RA 5075",
+            "displayNumber": "5075",
+            "num": "5075",
+            "catOut": "RA",
+            "catIn": "030",
+            "catCode": "2",
+            "cls": "4",
+            "catOutS": "030",
+            "catOutL": "RA",
+            "operatorCode": "GoC",
+            "operator": "GoCollective",
+            "admin": "000087",
+            "routeIdxFrom": 21,
+            "routeIdxTo": 37,
+            "matchId": "5075"
+        }
+    ],
+    "Notes": {
+        "Note": [
+            {
+                "value": "Mulighed for internet",
+                "key": "TD",
+                "type": "A",
+                "priority": 200,
+                "routeIdxFrom": 21,
+                "routeIdxTo": 37,
+                "txtN": "Mulighed for internet"
+            },
+            {
+                "value": "6938a1",
+                "key": "CT",
+                "type": "I",
+                "routeIdxFrom": 21,
+                "routeIdxTo": 37,
+                "txtN": "6938a1"
+            },
+            {
+                "value": "ffffff",
+                "key": "CF",
+                "type": "I",
+                "routeIdxFrom": 21,
+                "routeIdxTo": 37,
+                "txtN": "ffffff"
+            },
+            {
+                "key": "FB",
+                "type": "A"
+            },
+            {
+                "value": "3610",
+                "key": "TN",
+                "type": "I",
+                "txtN": "3610"
+            },
+            {
+                "value": "SYD",
+                "key": "TP",
+                "type": "I",
+                "txtN": "SYD"
+            },
+            {
+                "value": "ST 610",
+                "key": "TR",
+                "type": "I",
+                "txtN": "ST 610"
+            },
+            {
+                "value": "610",
+                "key": "TW",
+                "type": "I",
+                "txtN": "610"
+            }
+        ]
+    },
+    "rtPlatform": {
+        "type": "PL",
+        "text": "0"
+    },
+    "name": "RA 5075",
+    "type": "ST",
+    "stop": "Esbjerg St.",
+    "stopid": "A=1@O=Esbjerg St.@X=8458193@Y=55467920@U=86@L=8600215@",
+    "stopExtId": "8600215",
+    "lon": 8.458193,
+    "lat": 55.46792,
+    "isMainMast": true,
+    "prognosisType": "PROGNOSED",
+    "time": "19:10:00",
+    "date": "2024-11-27",
+    "rtTrack": "0",
+    "reachable": true,
+    "direction": "T\u00f8nder St.",
+    "directionFlag": "1"
+},
+{
+    "JourneyDetailRef": {
+        "ref": "2|#VN#1#ST#1732618831#PI#0#ZI#364#TA#0#DA#271124#1S#8600215#1T#1927#LS#8600650#LT#2300#PU#86#RT#1#CA#001#ZE#8466#ZB#IC   8466#PC#0#FR#8600215#FT#1927#TO#8600650#TT#2300#"
+    },
+    "JourneyStatus": "P",
+    "ProductAtStop": {
+        "icon": {
+            "res": "prod_ic"
+        },
+        "operatorInfo": {
+            "name": "DSB",
+            "nameS": "DSB",
+            "nameN": "DSB",
+            "nameL": "DSB"
+        },
+        "name": "IC 8466",
+        "internalName": "IC   8466",
+        "displayNumber": "8466",
+        "num": "8466",
+        "catOut": "IC",
+        "catIn": "001",
+        "catCode": "0",
+        "cls": "1",
+        "catOutS": "001",
+        "catOutL": "IC",
+        "operatorCode": "DSB",
+        "operator": "DSB",
+        "admin": "000002",
+        "matchId": "8466"
+    },
+    "Product": [
+        {
+            "icon": {
+                "res": "prod_ic"
+            },
+            "operatorInfo": {
+                "name": "DSB",
+                "nameS": "DSB",
+                "nameN": "DSB",
+                "nameL": "DSB"
+            },
+            "name": "IC 8466",
+            "internalName": "IC   8466",
+            "displayNumber": "8466",
+            "num": "8466",
+            "catOut": "IC",
+            "catIn": "001",
+            "catCode": "0",
+            "cls": "1",
+            "catOutS": "001",
+            "catOutL": "IC",
+            "operatorCode": "DSB",
+            "operator": "DSB",
+            "admin": "000002",
+            "routeIdxFrom": 0,
+            "routeIdxTo": 38,
+            "matchId": "8466"
+        }
+    ],
+    "Notes": {
+        "Note": [
+            {
+                "value": "Cykelreservering kr\u00e6ves",
+                "key": "CR",
+                "type": "A",
+                "priority": 0,
+                "routeIdxFrom": 0,
+                "routeIdxTo": 38,
+                "txtN": "Cykelreservering kr\u00e6ves"
+            },
+            {
+                "value": "Reservering anbefales",
+                "key": "RE",
+                "type": "A",
+                "priority": 0,
+                "routeIdxFrom": 0,
+                "routeIdxTo": 38,
+                "txtN": "Reservering anbefales"
+            },
+            {
+                "value": "Mulighed for internet",
+                "key": "TD",
+                "type": "A",
+                "priority": 200,
+                "routeIdxFrom": 0,
+                "routeIdxTo": 38,
+                "txtN": "Mulighed for internet"
+            },
+            {
+                "value": "ec3400",
+                "key": "CT",
+                "type": "I",
+                "routeIdxFrom": 0,
+                "routeIdxTo": 38,
+                "txtN": "ec3400"
+            },
+            {
+                "key": "FB",
+                "type": "A"
+            },
+            {
+                "value": "3610",
+                "key": "TN",
+                "type": "I",
+                "txtN": "3610"
+            },
+            {
+                "value": "SYD",
+                "key": "TP",
+                "type": "I",
+                "txtN": "SYD"
+            },
+            {
+                "value": "ST 610",
+                "key": "TR",
+                "type": "I",
+                "txtN": "ST 610"
+            },
+            {
+                "value": "610",
+                "key": "TW",
+                "type": "I",
+                "txtN": "610"
+            }
+        ]
+    },
+    "platform": {
+        "type": "PL",
+        "text": "3"
+    },
+    "rtPlatform": {
+        "type": "PL",
+        "text": "3"
+    },
+    "name": "IC 8466",
+    "type": "ST",
+    "stop": "Esbjerg St.",
+    "stopid": "A=1@O=Esbjerg St.@X=8458193@Y=55467920@U=86@L=8600215@",
+    "stopExtId": "8600215",
+    "lon": 8.458193,
+    "lat": 55.46792,
+    "isMainMast": true,
+    "prognosisType": "PROGNOSED",
+    "time": "19:27:00",
+    "date": "2024-11-27",
+    "track": "3",
+    "rtTrack": "3",
+    "reachable": true,
+    "direction": "\u00d8sterport St.",
+    "directionFlag": "1"
+},
+{
+    "JourneyDetailRef": {
+        "ref": "2|#VN#1#ST#1732618831#PI#0#ZI#2719#TA#0#DA#271124#1S#8600215#1T#1941#LS#8600053#LT#2202#PU#86#RT#1#CA#003#ZE#3371#ZB#Re 3371#PC#2#FR#8600215#FT#1941#TO#8600053#TT#2202#"
+    },
+    "JourneyStatus": "P",
+    "ProductAtStop": {
+        "icon": {
+            "res": "prod_ic"
+        },
+        "operatorInfo": {
+            "name": "DSB",
+            "nameS": "DSB",
+            "nameN": "DSB",
+            "nameL": "DSB"
+        },
+        "name": "Re 3371",
+        "internalName": "Re 3371",
+        "displayNumber": "3371",
+        "num": "3371",
+        "catOut": "Re",
+        "catIn": "003",
+        "catCode": "2",
+        "cls": "4",
+        "catOutS": "003",
+        "catOutL": "Re",
+        "operatorCode": "DSB",
+        "operator": "DSB",
+        "admin": "000002",
+        "matchId": "3371"
+    },
+    "Product": [
+        {
+            "icon": {
+                "res": "prod_ic"
+            },
+            "operatorInfo": {
+                "name": "DSB",
+                "nameS": "DSB",
+                "nameN": "DSB",
+                "nameL": "DSB"
+            },
+            "name": "Re 3371",
+            "internalName": "Re 3371",
+            "displayNumber": "3371",
+            "num": "3371",
+            "catOut": "Re",
+            "catIn": "003",
+            "catCode": "2",
+            "cls": "4",
+            "catOutS": "003",
+            "catOutL": "Re",
+            "operatorCode": "DSB",
+            "operator": "DSB",
+            "admin": "000002",
+            "routeIdxFrom": 0,
+            "routeIdxTo": 20,
+            "matchId": "3371"
+        }
+    ],
+    "Notes": {
+        "Note": [
+            {
+                "value": "Cykelreservering kr\u00e6ves",
+                "key": "CR",
+                "type": "A",
+                "priority": 0,
+                "routeIdxFrom": 0,
+                "routeIdxTo": 20,
+                "txtN": "Cykelreservering kr\u00e6ves"
+            },
+            {
+                "value": "Mulighed for internet",
+                "key": "TD",
+                "type": "A",
+                "priority": 200,
+                "routeIdxFrom": 0,
+                "routeIdxTo": 20,
+                "txtN": "Mulighed for internet"
+            },
+            {
+                "value": "50ae30",
+                "key": "CT",
+                "type": "I",
+                "routeIdxFrom": 0,
+                "routeIdxTo": 20,
+                "txtN": "50ae30"
+            },
+            {
+                "key": "FB",
+                "type": "A"
+            },
+            {
+                "value": "3610",
+                "key": "TN",
+                "type": "I",
+                "txtN": "3610"
+            },
+            {
+                "value": "SYD",
+                "key": "TP",
+                "type": "I",
+                "txtN": "SYD"
+            },
+            {
+                "value": "ST 610",
+                "key": "TR",
+                "type": "I",
+                "txtN": "ST 610"
+            },
+            {
+                "value": "610",
+                "key": "TW",
+                "type": "I",
+                "txtN": "610"
+            }
+        ]
+    },
+    "platform": {
+        "type": "PL",
+        "text": "2"
+    },
+    "rtPlatform": {
+        "type": "PL",
+        "text": "2"
+    },
+    "name": "Re 3371",
+    "type": "ST",
+    "stop": "Esbjerg St.",
+    "stopid": "A=1@O=Esbjerg St.@X=8458193@Y=55467920@U=86@L=8600215@",
+    "stopExtId": "8600215",
+    "lon": 8.458193,
+    "lat": 55.46792,
+    "isMainMast": true,
+    "prognosisType": "PROGNOSED",
+    "time": "19:41:00",
+    "date": "2024-11-27",
+    "track": "2",
+    "rtTrack": "2",
+    "reachable": true,
+    "direction": "Aarhus H",
+    "directionFlag": "1"
+},
+{
+    "JourneyDetailRef": {
+        "ref": "2|#VN#1#ST#1732618831#PI#0#ZI#29630#TA#0#DA#271124#1S#8600215#1T#1942#LS#8600212#LT#2000#PU#86#RT#1#CA#030#ZE#5183#ZB#RA 5183#PC#2#FR#8600215#FT#1942#TO#8600212#TT#2000#"
+    },
+    "JourneyStatus": "P",
+    "ProductAtStop": {
+        "icon": {
+            "res": "prod_ic"
+        },
+        "operatorInfo": {
+            "name": "GoCollective",
+            "nameS": "GoC",
+            "nameN": "GoC",
+            "nameL": "GoCollective"
+        },
+        "name": "RA 5183",
+        "internalName": "RA 5183",
+        "displayNumber": "5183",
+        "num": "5183",
+        "catOut": "RA",
+        "catIn": "030",
+        "catCode": "2",
+        "cls": "4",
+        "catOutS": "030",
+        "catOutL": "RA",
+        "operatorCode": "GoC",
+        "operator": "GoCollective",
+        "admin": "000087",
+        "matchId": "5183"
+    },
+    "Product": [
+        {
+            "icon": {
+                "res": "prod_ic"
+            },
+            "operatorInfo": {
+                "name": "GoCollective",
+                "nameS": "GoC",
+                "nameN": "GoC",
+                "nameL": "GoCollective"
+            },
+            "name": "RA 5183",
+            "internalName": "RA 5183",
+            "displayNumber": "5183",
+            "num": "5183",
+            "catOut": "RA",
+            "catIn": "030",
+            "catCode": "2",
+            "cls": "4",
+            "catOutS": "030",
+            "catOutL": "RA",
+            "operatorCode": "GoC",
+            "operator": "GoCollective",
+            "admin": "000087",
+            "routeIdxFrom": 0,
+            "routeIdxTo": 5,
+            "matchId": "5183"
+        }
+    ],
+    "Notes": {
+        "Note": [
+            {
+                "value": "Mulighed for internet",
+                "key": "TD",
+                "type": "A",
+                "priority": 200,
+                "routeIdxFrom": 0,
+                "routeIdxTo": 5,
+                "txtN": "Mulighed for internet"
+            },
+            {
+                "value": "6938a1",
+                "key": "CT",
+                "type": "I",
+                "routeIdxFrom": 0,
+                "routeIdxTo": 5,
+                "txtN": "6938a1"
+            },
+            {
+                "value": "ffffff",
+                "key": "CF",
+                "type": "I",
+                "routeIdxFrom": 0,
+                "routeIdxTo": 5,
+                "txtN": "ffffff"
+            },
+            {
+                "key": "FB",
+                "type": "A"
+            },
+            {
+                "value": "3610",
+                "key": "TN",
+                "type": "I",
+                "txtN": "3610"
+            },
+            {
+                "value": "SYD",
+                "key": "TP",
+                "type": "I",
+                "txtN": "SYD"
+            },
+            {
+                "value": "ST 610",
+                "key": "TR",
+                "type": "I",
+                "txtN": "ST 610"
+            },
+            {
+                "value": "610",
+                "key": "TW",
+                "type": "I",
+                "txtN": "610"
+            }
+        ]
+    },
+    "rtPlatform": {
+        "type": "PL",
+        "text": "1"
+    },
+    "name": "RA 5183",
+    "type": "ST",
+    "stop": "Esbjerg St.",
+    "stopid": "A=1@O=Esbjerg St.@X=8458193@Y=55467920@U=86@L=8600215@",
+    "stopExtId": "8600215",
+    "lon": 8.458193,
+    "lat": 55.46792,
+    "isMainMast": true,
+    "prognosisType": "PROGNOSED",
+    "time": "19:42:00",
+    "date": "2024-11-27",
+    "rtTrack": "1",
+    "reachable": true,
+    "direction": "Varde St.",
+    "directionFlag": "1"
+},
+{}]}

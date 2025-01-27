@@ -1,0 +1,2370 @@
+{"Depature":[{
+    "JourneyDetailRef": {
+        "ref": "2|#VN#1#ST#1732618831#PI#0#ZI#1145#TA#1#DA#271124#1S#8600858#1T#1626#LS#8600053#LT#1942#PU#86#RT#1#CA#002#ZE#63#ZB#ICL 63#PC#1#FR#8600858#FT#1626#TO#8600053#TT#1942#"
+    },
+    "JourneyStatus": "P",
+    "ProductAtStop": {
+        "icon": {
+            "res": "prod_ic"
+        },
+        "operatorInfo": {
+            "name": "DSB",
+            "nameS": "DSB",
+            "nameN": "DSB",
+            "nameL": "DSB"
+        },
+        "name": "ICL 63",
+        "internalName": "ICL 63",
+        "displayNumber": "63",
+        "num": "63",
+        "catOut": "ICL",
+        "catIn": "002",
+        "catCode": "1",
+        "cls": "2",
+        "catOutS": "002",
+        "catOutL": "ICL",
+        "operatorCode": "DSB",
+        "operator": "DSB",
+        "admin": "000002",
+        "matchId": "63"
+    },
+    "Product": [
+        {
+            "icon": {
+                "res": "prod_ic"
+            },
+            "operatorInfo": {
+                "name": "DSB",
+                "nameS": "DSB",
+                "nameN": "DSB",
+                "nameL": "DSB"
+            },
+            "name": "ICL 63",
+            "internalName": "ICL 63",
+            "displayNumber": "63",
+            "num": "63",
+            "catOut": "ICL",
+            "catIn": "002",
+            "catCode": "1",
+            "cls": "2",
+            "catOutS": "002",
+            "catOutL": "ICL",
+            "operatorCode": "DSB",
+            "operator": "DSB",
+            "admin": "000002",
+            "routeIdxFrom": 23,
+            "routeIdxTo": 32,
+            "matchId": "63"
+        }
+    ],
+    "Notes": {
+        "Note": [
+            {
+                "value": "Cykelreservering kr\u00e6ves",
+                "key": "CR",
+                "type": "A",
+                "priority": 0,
+                "routeIdxFrom": 23,
+                "routeIdxTo": 32,
+                "txtN": "Cykelreservering kr\u00e6ves"
+            },
+            {
+                "value": "Reservering anbefales",
+                "key": "RE",
+                "type": "A",
+                "priority": 0,
+                "routeIdxFrom": 23,
+                "routeIdxTo": 32,
+                "txtN": "Reservering anbefales"
+            },
+            {
+                "value": "Mulighed for internet",
+                "key": "TD",
+                "type": "A",
+                "priority": 200,
+                "routeIdxFrom": 23,
+                "routeIdxTo": 32,
+                "txtN": "Mulighed for internet"
+            },
+            {
+                "value": "fdba58",
+                "key": "CT",
+                "type": "I",
+                "routeIdxFrom": 23,
+                "routeIdxTo": 32,
+                "txtN": "fdba58"
+            },
+            {
+                "value": "000000",
+                "key": "CF",
+                "type": "I",
+                "routeIdxFrom": 23,
+                "routeIdxTo": 32,
+                "txtN": "000000"
+            },
+            {
+                "key": "FB",
+                "type": "A"
+            },
+            {
+                "value": "8600079///741,74/",
+                "key": "TE",
+                "type": "I",
+                "txtN": "8600079///741,74/"
+            },
+            {
+                "value": "3530",
+                "key": "TN",
+                "type": "I",
+                "txtN": "3530"
+            },
+            {
+                "value": "SYD",
+                "key": "TP",
+                "type": "I",
+                "txtN": "SYD"
+            },
+            {
+                "value": "ST 530",
+                "key": "TR",
+                "type": "I",
+                "txtN": "ST 530"
+            },
+            {
+                "value": "530",
+                "key": "TW",
+                "type": "I",
+                "txtN": "530"
+            },
+            {
+                "value": "200",
+                "key": "en",
+                "type": "I",
+                "txtN": "200"
+            },
+            {
+                "value": "200",
+                "key": "ev",
+                "type": "I",
+                "txtN": "200"
+            }
+        ]
+    },
+    "platform": {
+        "type": "PL",
+        "text": "4"
+    },
+    "rtPlatform": {
+        "type": "PL",
+        "text": "4"
+    },
+    "name": "ICL 63",
+    "type": "ST",
+    "stop": "Fredericia St.",
+    "stopid": "A=1@O=Fredericia St.@X=9740639@Y=55568213@U=86@L=8600079@",
+    "stopExtId": "8600079",
+    "lon": 9.740639,
+    "lat": 55.568213,
+    "isMainMast": true,
+    "prognosisType": "PROGNOSED",
+    "time": "18:43:00",
+    "date": "2024-11-27",
+    "track": "4",
+    "rtTrack": "4",
+    "reachable": true,
+    "direction": "Aalborg Lufthavn St.",
+    "directionFlag": "1"
+},
+{
+    "JourneyDetailRef": {
+        "ref": "2|#VN#1#ST#1732618831#PI#0#ZI#1215#TA#2#DA#271124#1S#8600079#1T#1846#LS#8600189#LT#2048#PU#86#RT#1#CA#002#ZE#763#ZB#ICL 763#PC#1#FR#8600079#FT#1846#TO#8600189#TT#2048#"
+    },
+    "JourneyStatus": "P",
+    "ProductAtStop": {
+        "icon": {
+            "res": "prod_ic"
+        },
+        "operatorInfo": {
+            "name": "DSB",
+            "nameS": "DSB",
+            "nameN": "DSB",
+            "nameL": "DSB"
+        },
+        "name": "ICL 763",
+        "internalName": "ICL 763",
+        "displayNumber": "763",
+        "num": "763",
+        "catOut": "ICL",
+        "catIn": "002",
+        "catCode": "1",
+        "cls": "2",
+        "catOutS": "002",
+        "catOutL": "ICL",
+        "operatorCode": "DSB",
+        "operator": "DSB",
+        "admin": "000002",
+        "matchId": "763"
+    },
+    "Product": [
+        {
+            "icon": {
+                "res": "prod_ic"
+            },
+            "operatorInfo": {
+                "name": "DSB",
+                "nameS": "DSB",
+                "nameN": "DSB",
+                "nameL": "DSB"
+            },
+            "name": "ICL 763",
+            "internalName": "ICL 763",
+            "displayNumber": "763",
+            "num": "763",
+            "catOut": "ICL",
+            "catIn": "002",
+            "catCode": "1",
+            "cls": "2",
+            "catOutS": "002",
+            "catOutL": "ICL",
+            "operatorCode": "DSB",
+            "operator": "DSB",
+            "admin": "000002",
+            "routeIdxFrom": 0,
+            "routeIdxTo": 15,
+            "matchId": "763"
+        }
+    ],
+    "Notes": {
+        "Note": [
+            {
+                "value": "Cykelreservering kr\u00e6ves",
+                "key": "CR",
+                "type": "A",
+                "priority": 0,
+                "routeIdxFrom": 0,
+                "routeIdxTo": 15,
+                "txtN": "Cykelreservering kr\u00e6ves"
+            },
+            {
+                "value": "Reservering anbefales",
+                "key": "RE",
+                "type": "A",
+                "priority": 0,
+                "routeIdxFrom": 0,
+                "routeIdxTo": 15,
+                "txtN": "Reservering anbefales"
+            },
+            {
+                "value": "Mulighed for internet",
+                "key": "TD",
+                "type": "A",
+                "priority": 200,
+                "routeIdxFrom": 0,
+                "routeIdxTo": 15,
+                "txtN": "Mulighed for internet"
+            },
+            {
+                "value": "fdba58",
+                "key": "CT",
+                "type": "I",
+                "routeIdxFrom": 0,
+                "routeIdxTo": 15,
+                "txtN": "fdba58"
+            },
+            {
+                "value": "000000",
+                "key": "CF",
+                "type": "I",
+                "routeIdxFrom": 0,
+                "routeIdxTo": 15,
+                "txtN": "000000"
+            },
+            {
+                "key": "FB",
+                "type": "A"
+            },
+            {
+                "value": "8600079///741,74/",
+                "key": "TE",
+                "type": "I",
+                "txtN": "8600079///741,74/"
+            },
+            {
+                "value": "3530",
+                "key": "TN",
+                "type": "I",
+                "txtN": "3530"
+            },
+            {
+                "value": "SYD",
+                "key": "TP",
+                "type": "I",
+                "txtN": "SYD"
+            },
+            {
+                "value": "ST 530",
+                "key": "TR",
+                "type": "I",
+                "txtN": "ST 530"
+            },
+            {
+                "value": "530",
+                "key": "TW",
+                "type": "I",
+                "txtN": "530"
+            },
+            {
+                "value": "200",
+                "key": "en",
+                "type": "I",
+                "txtN": "200"
+            },
+            {
+                "value": "200",
+                "key": "ev",
+                "type": "I",
+                "txtN": "200"
+            }
+        ]
+    },
+    "platform": {
+        "type": "PL",
+        "text": "4"
+    },
+    "rtPlatform": {
+        "type": "PL",
+        "text": "4"
+    },
+    "name": "ICL 763",
+    "type": "ST",
+    "stop": "Fredericia St.",
+    "stopid": "A=1@O=Fredericia St.@X=9740639@Y=55568213@U=86@L=8600079@",
+    "stopExtId": "8600079",
+    "lon": 9.740639,
+    "lat": 55.568213,
+    "isMainMast": true,
+    "prognosisType": "PROGNOSED",
+    "time": "18:46:00",
+    "date": "2024-11-27",
+    "track": "4",
+    "rtTrack": "4",
+    "reachable": true,
+    "direction": "Struer St.",
+    "directionFlag": "1"
+},
+{
+    "JourneyDetailRef": {
+        "ref": "2|#VN#1#ST#1732618831#PI#0#ZI#96#TA#2#DA#271124#1S#8600053#1T#1745#LS#8600083#LT#1902#PU#86#RT#1#CA#001#ZE#460#ZB#IC    460#PC#0#FR#8600053#FT#1745#TO#8600083#TT#1902#"
+    },
+    "JourneyStatus": "P",
+    "ProductAtStop": {
+        "icon": {
+            "res": "prod_ic"
+        },
+        "operatorInfo": {
+            "name": "DSB",
+            "nameS": "DSB",
+            "nameN": "DSB",
+            "nameL": "DSB"
+        },
+        "name": "IC 460",
+        "internalName": "IC    460",
+        "displayNumber": "460",
+        "num": "460",
+        "catOut": "IC",
+        "catIn": "001",
+        "catCode": "0",
+        "cls": "1",
+        "catOutS": "001",
+        "catOutL": "IC",
+        "operatorCode": "DSB",
+        "operator": "DSB",
+        "admin": "000002",
+        "matchId": "460"
+    },
+    "Product": [
+        {
+            "icon": {
+                "res": "prod_ic"
+            },
+            "operatorInfo": {
+                "name": "DSB",
+                "nameS": "DSB",
+                "nameN": "DSB",
+                "nameL": "DSB"
+            },
+            "name": "IC 460",
+            "internalName": "IC    460",
+            "displayNumber": "460",
+            "num": "460",
+            "catOut": "IC",
+            "catIn": "001",
+            "catCode": "0",
+            "cls": "1",
+            "catOutS": "001",
+            "catOutL": "IC",
+            "operatorCode": "DSB",
+            "operator": "DSB",
+            "admin": "000002",
+            "routeIdxFrom": 9,
+            "routeIdxTo": 11,
+            "matchId": "460"
+        }
+    ],
+    "Notes": {
+        "Note": [
+            {
+                "value": "Cykelreservering kr\u00e6ves",
+                "key": "CR",
+                "type": "A",
+                "priority": 0,
+                "routeIdxFrom": 9,
+                "routeIdxTo": 11,
+                "txtN": "Cykelreservering kr\u00e6ves"
+            },
+            {
+                "value": "Reservering anbefales",
+                "key": "RE",
+                "type": "A",
+                "priority": 0,
+                "routeIdxFrom": 9,
+                "routeIdxTo": 11,
+                "txtN": "Reservering anbefales"
+            },
+            {
+                "value": "Mulighed for internet",
+                "key": "TD",
+                "type": "A",
+                "priority": 200,
+                "routeIdxFrom": 9,
+                "routeIdxTo": 11,
+                "txtN": "Mulighed for internet"
+            },
+            {
+                "value": "ec3400",
+                "key": "CT",
+                "type": "I",
+                "routeIdxFrom": 9,
+                "routeIdxTo": 11,
+                "txtN": "ec3400"
+            },
+            {
+                "key": "FB",
+                "type": "A"
+            },
+            {
+                "value": "8600079///741,74/",
+                "key": "TE",
+                "type": "I",
+                "txtN": "8600079///741,74/"
+            },
+            {
+                "value": "3530",
+                "key": "TN",
+                "type": "I",
+                "txtN": "3530"
+            },
+            {
+                "value": "SYD",
+                "key": "TP",
+                "type": "I",
+                "txtN": "SYD"
+            },
+            {
+                "value": "ST 530",
+                "key": "TR",
+                "type": "I",
+                "txtN": "ST 530"
+            },
+            {
+                "value": "530",
+                "key": "TW",
+                "type": "I",
+                "txtN": "530"
+            },
+            {
+                "value": "200",
+                "key": "en",
+                "type": "I",
+                "txtN": "200"
+            },
+            {
+                "value": "200",
+                "key": "ev",
+                "type": "I",
+                "txtN": "200"
+            }
+        ]
+    },
+    "platform": {
+        "type": "PL",
+        "text": "9"
+    },
+    "rtPlatform": {
+        "type": "PL",
+        "text": "9"
+    },
+    "name": "IC 460",
+    "type": "ST",
+    "stop": "Fredericia St.",
+    "stopid": "A=1@O=Fredericia St.@X=9740639@Y=55568213@U=86@L=8600079@",
+    "stopExtId": "8600079",
+    "lon": 9.740639,
+    "lat": 55.568213,
+    "isMainMast": true,
+    "prognosisType": "PROGNOSED",
+    "time": "18:50:00",
+    "date": "2024-11-27",
+    "track": "9",
+    "rtTrack": "9",
+    "reachable": true,
+    "direction": "Kolding St.",
+    "directionFlag": "1"
+},
+{
+    "JourneyDetailRef": {
+        "ref": "2|#VN#1#ST#1732618831#PI#0#ZI#2717#TA#2#DA#271124#1S#8600215#1T#1741#LS#8600053#LT#2002#PU#86#RT#1#CA#003#ZE#3363#ZB#Re 3363#PC#2#FR#8600215#FT#1741#TO#8600053#TT#2002#"
+    },
+    "JourneyStatus": "P",
+    "ProductAtStop": {
+        "icon": {
+            "res": "prod_ic"
+        },
+        "operatorInfo": {
+            "name": "DSB",
+            "nameS": "DSB",
+            "nameN": "DSB",
+            "nameL": "DSB"
+        },
+        "name": "Re 3363",
+        "internalName": "Re 3363",
+        "displayNumber": "3363",
+        "num": "3363",
+        "catOut": "Re",
+        "catIn": "003",
+        "catCode": "2",
+        "cls": "4",
+        "catOutS": "003",
+        "catOutL": "Re",
+        "operatorCode": "DSB",
+        "operator": "DSB",
+        "admin": "000002",
+        "matchId": "3363"
+    },
+    "Product": [
+        {
+            "icon": {
+                "res": "prod_ic"
+            },
+            "operatorInfo": {
+                "name": "DSB",
+                "nameS": "DSB",
+                "nameN": "DSB",
+                "nameL": "DSB"
+            },
+            "name": "Re 3363",
+            "internalName": "Re 3363",
+            "displayNumber": "3363",
+            "num": "3363",
+            "catOut": "Re",
+            "catIn": "003",
+            "catCode": "2",
+            "cls": "4",
+            "catOutS": "003",
+            "catOutL": "Re",
+            "operatorCode": "DSB",
+            "operator": "DSB",
+            "admin": "000002",
+            "routeIdxFrom": 11,
+            "routeIdxTo": 20,
+            "matchId": "3363"
+        }
+    ],
+    "Notes": {
+        "Note": [
+            {
+                "value": "Toget har lav indstigning",
+                "key": "BE",
+                "type": "A",
+                "priority": 0,
+                "routeIdxFrom": 11,
+                "routeIdxTo": 20,
+                "txtN": "Toget har lav indstigning"
+            },
+            {
+                "value": "Cykelreservering kr\u00e6ves",
+                "key": "CR",
+                "type": "A",
+                "priority": 0,
+                "routeIdxFrom": 11,
+                "routeIdxTo": 20,
+                "txtN": "Cykelreservering kr\u00e6ves"
+            },
+            {
+                "value": "Mulighed for internet",
+                "key": "TD",
+                "type": "A",
+                "priority": 200,
+                "routeIdxFrom": 11,
+                "routeIdxTo": 20,
+                "txtN": "Mulighed for internet"
+            },
+            {
+                "value": "50ae30",
+                "key": "CT",
+                "type": "I",
+                "routeIdxFrom": 11,
+                "routeIdxTo": 20,
+                "txtN": "50ae30"
+            },
+            {
+                "key": "FB",
+                "type": "A"
+            },
+            {
+                "value": "8600079///741,74/",
+                "key": "TE",
+                "type": "I",
+                "txtN": "8600079///741,74/"
+            },
+            {
+                "value": "3530",
+                "key": "TN",
+                "type": "I",
+                "txtN": "3530"
+            },
+            {
+                "value": "SYD",
+                "key": "TP",
+                "type": "I",
+                "txtN": "SYD"
+            },
+            {
+                "value": "ST 530",
+                "key": "TR",
+                "type": "I",
+                "txtN": "ST 530"
+            },
+            {
+                "value": "530",
+                "key": "TW",
+                "type": "I",
+                "txtN": "530"
+            },
+            {
+                "value": "200",
+                "key": "en",
+                "type": "I",
+                "txtN": "200"
+            },
+            {
+                "value": "200",
+                "key": "ev",
+                "type": "I",
+                "txtN": "200"
+            }
+        ]
+    },
+    "platform": {
+        "type": "PL",
+        "text": "3"
+    },
+    "rtPlatform": {
+        "type": "PL",
+        "text": "3"
+    },
+    "name": "Re 3363",
+    "type": "ST",
+    "stop": "Fredericia St.",
+    "stopid": "A=1@O=Fredericia St.@X=9740639@Y=55568213@U=86@L=8600079@",
+    "stopExtId": "8600079",
+    "lon": 9.740639,
+    "lat": 55.568213,
+    "isMainMast": true,
+    "prognosisType": "PROGNOSED",
+    "time": "18:50:00",
+    "date": "2024-11-27",
+    "track": "3",
+    "rtTrack": "3",
+    "reachable": true,
+    "direction": "Aarhus H",
+    "directionFlag": "1"
+},
+{
+    "JourneyDetailRef": {
+        "ref": "2|#VN#1#ST#1732618831#PI#0#ZI#72#TA#0#DA#271124#1S#8600079#1T#1854#LS#8600626#LT#2056#PU#86#RT#1#CA#001#ZE#160#ZB#IC    160#PC#0#FR#8600079#FT#1854#TO#8600626#TT#2056#"
+    },
+    "JourneyStatus": "P",
+    "ProductAtStop": {
+        "icon": {
+            "res": "prod_ic"
+        },
+        "operatorInfo": {
+            "name": "DSB",
+            "nameS": "DSB",
+            "nameN": "DSB",
+            "nameL": "DSB"
+        },
+        "name": "IC 160",
+        "internalName": "IC    160",
+        "displayNumber": "160",
+        "num": "160",
+        "catOut": "IC",
+        "catIn": "001",
+        "catCode": "0",
+        "cls": "1",
+        "catOutS": "001",
+        "catOutL": "IC",
+        "operatorCode": "DSB",
+        "operator": "DSB",
+        "admin": "000002",
+        "matchId": "160"
+    },
+    "Product": [
+        {
+            "icon": {
+                "res": "prod_ic"
+            },
+            "operatorInfo": {
+                "name": "DSB",
+                "nameS": "DSB",
+                "nameN": "DSB",
+                "nameL": "DSB"
+            },
+            "name": "IC 160",
+            "internalName": "IC    160",
+            "displayNumber": "160",
+            "num": "160",
+            "catOut": "IC",
+            "catIn": "001",
+            "catCode": "0",
+            "cls": "1",
+            "catOutS": "001",
+            "catOutL": "IC",
+            "operatorCode": "DSB",
+            "operator": "DSB",
+            "admin": "000002",
+            "routeIdxFrom": 0,
+            "routeIdxTo": 20,
+            "matchId": "160"
+        }
+    ],
+    "Notes": {
+        "Note": [
+            {
+                "value": "Cykelreservering kr\u00e6ves",
+                "key": "CR",
+                "type": "A",
+                "priority": 0,
+                "routeIdxFrom": 0,
+                "routeIdxTo": 20,
+                "txtN": "Cykelreservering kr\u00e6ves"
+            },
+            {
+                "value": "Reservering anbefales",
+                "key": "RE",
+                "type": "A",
+                "priority": 0,
+                "routeIdxFrom": 0,
+                "routeIdxTo": 20,
+                "txtN": "Reservering anbefales"
+            },
+            {
+                "value": "Mulighed for internet",
+                "key": "TD",
+                "type": "A",
+                "priority": 200,
+                "routeIdxFrom": 0,
+                "routeIdxTo": 20,
+                "txtN": "Mulighed for internet"
+            },
+            {
+                "value": "ec3400",
+                "key": "CT",
+                "type": "I",
+                "routeIdxFrom": 0,
+                "routeIdxTo": 20,
+                "txtN": "ec3400"
+            },
+            {
+                "key": "FB",
+                "type": "A"
+            },
+            {
+                "value": "8600079///741,74/",
+                "key": "TE",
+                "type": "I",
+                "txtN": "8600079///741,74/"
+            },
+            {
+                "value": "3530",
+                "key": "TN",
+                "type": "I",
+                "txtN": "3530"
+            },
+            {
+                "value": "SYD",
+                "key": "TP",
+                "type": "I",
+                "txtN": "SYD"
+            },
+            {
+                "value": "ST 530",
+                "key": "TR",
+                "type": "I",
+                "txtN": "ST 530"
+            },
+            {
+                "value": "530",
+                "key": "TW",
+                "type": "I",
+                "txtN": "530"
+            },
+            {
+                "value": "200",
+                "key": "en",
+                "type": "I",
+                "txtN": "200"
+            },
+            {
+                "value": "200",
+                "key": "ev",
+                "type": "I",
+                "txtN": "200"
+            }
+        ]
+    },
+    "Messages": {
+        "Message": [
+            {
+                "affectedStops": {
+                    "StopLocation": [
+                        {
+                            "LocationNotes": {
+                                "LocationNote": [
+                                    {
+                                        "value": "",
+                                        "key": "FB",
+                                        "type": "A",
+                                        "txtN": ""
+                                    },
+                                    {
+                                        "value": "8600512///741,74/",
+                                        "key": "TE",
+                                        "type": "I",
+                                        "txtN": "8600512///741,74/"
+                                    },
+                                    {
+                                        "value": "2001",
+                                        "key": "TN",
+                                        "type": "I",
+                                        "txtN": "2001"
+                                    },
+                                    {
+                                        "value": "FYNTOG",
+                                        "key": "TP",
+                                        "type": "I",
+                                        "txtN": "FYNTOG"
+                                    },
+                                    {
+                                        "value": "FYN 001",
+                                        "key": "TR",
+                                        "type": "I",
+                                        "txtN": "FYN 001"
+                                    },
+                                    {
+                                        "value": "1",
+                                        "key": "TW",
+                                        "type": "I",
+                                        "txtN": "1"
+                                    },
+                                    {
+                                        "value": "200",
+                                        "key": "en",
+                                        "type": "I",
+                                        "txtN": "200"
+                                    },
+                                    {
+                                        "value": "200",
+                                        "key": "ev",
+                                        "type": "I",
+                                        "txtN": "200"
+                                    }
+                                ]
+                            },
+                            "productAtStop": [
+                                {
+                                    "icon": {
+                                        "res": "prod_ic"
+                                    },
+                                    "name": "IC",
+                                    "internalName": "IC      ",
+                                    "catOut": "IC",
+                                    "cls": "1",
+                                    "catOutS": "001",
+                                    "catOutL": "IC"
+                                },
+                                {
+                                    "icon": {
+                                        "res": "prod_ic"
+                                    },
+                                    "name": "ICL",
+                                    "internalName": "ICL     ",
+                                    "catOut": "ICL",
+                                    "cls": "2",
+                                    "catOutS": "002",
+                                    "catOutL": "ICL"
+                                },
+                                {
+                                    "icon": {
+                                        "res": "prod_ic"
+                                    },
+                                    "name": "RA",
+                                    "internalName": "RA      ",
+                                    "catOut": "RA",
+                                    "cls": "4",
+                                    "catOutS": "030",
+                                    "catOutL": "RA"
+                                },
+                                {
+                                    "icon": {
+                                        "res": "prod_ic"
+                                    },
+                                    "name": "Re",
+                                    "internalName": "Re      ",
+                                    "catOut": "Re",
+                                    "cls": "4",
+                                    "catOutS": "004",
+                                    "catOutL": "Re"
+                                },
+                                {
+                                    "icon": {
+                                        "res": "prod_gen"
+                                    },
+                                    "name": "EC",
+                                    "internalName": "EC      ",
+                                    "catOut": "EC",
+                                    "cls": "8",
+                                    "catOutS": "015",
+                                    "catOutL": "EC"
+                                }
+                            ],
+                            "id": "A=1@O=Odense St.@X=10386739@Y=55401778@U=86@L=8600512@",
+                            "extId": "8600512",
+                            "isMainMast": true,
+                            "name": "Odense St.",
+                            "lon": 10.386739,
+                            "lat": 55.401778,
+                            "products": 15
+                        },
+                        {
+                            "LocationNotes": {
+                                "LocationNote": [
+                                    {
+                                        "value": "",
+                                        "key": "FB",
+                                        "type": "A",
+                                        "txtN": ""
+                                    },
+                                    {
+                                        "value": "8600079///741,74/",
+                                        "key": "TE",
+                                        "type": "I",
+                                        "txtN": "8600079///741,74/"
+                                    },
+                                    {
+                                        "value": "3530",
+                                        "key": "TN",
+                                        "type": "I",
+                                        "txtN": "3530"
+                                    },
+                                    {
+                                        "value": "SYD",
+                                        "key": "TP",
+                                        "type": "I",
+                                        "txtN": "SYD"
+                                    },
+                                    {
+                                        "value": "ST 530",
+                                        "key": "TR",
+                                        "type": "I",
+                                        "txtN": "ST 530"
+                                    },
+                                    {
+                                        "value": "530",
+                                        "key": "TW",
+                                        "type": "I",
+                                        "txtN": "530"
+                                    },
+                                    {
+                                        "value": "200",
+                                        "key": "en",
+                                        "type": "I",
+                                        "txtN": "200"
+                                    },
+                                    {
+                                        "value": "200",
+                                        "key": "ev",
+                                        "type": "I",
+                                        "txtN": "200"
+                                    }
+                                ]
+                            },
+                            "productAtStop": [
+                                {
+                                    "icon": {
+                                        "res": "prod_ic"
+                                    },
+                                    "name": "IC",
+                                    "internalName": "IC      ",
+                                    "catOut": "IC",
+                                    "cls": "1",
+                                    "catOutS": "001",
+                                    "catOutL": "IC"
+                                },
+                                {
+                                    "icon": {
+                                        "res": "prod_ic"
+                                    },
+                                    "name": "ICL",
+                                    "internalName": "ICL     ",
+                                    "catOut": "ICL",
+                                    "cls": "2",
+                                    "catOutS": "002",
+                                    "catOutL": "ICL"
+                                },
+                                {
+                                    "icon": {
+                                        "res": "prod_ic"
+                                    },
+                                    "name": "Re",
+                                    "internalName": "Re      ",
+                                    "catOut": "Re",
+                                    "cls": "4",
+                                    "catOutS": "004",
+                                    "catOutL": "Re"
+                                }
+                            ],
+                            "id": "A=1@O=Fredericia St.@X=9740639@Y=55568213@U=86@L=8600079@",
+                            "extId": "8600079",
+                            "isMainMast": true,
+                            "name": "Fredericia St.",
+                            "lon": 9.740639,
+                            "lat": 55.568213,
+                            "products": 7
+                        }
+                    ]
+                },
+                "validFromStop": {
+                    "name": "Odense St.",
+                    "id": "A=1@O=Odense St.@X=10386739@Y=55401778@U=86@L=8600512@",
+                    "extId": "8600512",
+                    "routeIdx": 0,
+                    "lon": 10.386739,
+                    "lat": 55.401778,
+                    "minimumChangeDuration": "PT5M"
+                },
+                "validToStop": {
+                    "name": "Fredericia St.",
+                    "id": "A=1@O=Fredericia St.@X=9740639@Y=55568213@U=86@L=8600079@",
+                    "extId": "8600079",
+                    "routeIdx": 11,
+                    "lon": 9.740639,
+                    "lat": 55.568213,
+                    "minimumChangeDuration": "PT5M"
+                },
+                "channel": [
+                    {
+                        "name": "TIMETABLE",
+                        "validFromTime": "18:00:00",
+                        "validFromDate": "2024-11-27",
+                        "validToTime": "21:00:00",
+                        "validToDate": "2024-11-27"
+                    }
+                ],
+                "messageCategory": [
+                    {
+                        "id": 5
+                    }
+                ],
+                "id": "379936",
+                "act": true,
+                "head": "Ingen regionaltog mellem Odense og Fredericia - resten af driftsd\u00f8gnet",
+                "lead": "Vi har bestilt Togbusser til at k\u00f8re i stedet, vi vender tilbage med nyt snarest.   Det skyldes, at en k\u00f8reledning er faldet ned mellem Ejby og Gelsted. Banedanmarks teknikere er i gang med at reparationsarbejdet.",
+                "text": "Vi har bestilt Togbusser til at k\u00f8re i stedet, vi vender tilbage med nyt snarest.   Det skyldes, at en k\u00f8reledning er faldet ned mellem Ejby og Gelsted. Banedanmarks teknikere er i gang med at reparationsarbejdet. (Fredericia St. - Odense St.)",
+                "company": "DcDK",
+                "category": "5",
+                "products": 7,
+                "icon": "HIM5",
+                "routeIdxFrom": 0,
+                "routeIdxTo": 11,
+                "sTime": "18:00:00",
+                "sDate": "2024-11-27",
+                "eTime": "21:00:00",
+                "eDate": "2024-11-27",
+                "modTime": "18:31:22",
+                "modDate": "2024-11-27",
+                "dailyStartingAt": "00:00:00",
+                "dailyDuration": "PT23H59M0S"
+            }
+        ]
+    },
+    "platform": {
+        "type": "PL",
+        "text": "10"
+    },
+    "rtPlatform": {
+        "type": "PL",
+        "text": "10"
+    },
+    "name": "IC 160",
+    "type": "ST",
+    "stop": "Fredericia St.",
+    "stopid": "A=1@O=Fredericia St.@X=9740639@Y=55568213@U=86@L=8600079@",
+    "stopExtId": "8600079",
+    "lon": 9.740639,
+    "lat": 55.568213,
+    "isMainMast": true,
+    "prognosisType": "PROGNOSED",
+    "time": "18:54:00",
+    "date": "2024-11-27",
+    "track": "10",
+    "rtTrack": "10",
+    "reachable": true,
+    "direction": "K\u00f8benhavn H",
+    "directionFlag": "1"
+},
+{
+    "JourneyDetailRef": {
+        "ref": "2|#VN#1#ST#1732618831#PI#0#ZI#981#TA#0#DA#271124#1S#8600626#1T#1704#LS#8600053#LT#2012#PU#86#RT#1#CA#001#ZE#165#ZB#IC    165#PC#0#FR#8600626#FT#1704#TO#8600053#TT#2012#"
+    },
+    "JourneyStatus": "P",
+    "ProductAtStop": {
+        "icon": {
+            "res": "prod_ic"
+        },
+        "operatorInfo": {
+            "name": "DSB",
+            "nameS": "DSB",
+            "nameN": "DSB",
+            "nameL": "DSB"
+        },
+        "name": "IC 165",
+        "internalName": "IC    165",
+        "displayNumber": "165",
+        "num": "165",
+        "catOut": "IC",
+        "catIn": "001",
+        "catCode": "0",
+        "cls": "1",
+        "catOutS": "001",
+        "catOutL": "IC",
+        "operatorCode": "DSB",
+        "operator": "DSB",
+        "admin": "000002",
+        "matchId": "165"
+    },
+    "Product": [
+        {
+            "icon": {
+                "res": "prod_ic"
+            },
+            "operatorInfo": {
+                "name": "DSB",
+                "nameS": "DSB",
+                "nameN": "DSB",
+                "nameL": "DSB"
+            },
+            "name": "IC 165",
+            "internalName": "IC    165",
+            "displayNumber": "165",
+            "num": "165",
+            "catOut": "IC",
+            "catIn": "001",
+            "catCode": "0",
+            "cls": "1",
+            "catOutS": "001",
+            "catOutL": "IC",
+            "operatorCode": "DSB",
+            "operator": "DSB",
+            "admin": "000002",
+            "routeIdxFrom": 20,
+            "routeIdxTo": 29,
+            "matchId": "165"
+        }
+    ],
+    "Notes": {
+        "Note": [
+            {
+                "value": "Cykelreservering kr\u00e6ves",
+                "key": "CR",
+                "type": "A",
+                "priority": 0,
+                "routeIdxFrom": 20,
+                "routeIdxTo": 29,
+                "txtN": "Cykelreservering kr\u00e6ves"
+            },
+            {
+                "value": "Reservering anbefales",
+                "key": "RE",
+                "type": "A",
+                "priority": 0,
+                "routeIdxFrom": 20,
+                "routeIdxTo": 29,
+                "txtN": "Reservering anbefales"
+            },
+            {
+                "value": "Mulighed for internet",
+                "key": "TD",
+                "type": "A",
+                "priority": 200,
+                "routeIdxFrom": 20,
+                "routeIdxTo": 29,
+                "txtN": "Mulighed for internet"
+            },
+            {
+                "value": "ec3400",
+                "key": "CT",
+                "type": "I",
+                "routeIdxFrom": 20,
+                "routeIdxTo": 29,
+                "txtN": "ec3400"
+            },
+            {
+                "key": "FB",
+                "type": "A"
+            },
+            {
+                "value": "8600079///741,74/",
+                "key": "TE",
+                "type": "I",
+                "txtN": "8600079///741,74/"
+            },
+            {
+                "value": "3530",
+                "key": "TN",
+                "type": "I",
+                "txtN": "3530"
+            },
+            {
+                "value": "SYD",
+                "key": "TP",
+                "type": "I",
+                "txtN": "SYD"
+            },
+            {
+                "value": "ST 530",
+                "key": "TR",
+                "type": "I",
+                "txtN": "ST 530"
+            },
+            {
+                "value": "530",
+                "key": "TW",
+                "type": "I",
+                "txtN": "530"
+            },
+            {
+                "value": "200",
+                "key": "en",
+                "type": "I",
+                "txtN": "200"
+            },
+            {
+                "value": "200",
+                "key": "ev",
+                "type": "I",
+                "txtN": "200"
+            }
+        ]
+    },
+    "platform": {
+        "type": "PL",
+        "text": "4"
+    },
+    "rtPlatform": {
+        "type": "PL",
+        "text": "4"
+    },
+    "name": "IC 165",
+    "type": "ST",
+    "stop": "Fredericia St.",
+    "stopid": "A=1@O=Fredericia St.@X=9740639@Y=55568213@U=86@L=8600079@",
+    "stopExtId": "8600079",
+    "lon": 9.740639,
+    "lat": 55.568213,
+    "isMainMast": true,
+    "prognosisType": "PROGNOSED",
+    "time": "19:13:00",
+    "date": "2024-11-27",
+    "track": "4",
+    "rtTrack": "4",
+    "reachable": true,
+    "direction": "Aalborg St.",
+    "directionFlag": "1"
+},
+{
+    "JourneyDetailRef": {
+        "ref": "2|#VN#1#ST#1732618831#PI#0#ZI#2707#TA#0#DA#271124#1S#8600053#1T#1758#LS#8600215#LT#2018#PU#86#RT#1#CA#003#ZE#3362#ZB#Re 3362#PC#2#FR#8600053#FT#1758#TO#8600215#TT#2018#"
+    },
+    "JourneyStatus": "P",
+    "ProductAtStop": {
+        "icon": {
+            "res": "prod_ic"
+        },
+        "operatorInfo": {
+            "name": "DSB",
+            "nameS": "DSB",
+            "nameN": "DSB",
+            "nameL": "DSB"
+        },
+        "name": "Re 3362",
+        "internalName": "Re 3362",
+        "displayNumber": "3362",
+        "num": "3362",
+        "catOut": "Re",
+        "catIn": "003",
+        "catCode": "2",
+        "cls": "4",
+        "catOutS": "003",
+        "catOutL": "Re",
+        "operatorCode": "DSB",
+        "operator": "DSB",
+        "admin": "000002",
+        "matchId": "3362"
+    },
+    "Product": [
+        {
+            "icon": {
+                "res": "prod_ic"
+            },
+            "operatorInfo": {
+                "name": "DSB",
+                "nameS": "DSB",
+                "nameN": "DSB",
+                "nameL": "DSB"
+            },
+            "name": "Re 3362",
+            "internalName": "Re 3362",
+            "displayNumber": "3362",
+            "num": "3362",
+            "catOut": "Re",
+            "catIn": "003",
+            "catCode": "2",
+            "cls": "4",
+            "catOutS": "003",
+            "catOutL": "Re",
+            "operatorCode": "DSB",
+            "operator": "DSB",
+            "admin": "000002",
+            "routeIdxFrom": 9,
+            "routeIdxTo": 20,
+            "matchId": "3362"
+        }
+    ],
+    "Notes": {
+        "Note": [
+            {
+                "value": "Toget har lav indstigning",
+                "key": "BE",
+                "type": "A",
+                "priority": 0,
+                "routeIdxFrom": 9,
+                "routeIdxTo": 20,
+                "txtN": "Toget har lav indstigning"
+            },
+            {
+                "value": "Cykelreservering kr\u00e6ves",
+                "key": "CR",
+                "type": "A",
+                "priority": 0,
+                "routeIdxFrom": 9,
+                "routeIdxTo": 20,
+                "txtN": "Cykelreservering kr\u00e6ves"
+            },
+            {
+                "value": "Mulighed for internet",
+                "key": "TD",
+                "type": "A",
+                "priority": 200,
+                "routeIdxFrom": 9,
+                "routeIdxTo": 20,
+                "txtN": "Mulighed for internet"
+            },
+            {
+                "value": "50ae30",
+                "key": "CT",
+                "type": "I",
+                "routeIdxFrom": 9,
+                "routeIdxTo": 20,
+                "txtN": "50ae30"
+            },
+            {
+                "key": "FB",
+                "type": "A"
+            },
+            {
+                "value": "8600079///741,74/",
+                "key": "TE",
+                "type": "I",
+                "txtN": "8600079///741,74/"
+            },
+            {
+                "value": "3530",
+                "key": "TN",
+                "type": "I",
+                "txtN": "3530"
+            },
+            {
+                "value": "SYD",
+                "key": "TP",
+                "type": "I",
+                "txtN": "SYD"
+            },
+            {
+                "value": "ST 530",
+                "key": "TR",
+                "type": "I",
+                "txtN": "ST 530"
+            },
+            {
+                "value": "530",
+                "key": "TW",
+                "type": "I",
+                "txtN": "530"
+            },
+            {
+                "value": "200",
+                "key": "en",
+                "type": "I",
+                "txtN": "200"
+            },
+            {
+                "value": "200",
+                "key": "ev",
+                "type": "I",
+                "txtN": "200"
+            }
+        ]
+    },
+    "platform": {
+        "type": "PL",
+        "text": "7"
+    },
+    "rtPlatform": {
+        "type": "PL",
+        "text": "7"
+    },
+    "name": "Re 3362",
+    "type": "ST",
+    "stop": "Fredericia St.",
+    "stopid": "A=1@O=Fredericia St.@X=9740639@Y=55568213@U=86@L=8600079@",
+    "stopExtId": "8600079",
+    "lon": 9.740639,
+    "lat": 55.568213,
+    "isMainMast": true,
+    "prognosisType": "PROGNOSED",
+    "time": "19:13:00",
+    "date": "2024-11-27",
+    "track": "7",
+    "rtTrack": "7",
+    "reachable": true,
+    "direction": "Esbjerg St.",
+    "directionFlag": "1"
+},
+{
+    "JourneyDetailRef": {
+        "ref": "2|#VN#1#ST#1732618831#PI#0#ZI#1111#TA#0#DA#271124#1S#8600053#1T#1815#LS#8600858#LT#2121#PU#86#RT#1#CA#002#ZE#62#ZB#ICL 62#PC#1#FR#8600053#FT#1815#TO#8600858#TT#2121#"
+    },
+    "JourneyStatus": "P",
+    "ProductAtStop": {
+        "icon": {
+            "res": "prod_ic"
+        },
+        "operatorInfo": {
+            "name": "DSB",
+            "nameS": "DSB",
+            "nameN": "DSB",
+            "nameL": "DSB"
+        },
+        "name": "ICL 62",
+        "internalName": "ICL 62",
+        "displayNumber": "62",
+        "num": "62",
+        "catOut": "ICL",
+        "catIn": "002",
+        "catCode": "1",
+        "cls": "2",
+        "catOutS": "002",
+        "catOutL": "ICL",
+        "operatorCode": "DSB",
+        "operator": "DSB",
+        "admin": "000002",
+        "matchId": "62"
+    },
+    "Product": [
+        {
+            "icon": {
+                "res": "prod_ic"
+            },
+            "operatorInfo": {
+                "name": "DSB",
+                "nameS": "DSB",
+                "nameN": "DSB",
+                "nameL": "DSB"
+            },
+            "name": "ICL 62",
+            "internalName": "ICL 62",
+            "displayNumber": "62",
+            "num": "62",
+            "catOut": "ICL",
+            "catIn": "002",
+            "catCode": "1",
+            "cls": "2",
+            "catOutS": "002",
+            "catOutL": "ICL",
+            "operatorCode": "DSB",
+            "operator": "DSB",
+            "admin": "000002",
+            "routeIdxFrom": 9,
+            "routeIdxTo": 32,
+            "matchId": "62"
+        }
+    ],
+    "Notes": {
+        "Note": [
+            {
+                "value": "Cykelreservering kr\u00e6ves",
+                "key": "CR",
+                "type": "A",
+                "priority": 0,
+                "routeIdxFrom": 9,
+                "routeIdxTo": 32,
+                "txtN": "Cykelreservering kr\u00e6ves"
+            },
+            {
+                "value": "Reservering anbefales",
+                "key": "RE",
+                "type": "A",
+                "priority": 0,
+                "routeIdxFrom": 9,
+                "routeIdxTo": 32,
+                "txtN": "Reservering anbefales"
+            },
+            {
+                "value": "Mulighed for internet",
+                "key": "TD",
+                "type": "A",
+                "priority": 200,
+                "routeIdxFrom": 9,
+                "routeIdxTo": 32,
+                "txtN": "Mulighed for internet"
+            },
+            {
+                "value": "fdba58",
+                "key": "CT",
+                "type": "I",
+                "routeIdxFrom": 9,
+                "routeIdxTo": 32,
+                "txtN": "fdba58"
+            },
+            {
+                "value": "000000",
+                "key": "CF",
+                "type": "I",
+                "routeIdxFrom": 9,
+                "routeIdxTo": 32,
+                "txtN": "000000"
+            },
+            {
+                "key": "FB",
+                "type": "A"
+            },
+            {
+                "value": "8600079///741,74/",
+                "key": "TE",
+                "type": "I",
+                "txtN": "8600079///741,74/"
+            },
+            {
+                "value": "3530",
+                "key": "TN",
+                "type": "I",
+                "txtN": "3530"
+            },
+            {
+                "value": "SYD",
+                "key": "TP",
+                "type": "I",
+                "txtN": "SYD"
+            },
+            {
+                "value": "ST 530",
+                "key": "TR",
+                "type": "I",
+                "txtN": "ST 530"
+            },
+            {
+                "value": "530",
+                "key": "TW",
+                "type": "I",
+                "txtN": "530"
+            },
+            {
+                "value": "200",
+                "key": "en",
+                "type": "I",
+                "txtN": "200"
+            },
+            {
+                "value": "200",
+                "key": "ev",
+                "type": "I",
+                "txtN": "200"
+            }
+        ]
+    },
+    "Messages": {
+        "Message": [
+            {
+                "affectedStops": {
+                    "StopLocation": [
+                        {
+                            "LocationNotes": {
+                                "LocationNote": [
+                                    {
+                                        "value": "",
+                                        "key": "FB",
+                                        "type": "A",
+                                        "txtN": ""
+                                    },
+                                    {
+                                        "value": "8600512///741,74/",
+                                        "key": "TE",
+                                        "type": "I",
+                                        "txtN": "8600512///741,74/"
+                                    },
+                                    {
+                                        "value": "2001",
+                                        "key": "TN",
+                                        "type": "I",
+                                        "txtN": "2001"
+                                    },
+                                    {
+                                        "value": "FYNTOG",
+                                        "key": "TP",
+                                        "type": "I",
+                                        "txtN": "FYNTOG"
+                                    },
+                                    {
+                                        "value": "FYN 001",
+                                        "key": "TR",
+                                        "type": "I",
+                                        "txtN": "FYN 001"
+                                    },
+                                    {
+                                        "value": "1",
+                                        "key": "TW",
+                                        "type": "I",
+                                        "txtN": "1"
+                                    },
+                                    {
+                                        "value": "200",
+                                        "key": "en",
+                                        "type": "I",
+                                        "txtN": "200"
+                                    },
+                                    {
+                                        "value": "200",
+                                        "key": "ev",
+                                        "type": "I",
+                                        "txtN": "200"
+                                    }
+                                ]
+                            },
+                            "productAtStop": [
+                                {
+                                    "icon": {
+                                        "res": "prod_ic"
+                                    },
+                                    "name": "IC",
+                                    "internalName": "IC      ",
+                                    "catOut": "IC",
+                                    "cls": "1",
+                                    "catOutS": "001",
+                                    "catOutL": "IC"
+                                },
+                                {
+                                    "icon": {
+                                        "res": "prod_ic"
+                                    },
+                                    "name": "ICL",
+                                    "internalName": "ICL     ",
+                                    "catOut": "ICL",
+                                    "cls": "2",
+                                    "catOutS": "002",
+                                    "catOutL": "ICL"
+                                },
+                                {
+                                    "icon": {
+                                        "res": "prod_ic"
+                                    },
+                                    "name": "RA",
+                                    "internalName": "RA      ",
+                                    "catOut": "RA",
+                                    "cls": "4",
+                                    "catOutS": "030",
+                                    "catOutL": "RA"
+                                },
+                                {
+                                    "icon": {
+                                        "res": "prod_ic"
+                                    },
+                                    "name": "Re",
+                                    "internalName": "Re      ",
+                                    "catOut": "Re",
+                                    "cls": "4",
+                                    "catOutS": "004",
+                                    "catOutL": "Re"
+                                },
+                                {
+                                    "icon": {
+                                        "res": "prod_gen"
+                                    },
+                                    "name": "EC",
+                                    "internalName": "EC      ",
+                                    "catOut": "EC",
+                                    "cls": "8",
+                                    "catOutS": "015",
+                                    "catOutL": "EC"
+                                }
+                            ],
+                            "id": "A=1@O=Odense St.@X=10386739@Y=55401778@U=86@L=8600512@",
+                            "extId": "8600512",
+                            "isMainMast": true,
+                            "name": "Odense St.",
+                            "lon": 10.386739,
+                            "lat": 55.401778,
+                            "products": 15
+                        },
+                        {
+                            "LocationNotes": {
+                                "LocationNote": [
+                                    {
+                                        "value": "",
+                                        "key": "FB",
+                                        "type": "A",
+                                        "txtN": ""
+                                    },
+                                    {
+                                        "value": "8600079///741,74/",
+                                        "key": "TE",
+                                        "type": "I",
+                                        "txtN": "8600079///741,74/"
+                                    },
+                                    {
+                                        "value": "3530",
+                                        "key": "TN",
+                                        "type": "I",
+                                        "txtN": "3530"
+                                    },
+                                    {
+                                        "value": "SYD",
+                                        "key": "TP",
+                                        "type": "I",
+                                        "txtN": "SYD"
+                                    },
+                                    {
+                                        "value": "ST 530",
+                                        "key": "TR",
+                                        "type": "I",
+                                        "txtN": "ST 530"
+                                    },
+                                    {
+                                        "value": "530",
+                                        "key": "TW",
+                                        "type": "I",
+                                        "txtN": "530"
+                                    },
+                                    {
+                                        "value": "200",
+                                        "key": "en",
+                                        "type": "I",
+                                        "txtN": "200"
+                                    },
+                                    {
+                                        "value": "200",
+                                        "key": "ev",
+                                        "type": "I",
+                                        "txtN": "200"
+                                    }
+                                ]
+                            },
+                            "productAtStop": [
+                                {
+                                    "icon": {
+                                        "res": "prod_ic"
+                                    },
+                                    "name": "IC",
+                                    "internalName": "IC      ",
+                                    "catOut": "IC",
+                                    "cls": "1",
+                                    "catOutS": "001",
+                                    "catOutL": "IC"
+                                },
+                                {
+                                    "icon": {
+                                        "res": "prod_ic"
+                                    },
+                                    "name": "ICL",
+                                    "internalName": "ICL     ",
+                                    "catOut": "ICL",
+                                    "cls": "2",
+                                    "catOutS": "002",
+                                    "catOutL": "ICL"
+                                },
+                                {
+                                    "icon": {
+                                        "res": "prod_ic"
+                                    },
+                                    "name": "Re",
+                                    "internalName": "Re      ",
+                                    "catOut": "Re",
+                                    "cls": "4",
+                                    "catOutS": "004",
+                                    "catOutL": "Re"
+                                }
+                            ],
+                            "id": "A=1@O=Fredericia St.@X=9740639@Y=55568213@U=86@L=8600079@",
+                            "extId": "8600079",
+                            "isMainMast": true,
+                            "name": "Fredericia St.",
+                            "lon": 9.740639,
+                            "lat": 55.568213,
+                            "products": 7
+                        }
+                    ]
+                },
+                "validFromStop": {
+                    "name": "Odense St.",
+                    "id": "A=1@O=Odense St.@X=10386739@Y=55401778@U=86@L=8600512@",
+                    "extId": "8600512",
+                    "routeIdx": 9,
+                    "lon": 10.386739,
+                    "lat": 55.401778,
+                    "minimumChangeDuration": "PT5M"
+                },
+                "validToStop": {
+                    "name": "Fredericia St.",
+                    "id": "A=1@O=Fredericia St.@X=9740639@Y=55568213@U=86@L=8600079@",
+                    "extId": "8600079",
+                    "routeIdx": 20,
+                    "lon": 9.740639,
+                    "lat": 55.568213,
+                    "minimumChangeDuration": "PT5M"
+                },
+                "channel": [
+                    {
+                        "name": "TIMETABLE",
+                        "validFromTime": "18:00:00",
+                        "validFromDate": "2024-11-27",
+                        "validToTime": "21:00:00",
+                        "validToDate": "2024-11-27"
+                    }
+                ],
+                "messageCategory": [
+                    {
+                        "id": 5
+                    }
+                ],
+                "id": "379936",
+                "act": true,
+                "head": "Ingen regionaltog mellem Odense og Fredericia - resten af driftsd\u00f8gnet",
+                "lead": "Vi har bestilt Togbusser til at k\u00f8re i stedet, vi vender tilbage med nyt snarest.   Det skyldes, at en k\u00f8reledning er faldet ned mellem Ejby og Gelsted. Banedanmarks teknikere er i gang med at reparationsarbejdet.",
+                "text": "Vi har bestilt Togbusser til at k\u00f8re i stedet, vi vender tilbage med nyt snarest.   Det skyldes, at en k\u00f8reledning er faldet ned mellem Ejby og Gelsted. Banedanmarks teknikere er i gang med at reparationsarbejdet. (Fredericia St. - Odense St.)",
+                "company": "DcDK",
+                "category": "5",
+                "products": 7,
+                "icon": "HIM5",
+                "routeIdxFrom": 9,
+                "routeIdxTo": 20,
+                "sTime": "18:00:00",
+                "sDate": "2024-11-27",
+                "eTime": "21:00:00",
+                "eDate": "2024-11-27",
+                "modTime": "18:31:22",
+                "modDate": "2024-11-27",
+                "dailyStartingAt": "00:00:00",
+                "dailyDuration": "PT23H59M0S"
+            }
+        ]
+    },
+    "platform": {
+        "type": "PL",
+        "text": "10"
+    },
+    "rtPlatform": {
+        "type": "PL",
+        "text": "10"
+    },
+    "name": "ICL 62",
+    "type": "ST",
+    "stop": "Fredericia St.",
+    "stopid": "A=1@O=Fredericia St.@X=9740639@Y=55568213@U=86@L=8600079@",
+    "stopExtId": "8600079",
+    "lon": 9.740639,
+    "lat": 55.568213,
+    "isMainMast": true,
+    "prognosisType": "PROGNOSED",
+    "time": "19:23:00",
+    "date": "2024-11-27",
+    "track": "10",
+    "rtTrack": "10",
+    "reachable": true,
+    "direction": "CPH Lufthavn",
+    "directionFlag": "1"
+},
+{
+    "JourneyDetailRef": {
+        "ref": "2|#VN#1#ST#1732618831#PI#0#ZI#2086#TA#0#DA#271124#1S#8600079#1T#1930#LS#8600512#LT#2013#PU#86#RT#1#CA#004#ZE#4764#ZB#Re 4764#PC#2#FR#8600079#FT#1930#TO#8600512#TT#2013#"
+    },
+    "JourneyStatus": "P",
+    "ProductAtStop": {
+        "icon": {
+            "res": "prod_ic"
+        },
+        "operatorInfo": {
+            "name": "DSB",
+            "nameS": "DSB",
+            "nameN": "DSB",
+            "nameL": "DSB"
+        },
+        "name": "Re 4764",
+        "internalName": "Re 4764",
+        "displayNumber": "4764",
+        "num": "4764",
+        "catOut": "Re",
+        "catIn": "004",
+        "catCode": "2",
+        "cls": "4",
+        "catOutS": "004",
+        "catOutL": "Re",
+        "operatorCode": "DSB",
+        "operator": "DSB",
+        "admin": "000002",
+        "matchId": "4764"
+    },
+    "Product": [
+        {
+            "icon": {
+                "res": "prod_ic"
+            },
+            "operatorInfo": {
+                "name": "DSB",
+                "nameS": "DSB",
+                "nameN": "DSB",
+                "nameL": "DSB"
+            },
+            "name": "Re 4764",
+            "internalName": "Re 4764",
+            "displayNumber": "4764",
+            "num": "4764",
+            "catOut": "Re",
+            "catIn": "004",
+            "catCode": "2",
+            "cls": "4",
+            "catOutS": "004",
+            "catOutL": "Re",
+            "operatorCode": "DSB",
+            "operator": "DSB",
+            "admin": "000002",
+            "routeIdxFrom": 0,
+            "routeIdxTo": 11,
+            "matchId": "4764"
+        }
+    ],
+    "Notes": {
+        "Note": [
+            {
+                "value": "Cykelreservering kr\u00e6ves",
+                "key": "CR",
+                "type": "A",
+                "priority": 0,
+                "routeIdxFrom": 0,
+                "routeIdxTo": 11,
+                "txtN": "Cykelreservering kr\u00e6ves"
+            },
+            {
+                "value": "Mulighed for internet",
+                "key": "TD",
+                "type": "A",
+                "priority": 200,
+                "routeIdxFrom": 0,
+                "routeIdxTo": 11,
+                "txtN": "Mulighed for internet"
+            },
+            {
+                "value": "50ae30",
+                "key": "CT",
+                "type": "I",
+                "routeIdxFrom": 0,
+                "routeIdxTo": 11,
+                "txtN": "50ae30"
+            },
+            {
+                "value": "Re 4764: Tog/bus aflyst. S\u00f8g venligst ogs\u00e5 information p\u00e5 stationen/stoppestedet.",
+                "key": "text.realtime.journey.cancelled",
+                "type": "R",
+                "txtN": "Re 4764: Tog/bus aflyst. S\u00f8g venligst ogs\u00e5 information p\u00e5 stationen/stoppestedet."
+            },
+            {
+                "key": "FB",
+                "type": "A"
+            },
+            {
+                "value": "8600079///741,74/",
+                "key": "TE",
+                "type": "I",
+                "txtN": "8600079///741,74/"
+            },
+            {
+                "value": "3530",
+                "key": "TN",
+                "type": "I",
+                "txtN": "3530"
+            },
+            {
+                "value": "SYD",
+                "key": "TP",
+                "type": "I",
+                "txtN": "SYD"
+            },
+            {
+                "value": "ST 530",
+                "key": "TR",
+                "type": "I",
+                "txtN": "ST 530"
+            },
+            {
+                "value": "530",
+                "key": "TW",
+                "type": "I",
+                "txtN": "530"
+            },
+            {
+                "value": "200",
+                "key": "en",
+                "type": "I",
+                "txtN": "200"
+            },
+            {
+                "value": "200",
+                "key": "ev",
+                "type": "I",
+                "txtN": "200"
+            },
+            {
+                "value": "Stoppested udg\u00e5r",
+                "key": "text.realtime.stop.cancelled",
+                "type": "R",
+                "txtN": "Stoppested udg\u00e5r"
+            }
+        ]
+    },
+    "Messages": {
+        "Message": [
+            {
+                "affectedStops": {
+                    "StopLocation": [
+                        {
+                            "LocationNotes": {
+                                "LocationNote": [
+                                    {
+                                        "value": "",
+                                        "key": "FB",
+                                        "type": "A",
+                                        "txtN": ""
+                                    },
+                                    {
+                                        "value": "8600512///741,74/",
+                                        "key": "TE",
+                                        "type": "I",
+                                        "txtN": "8600512///741,74/"
+                                    },
+                                    {
+                                        "value": "2001",
+                                        "key": "TN",
+                                        "type": "I",
+                                        "txtN": "2001"
+                                    },
+                                    {
+                                        "value": "FYNTOG",
+                                        "key": "TP",
+                                        "type": "I",
+                                        "txtN": "FYNTOG"
+                                    },
+                                    {
+                                        "value": "FYN 001",
+                                        "key": "TR",
+                                        "type": "I",
+                                        "txtN": "FYN 001"
+                                    },
+                                    {
+                                        "value": "1",
+                                        "key": "TW",
+                                        "type": "I",
+                                        "txtN": "1"
+                                    },
+                                    {
+                                        "value": "200",
+                                        "key": "en",
+                                        "type": "I",
+                                        "txtN": "200"
+                                    },
+                                    {
+                                        "value": "200",
+                                        "key": "ev",
+                                        "type": "I",
+                                        "txtN": "200"
+                                    }
+                                ]
+                            },
+                            "productAtStop": [
+                                {
+                                    "icon": {
+                                        "res": "prod_ic"
+                                    },
+                                    "name": "IC",
+                                    "internalName": "IC      ",
+                                    "catOut": "IC",
+                                    "cls": "1",
+                                    "catOutS": "001",
+                                    "catOutL": "IC"
+                                },
+                                {
+                                    "icon": {
+                                        "res": "prod_ic"
+                                    },
+                                    "name": "ICL",
+                                    "internalName": "ICL     ",
+                                    "catOut": "ICL",
+                                    "cls": "2",
+                                    "catOutS": "002",
+                                    "catOutL": "ICL"
+                                },
+                                {
+                                    "icon": {
+                                        "res": "prod_ic"
+                                    },
+                                    "name": "RA",
+                                    "internalName": "RA      ",
+                                    "catOut": "RA",
+                                    "cls": "4",
+                                    "catOutS": "030",
+                                    "catOutL": "RA"
+                                },
+                                {
+                                    "icon": {
+                                        "res": "prod_ic"
+                                    },
+                                    "name": "Re",
+                                    "internalName": "Re      ",
+                                    "catOut": "Re",
+                                    "cls": "4",
+                                    "catOutS": "004",
+                                    "catOutL": "Re"
+                                },
+                                {
+                                    "icon": {
+                                        "res": "prod_gen"
+                                    },
+                                    "name": "EC",
+                                    "internalName": "EC      ",
+                                    "catOut": "EC",
+                                    "cls": "8",
+                                    "catOutS": "015",
+                                    "catOutL": "EC"
+                                }
+                            ],
+                            "id": "A=1@O=Odense St.@X=10386739@Y=55401778@U=86@L=8600512@",
+                            "extId": "8600512",
+                            "isMainMast": true,
+                            "name": "Odense St.",
+                            "lon": 10.386739,
+                            "lat": 55.401778,
+                            "products": 15
+                        },
+                        {
+                            "LocationNotes": {
+                                "LocationNote": [
+                                    {
+                                        "value": "",
+                                        "key": "FB",
+                                        "type": "A",
+                                        "txtN": ""
+                                    },
+                                    {
+                                        "value": "8600079///741,74/",
+                                        "key": "TE",
+                                        "type": "I",
+                                        "txtN": "8600079///741,74/"
+                                    },
+                                    {
+                                        "value": "3530",
+                                        "key": "TN",
+                                        "type": "I",
+                                        "txtN": "3530"
+                                    },
+                                    {
+                                        "value": "SYD",
+                                        "key": "TP",
+                                        "type": "I",
+                                        "txtN": "SYD"
+                                    },
+                                    {
+                                        "value": "ST 530",
+                                        "key": "TR",
+                                        "type": "I",
+                                        "txtN": "ST 530"
+                                    },
+                                    {
+                                        "value": "530",
+                                        "key": "TW",
+                                        "type": "I",
+                                        "txtN": "530"
+                                    },
+                                    {
+                                        "value": "200",
+                                        "key": "en",
+                                        "type": "I",
+                                        "txtN": "200"
+                                    },
+                                    {
+                                        "value": "200",
+                                        "key": "ev",
+                                        "type": "I",
+                                        "txtN": "200"
+                                    }
+                                ]
+                            },
+                            "productAtStop": [
+                                {
+                                    "icon": {
+                                        "res": "prod_ic"
+                                    },
+                                    "name": "IC",
+                                    "internalName": "IC      ",
+                                    "catOut": "IC",
+                                    "cls": "1",
+                                    "catOutS": "001",
+                                    "catOutL": "IC"
+                                },
+                                {
+                                    "icon": {
+                                        "res": "prod_ic"
+                                    },
+                                    "name": "ICL",
+                                    "internalName": "ICL     ",
+                                    "catOut": "ICL",
+                                    "cls": "2",
+                                    "catOutS": "002",
+                                    "catOutL": "ICL"
+                                },
+                                {
+                                    "icon": {
+                                        "res": "prod_ic"
+                                    },
+                                    "name": "Re",
+                                    "internalName": "Re      ",
+                                    "catOut": "Re",
+                                    "cls": "4",
+                                    "catOutS": "004",
+                                    "catOutL": "Re"
+                                }
+                            ],
+                            "id": "A=1@O=Fredericia St.@X=9740639@Y=55568213@U=86@L=8600079@",
+                            "extId": "8600079",
+                            "isMainMast": true,
+                            "name": "Fredericia St.",
+                            "lon": 9.740639,
+                            "lat": 55.568213,
+                            "products": 7
+                        }
+                    ]
+                },
+                "validFromStop": {
+                    "name": "Odense St.",
+                    "id": "A=1@O=Odense St.@X=10386739@Y=55401778@U=86@L=8600512@",
+                    "extId": "8600512",
+                    "routeIdx": 0,
+                    "lon": 10.386739,
+                    "lat": 55.401778,
+                    "minimumChangeDuration": "PT5M"
+                },
+                "validToStop": {
+                    "name": "Fredericia St.",
+                    "id": "A=1@O=Fredericia St.@X=9740639@Y=55568213@U=86@L=8600079@",
+                    "extId": "8600079",
+                    "routeIdx": 11,
+                    "lon": 9.740639,
+                    "lat": 55.568213,
+                    "minimumChangeDuration": "PT5M"
+                },
+                "channel": [
+                    {
+                        "name": "TIMETABLE",
+                        "validFromTime": "18:00:00",
+                        "validFromDate": "2024-11-27",
+                        "validToTime": "21:00:00",
+                        "validToDate": "2024-11-27"
+                    }
+                ],
+                "messageCategory": [
+                    {
+                        "id": 5
+                    }
+                ],
+                "id": "379936",
+                "act": true,
+                "head": "Ingen regionaltog mellem Odense og Fredericia - resten af driftsd\u00f8gnet",
+                "lead": "Vi har bestilt Togbusser til at k\u00f8re i stedet, vi vender tilbage med nyt snarest.   Det skyldes, at en k\u00f8reledning er faldet ned mellem Ejby og Gelsted. Banedanmarks teknikere er i gang med at reparationsarbejdet.",
+                "text": "Vi har bestilt Togbusser til at k\u00f8re i stedet, vi vender tilbage med nyt snarest.   Det skyldes, at en k\u00f8reledning er faldet ned mellem Ejby og Gelsted. Banedanmarks teknikere er i gang med at reparationsarbejdet.",
+                "company": "DcDK",
+                "category": "5",
+                "products": 7,
+                "icon": "HIM5",
+                "routeIdxFrom": 0,
+                "routeIdxTo": 11,
+                "sTime": "18:00:00",
+                "sDate": "2024-11-27",
+                "eTime": "21:00:00",
+                "eDate": "2024-11-27",
+                "modTime": "18:31:22",
+                "modDate": "2024-11-27",
+                "dailyStartingAt": "00:00:00",
+                "dailyDuration": "PT23H59M0S"
+            }
+        ]
+    },
+    "platform": {
+        "type": "PL",
+        "text": "9"
+    },
+    "name": "Re 4764",
+    "type": "ST",
+    "stop": "Fredericia St.",
+    "stopid": "A=1@O=Fredericia St.@X=9740639@Y=55568213@U=86@L=8600079@",
+    "stopExtId": "8600079",
+    "lon": 9.740639,
+    "lat": 55.568213,
+    "isMainMast": true,
+    "time": "19:30:00",
+    "date": "2024-11-27",
+    "track": "9",
+    "cancelled": true,
+    "reachable": false,
+    "direction": "Odense St.",
+    "directionFlag": "1",
+    "rtCnclDataSourceType": "DEFAULT"
+},
+{}]}

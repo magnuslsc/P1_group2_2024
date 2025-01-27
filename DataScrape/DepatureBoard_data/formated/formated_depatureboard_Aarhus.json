@@ -1,0 +1,1170 @@
+{"Depature":[{
+    "JourneyDetailRef": {
+        "ref": "2|#VN#1#ST#1732618831#PI#0#ZI#976#TA#0#DA#271124#1S#8600053#1T#1845#LS#8600626#LT#2200#PU#86#RT#1#CA#001#ZE#70164#ZB#IC  70164#PC#0#FR#8600053#FT#1845#TO#8600626#TT#2200#"
+    },
+    "JourneyStatus": "P",
+    "ProductAtStop": {
+        "icon": {
+            "res": "prod_ic"
+        },
+        "operatorInfo": {
+            "name": "DSB",
+            "nameS": "DSB",
+            "nameN": "DSB",
+            "nameL": "DSB"
+        },
+        "name": "IC 70164",
+        "internalName": "IC  70164",
+        "displayNumber": "70164",
+        "num": "70164",
+        "catOut": "IC",
+        "catIn": "001",
+        "catCode": "0",
+        "cls": "1",
+        "catOutS": "001",
+        "catOutL": "IC",
+        "operatorCode": "DSB",
+        "operator": "DSB",
+        "admin": "000002",
+        "matchId": "70164"
+    },
+    "Product": [
+        {
+            "icon": {
+                "res": "prod_ic"
+            },
+            "operatorInfo": {
+                "name": "DSB",
+                "nameS": "DSB",
+                "nameN": "DSB",
+                "nameL": "DSB"
+            },
+            "name": "IC 70164",
+            "internalName": "IC  70164",
+            "displayNumber": "70164",
+            "num": "70164",
+            "catOut": "IC",
+            "catIn": "001",
+            "catCode": "0",
+            "cls": "1",
+            "catOutS": "001",
+            "catOutL": "IC",
+            "operatorCode": "DSB",
+            "operator": "DSB",
+            "admin": "000002",
+            "routeIdxFrom": 0,
+            "routeIdxTo": 29,
+            "matchId": "70164"
+        }
+    ],
+    "Notes": {
+        "Note": [
+            {
+                "value": "Cykelreservering kr\u00e6ves",
+                "key": "CR",
+                "type": "A",
+                "priority": 0,
+                "routeIdxFrom": 0,
+                "routeIdxTo": 29,
+                "txtN": "Cykelreservering kr\u00e6ves"
+            },
+            {
+                "value": "Reservering anbefales",
+                "key": "RE",
+                "type": "A",
+                "priority": 0,
+                "routeIdxFrom": 0,
+                "routeIdxTo": 29,
+                "txtN": "Reservering anbefales"
+            },
+            {
+                "value": "Mulighed for internet",
+                "key": "TD",
+                "type": "A",
+                "priority": 200,
+                "routeIdxFrom": 0,
+                "routeIdxTo": 29,
+                "txtN": "Mulighed for internet"
+            },
+            {
+                "value": "ec3400",
+                "key": "CT",
+                "type": "I",
+                "routeIdxFrom": 0,
+                "routeIdxTo": 29,
+                "txtN": "ec3400"
+            },
+            {
+                "key": "FB",
+                "type": "A"
+            },
+            {
+                "value": "8600053///741,74/",
+                "key": "TE",
+                "type": "I",
+                "txtN": "8600053///741,74/"
+            },
+            {
+                "value": "4301",
+                "key": "TN",
+                "type": "I",
+                "txtN": "4301"
+            },
+            {
+                "value": "MTO",
+                "key": "TP",
+                "type": "I",
+                "txtN": "MTO"
+            },
+            {
+                "value": "MT 301",
+                "key": "TR",
+                "type": "I",
+                "txtN": "MT 301"
+            },
+            {
+                "value": "301",
+                "key": "TW",
+                "type": "I",
+                "txtN": "301"
+            },
+            {
+                "value": "200",
+                "key": "en",
+                "type": "I",
+                "txtN": "200"
+            },
+            {
+                "value": "200",
+                "key": "ev",
+                "type": "I",
+                "txtN": "200"
+            }
+        ]
+    },
+    "platform": {
+        "type": "PL",
+        "text": "3"
+    },
+    "rtPlatform": {
+        "type": "PL",
+        "text": "3"
+    },
+    "name": "IC 70164",
+    "type": "ST",
+    "stop": "Aarhus H",
+    "stopid": "A=1@O=Aarhus H@X=10204761@Y=56150444@U=86@L=8600053@",
+    "stopExtId": "8600053",
+    "lon": 10.204761,
+    "lat": 56.150444,
+    "isMainMast": true,
+    "prognosisType": "PROGNOSED",
+    "time": "18:45:00",
+    "date": "2024-11-27",
+    "track": "3",
+    "rtTrack": "3",
+    "reachable": true,
+    "direction": "K\u00f8benhavn H",
+    "directionFlag": "1"
+},
+{
+    "JourneyDetailRef": {
+        "ref": "2|#VN#1#ST#1732618831#PI#0#ZI#1221#TA#10#DA#271124#1S#8600053#1T#1850#LS#8600115#LT#2019#PU#86#RT#1#CA#002#ZE#4059#ZB#ICL 4059#PC#1#FR#8600053#FT#1850#TO#8600115#TT#2019#"
+    },
+    "JourneyStatus": "P",
+    "ProductAtStop": {
+        "icon": {
+            "res": "prod_ic"
+        },
+        "operatorInfo": {
+            "name": "DSB",
+            "nameS": "DSB",
+            "nameN": "DSB",
+            "nameL": "DSB"
+        },
+        "name": "ICL 4059",
+        "internalName": "ICL 4059",
+        "displayNumber": "4059",
+        "num": "4059",
+        "catOut": "ICL",
+        "catIn": "002",
+        "catCode": "1",
+        "cls": "2",
+        "catOutS": "002",
+        "catOutL": "ICL",
+        "operatorCode": "DSB",
+        "operator": "DSB",
+        "admin": "000002",
+        "matchId": "4059"
+    },
+    "Product": [
+        {
+            "icon": {
+                "res": "prod_ic"
+            },
+            "operatorInfo": {
+                "name": "DSB",
+                "nameS": "DSB",
+                "nameN": "DSB",
+                "nameL": "DSB"
+            },
+            "name": "ICL 4059",
+            "internalName": "ICL 4059",
+            "displayNumber": "4059",
+            "num": "4059",
+            "catOut": "ICL",
+            "catIn": "002",
+            "catCode": "1",
+            "cls": "2",
+            "catOutS": "002",
+            "catOutL": "ICL",
+            "operatorCode": "DSB",
+            "operator": "DSB",
+            "admin": "000002",
+            "routeIdxFrom": 0,
+            "routeIdxTo": 14,
+            "matchId": "4059"
+        }
+    ],
+    "Notes": {
+        "Note": [
+            {
+                "value": "Cykelreservering kr\u00e6ves",
+                "key": "CR",
+                "type": "A",
+                "priority": 0,
+                "routeIdxFrom": 0,
+                "routeIdxTo": 14,
+                "txtN": "Cykelreservering kr\u00e6ves"
+            },
+            {
+                "value": "Reservering anbefales",
+                "key": "RE",
+                "type": "A",
+                "priority": 0,
+                "routeIdxFrom": 0,
+                "routeIdxTo": 14,
+                "txtN": "Reservering anbefales"
+            },
+            {
+                "value": "Mulighed for internet",
+                "key": "TD",
+                "type": "A",
+                "priority": 200,
+                "routeIdxFrom": 0,
+                "routeIdxTo": 14,
+                "txtN": "Mulighed for internet"
+            },
+            {
+                "value": "fdba58",
+                "key": "CT",
+                "type": "I",
+                "routeIdxFrom": 0,
+                "routeIdxTo": 14,
+                "txtN": "fdba58"
+            },
+            {
+                "value": "000000",
+                "key": "CF",
+                "type": "I",
+                "routeIdxFrom": 0,
+                "routeIdxTo": 14,
+                "txtN": "000000"
+            },
+            {
+                "key": "FB",
+                "type": "A"
+            },
+            {
+                "value": "8600053///741,74/",
+                "key": "TE",
+                "type": "I",
+                "txtN": "8600053///741,74/"
+            },
+            {
+                "value": "4301",
+                "key": "TN",
+                "type": "I",
+                "txtN": "4301"
+            },
+            {
+                "value": "MTO",
+                "key": "TP",
+                "type": "I",
+                "txtN": "MTO"
+            },
+            {
+                "value": "MT 301",
+                "key": "TR",
+                "type": "I",
+                "txtN": "MT 301"
+            },
+            {
+                "value": "301",
+                "key": "TW",
+                "type": "I",
+                "txtN": "301"
+            },
+            {
+                "value": "200",
+                "key": "en",
+                "type": "I",
+                "txtN": "200"
+            },
+            {
+                "value": "200",
+                "key": "ev",
+                "type": "I",
+                "txtN": "200"
+            }
+        ]
+    },
+    "platform": {
+        "type": "PL",
+        "text": "4"
+    },
+    "rtPlatform": {
+        "type": "PL",
+        "text": "4"
+    },
+    "name": "ICL 4059",
+    "type": "ST",
+    "stop": "Aarhus H",
+    "stopid": "A=1@O=Aarhus H@X=10204761@Y=56150444@U=86@L=8600053@",
+    "stopExtId": "8600053",
+    "lon": 10.204761,
+    "lat": 56.150444,
+    "isMainMast": true,
+    "prognosisType": "PROGNOSED",
+    "time": "18:50:00",
+    "date": "2024-11-27",
+    "track": "4",
+    "rtTrack": "4",
+    "reachable": true,
+    "direction": "Aalborg Lufthavn St.",
+    "directionFlag": "1"
+},
+{
+    "JourneyDetailRef": {
+        "ref": "2|#VN#1#ST#1732618831#PI#0#ZI#29601#TA#1#DA#271124#1S#8600053#1T#1854#LS#8600189#LT#2052#PU#86#RT#1#CA#030#ZE#5487#ZB#RA 5487#PC#2#FR#8600053#FT#1854#TO#8600189#TT#2052#"
+    },
+    "JourneyStatus": "P",
+    "ProductAtStop": {
+        "icon": {
+            "res": "prod_ic"
+        },
+        "operatorInfo": {
+            "name": "GoCollective",
+            "nameS": "GoC",
+            "nameN": "GoC",
+            "nameL": "GoCollective"
+        },
+        "name": "RA 5487",
+        "internalName": "RA 5487",
+        "displayNumber": "5487",
+        "num": "5487",
+        "catOut": "RA",
+        "catIn": "030",
+        "catCode": "2",
+        "cls": "4",
+        "catOutS": "030",
+        "catOutL": "RA",
+        "operatorCode": "GoC",
+        "operator": "GoCollective",
+        "admin": "000087",
+        "matchId": "5487"
+    },
+    "Product": [
+        {
+            "icon": {
+                "res": "prod_ic"
+            },
+            "operatorInfo": {
+                "name": "GoCollective",
+                "nameS": "GoC",
+                "nameN": "GoC",
+                "nameL": "GoCollective"
+            },
+            "name": "RA 5487",
+            "internalName": "RA 5487",
+            "displayNumber": "5487",
+            "num": "5487",
+            "catOut": "RA",
+            "catIn": "030",
+            "catCode": "2",
+            "cls": "4",
+            "catOutS": "030",
+            "catOutL": "RA",
+            "operatorCode": "GoC",
+            "operator": "GoCollective",
+            "admin": "000087",
+            "routeIdxFrom": 0,
+            "routeIdxTo": 13,
+            "matchId": "5487"
+        }
+    ],
+    "Notes": {
+        "Note": [
+            {
+                "value": "Mulighed for internet",
+                "key": "TD",
+                "type": "A",
+                "priority": 200,
+                "routeIdxFrom": 0,
+                "routeIdxTo": 13,
+                "txtN": "Mulighed for internet"
+            },
+            {
+                "value": "6938a1",
+                "key": "CT",
+                "type": "I",
+                "routeIdxFrom": 0,
+                "routeIdxTo": 13,
+                "txtN": "6938a1"
+            },
+            {
+                "value": "ffffff",
+                "key": "CF",
+                "type": "I",
+                "routeIdxFrom": 0,
+                "routeIdxTo": 13,
+                "txtN": "ffffff"
+            },
+            {
+                "key": "FB",
+                "type": "A"
+            },
+            {
+                "value": "8600053///741,74/",
+                "key": "TE",
+                "type": "I",
+                "txtN": "8600053///741,74/"
+            },
+            {
+                "value": "4301",
+                "key": "TN",
+                "type": "I",
+                "txtN": "4301"
+            },
+            {
+                "value": "MTO",
+                "key": "TP",
+                "type": "I",
+                "txtN": "MTO"
+            },
+            {
+                "value": "MT 301",
+                "key": "TR",
+                "type": "I",
+                "txtN": "MT 301"
+            },
+            {
+                "value": "301",
+                "key": "TW",
+                "type": "I",
+                "txtN": "301"
+            },
+            {
+                "value": "200",
+                "key": "en",
+                "type": "I",
+                "txtN": "200"
+            },
+            {
+                "value": "200",
+                "key": "ev",
+                "type": "I",
+                "txtN": "200"
+            }
+        ]
+    },
+    "rtPlatform": {
+        "type": "PL",
+        "text": "2"
+    },
+    "name": "RA 5487",
+    "type": "ST",
+    "stop": "Aarhus H",
+    "stopid": "A=1@O=Aarhus H@X=10204761@Y=56150444@U=86@L=8600053@",
+    "stopExtId": "8600053",
+    "lon": 10.204761,
+    "lat": 56.150444,
+    "isMainMast": true,
+    "prognosisType": "PROGNOSED",
+    "time": "18:54:00",
+    "date": "2024-11-27",
+    "rtTrack": "2",
+    "reachable": true,
+    "direction": "Struer St.",
+    "directionFlag": "1"
+},
+{
+    "JourneyDetailRef": {
+        "ref": "2|#VN#1#ST#1732618831#PI#0#ZI#2707#TA#1#DA#271124#1S#8600053#1T#1858#LS#8600215#LT#2118#PU#86#RT#1#CA#003#ZE#3366#ZB#Re 3366#PC#2#FR#8600053#FT#1858#TO#8600215#TT#2118#"
+    },
+    "JourneyStatus": "P",
+    "ProductAtStop": {
+        "icon": {
+            "res": "prod_ic"
+        },
+        "operatorInfo": {
+            "name": "DSB",
+            "nameS": "DSB",
+            "nameN": "DSB",
+            "nameL": "DSB"
+        },
+        "name": "Re 3366",
+        "internalName": "Re 3366",
+        "displayNumber": "3366",
+        "num": "3366",
+        "catOut": "Re",
+        "catIn": "003",
+        "catCode": "2",
+        "cls": "4",
+        "catOutS": "003",
+        "catOutL": "Re",
+        "operatorCode": "DSB",
+        "operator": "DSB",
+        "admin": "000002",
+        "matchId": "3366"
+    },
+    "Product": [
+        {
+            "icon": {
+                "res": "prod_ic"
+            },
+            "operatorInfo": {
+                "name": "DSB",
+                "nameS": "DSB",
+                "nameN": "DSB",
+                "nameL": "DSB"
+            },
+            "name": "Re 3366",
+            "internalName": "Re 3366",
+            "displayNumber": "3366",
+            "num": "3366",
+            "catOut": "Re",
+            "catIn": "003",
+            "catCode": "2",
+            "cls": "4",
+            "catOutS": "003",
+            "catOutL": "Re",
+            "operatorCode": "DSB",
+            "operator": "DSB",
+            "admin": "000002",
+            "routeIdxFrom": 0,
+            "routeIdxTo": 20,
+            "matchId": "3366"
+        }
+    ],
+    "Notes": {
+        "Note": [
+            {
+                "value": "Toget har lav indstigning",
+                "key": "BE",
+                "type": "A",
+                "priority": 0,
+                "routeIdxFrom": 0,
+                "routeIdxTo": 20,
+                "txtN": "Toget har lav indstigning"
+            },
+            {
+                "value": "Cykelreservering kr\u00e6ves",
+                "key": "CR",
+                "type": "A",
+                "priority": 0,
+                "routeIdxFrom": 0,
+                "routeIdxTo": 20,
+                "txtN": "Cykelreservering kr\u00e6ves"
+            },
+            {
+                "value": "Mulighed for internet",
+                "key": "TD",
+                "type": "A",
+                "priority": 200,
+                "routeIdxFrom": 0,
+                "routeIdxTo": 20,
+                "txtN": "Mulighed for internet"
+            },
+            {
+                "value": "50ae30",
+                "key": "CT",
+                "type": "I",
+                "routeIdxFrom": 0,
+                "routeIdxTo": 20,
+                "txtN": "50ae30"
+            },
+            {
+                "key": "FB",
+                "type": "A"
+            },
+            {
+                "value": "8600053///741,74/",
+                "key": "TE",
+                "type": "I",
+                "txtN": "8600053///741,74/"
+            },
+            {
+                "value": "4301",
+                "key": "TN",
+                "type": "I",
+                "txtN": "4301"
+            },
+            {
+                "value": "MTO",
+                "key": "TP",
+                "type": "I",
+                "txtN": "MTO"
+            },
+            {
+                "value": "MT 301",
+                "key": "TR",
+                "type": "I",
+                "txtN": "MT 301"
+            },
+            {
+                "value": "301",
+                "key": "TW",
+                "type": "I",
+                "txtN": "301"
+            },
+            {
+                "value": "200",
+                "key": "en",
+                "type": "I",
+                "txtN": "200"
+            },
+            {
+                "value": "200",
+                "key": "ev",
+                "type": "I",
+                "txtN": "200"
+            }
+        ]
+    },
+    "platform": {
+        "type": "PL",
+        "text": "6"
+    },
+    "rtPlatform": {
+        "type": "PL",
+        "text": "6"
+    },
+    "name": "Re 3366",
+    "type": "ST",
+    "stop": "Aarhus H",
+    "stopid": "A=1@O=Aarhus H@X=10204761@Y=56150444@U=86@L=8600053@",
+    "stopExtId": "8600053",
+    "lon": 10.204761,
+    "lat": 56.150444,
+    "isMainMast": true,
+    "prognosisType": "PROGNOSED",
+    "time": "18:58:00",
+    "date": "2024-11-27",
+    "track": "6",
+    "rtTrack": "6",
+    "reachable": true,
+    "direction": "Esbjerg St.",
+    "directionFlag": "1"
+},
+{
+    "JourneyDetailRef": {
+        "ref": "2|#VN#1#ST#1732618831#PI#0#ZI#1129#TA#0#DA#271124#1S#8600053#1T#1915#LS#8600858#LT#2231#PU#86#RT#1#CA#002#ZE#70066#ZB#ICL 70066#PC#1#FR#8600053#FT#1915#TO#8600858#TT#2231#"
+    },
+    "JourneyStatus": "P",
+    "ProductAtStop": {
+        "icon": {
+            "res": "prod_ic"
+        },
+        "operatorInfo": {
+            "name": "DSB",
+            "nameS": "DSB",
+            "nameN": "DSB",
+            "nameL": "DSB"
+        },
+        "name": "ICL 70066",
+        "internalName": "ICL 70066",
+        "displayNumber": "70066",
+        "num": "70066",
+        "catOut": "ICL",
+        "catIn": "002",
+        "catCode": "1",
+        "cls": "2",
+        "catOutS": "002",
+        "catOutL": "ICL",
+        "operatorCode": "DSB",
+        "operator": "DSB",
+        "admin": "000002",
+        "matchId": "70066"
+    },
+    "Product": [
+        {
+            "icon": {
+                "res": "prod_ic"
+            },
+            "operatorInfo": {
+                "name": "DSB",
+                "nameS": "DSB",
+                "nameN": "DSB",
+                "nameL": "DSB"
+            },
+            "name": "ICL 70066",
+            "internalName": "ICL 70066",
+            "displayNumber": "70066",
+            "num": "70066",
+            "catOut": "ICL",
+            "catIn": "002",
+            "catCode": "1",
+            "cls": "2",
+            "catOutS": "002",
+            "catOutL": "ICL",
+            "operatorCode": "DSB",
+            "operator": "DSB",
+            "admin": "000002",
+            "routeIdxFrom": 0,
+            "routeIdxTo": 32,
+            "matchId": "70066"
+        }
+    ],
+    "Notes": {
+        "Note": [
+            {
+                "value": "Cykelreservering kr\u00e6ves",
+                "key": "CR",
+                "type": "A",
+                "priority": 0,
+                "routeIdxFrom": 0,
+                "routeIdxTo": 32,
+                "txtN": "Cykelreservering kr\u00e6ves"
+            },
+            {
+                "value": "Reservering anbefales",
+                "key": "RE",
+                "type": "A",
+                "priority": 0,
+                "routeIdxFrom": 0,
+                "routeIdxTo": 32,
+                "txtN": "Reservering anbefales"
+            },
+            {
+                "value": "Mulighed for internet",
+                "key": "TD",
+                "type": "A",
+                "priority": 200,
+                "routeIdxFrom": 0,
+                "routeIdxTo": 32,
+                "txtN": "Mulighed for internet"
+            },
+            {
+                "value": "fdba58",
+                "key": "CT",
+                "type": "I",
+                "routeIdxFrom": 0,
+                "routeIdxTo": 32,
+                "txtN": "fdba58"
+            },
+            {
+                "value": "000000",
+                "key": "CF",
+                "type": "I",
+                "routeIdxFrom": 0,
+                "routeIdxTo": 32,
+                "txtN": "000000"
+            },
+            {
+                "key": "FB",
+                "type": "A"
+            },
+            {
+                "value": "8600053///741,74/",
+                "key": "TE",
+                "type": "I",
+                "txtN": "8600053///741,74/"
+            },
+            {
+                "value": "4301",
+                "key": "TN",
+                "type": "I",
+                "txtN": "4301"
+            },
+            {
+                "value": "MTO",
+                "key": "TP",
+                "type": "I",
+                "txtN": "MTO"
+            },
+            {
+                "value": "MT 301",
+                "key": "TR",
+                "type": "I",
+                "txtN": "MT 301"
+            },
+            {
+                "value": "301",
+                "key": "TW",
+                "type": "I",
+                "txtN": "301"
+            },
+            {
+                "value": "200",
+                "key": "en",
+                "type": "I",
+                "txtN": "200"
+            },
+            {
+                "value": "200",
+                "key": "ev",
+                "type": "I",
+                "txtN": "200"
+            }
+        ]
+    },
+    "platform": {
+        "type": "PL",
+        "text": "5"
+    },
+    "rtPlatform": {
+        "type": "PL",
+        "text": "5"
+    },
+    "name": "ICL 70066",
+    "type": "ST",
+    "stop": "Aarhus H",
+    "stopid": "A=1@O=Aarhus H@X=10204761@Y=56150444@U=86@L=8600053@",
+    "stopExtId": "8600053",
+    "lon": 10.204761,
+    "lat": 56.150444,
+    "isMainMast": true,
+    "prognosisType": "PROGNOSED",
+    "time": "19:15:00",
+    "date": "2024-11-27",
+    "track": "5",
+    "rtTrack": "5",
+    "reachable": true,
+    "direction": "CPH Lufthavn",
+    "directionFlag": "1"
+},
+{
+    "JourneyDetailRef": {
+        "ref": "2|#VN#1#ST#1732618831#PI#0#ZI#179#TA#4#DA#271124#1S#8600053#1T#1920#LS#8600020#LT#2051#PU#86#RT#1#CA#001#ZE#4361#ZB#IC   4361#PC#0#FR#8600053#FT#1920#TO#8600020#TT#2051#"
+    },
+    "JourneyStatus": "P",
+    "ProductAtStop": {
+        "icon": {
+            "res": "prod_ic"
+        },
+        "operatorInfo": {
+            "name": "DSB",
+            "nameS": "DSB",
+            "nameN": "DSB",
+            "nameL": "DSB"
+        },
+        "name": "IC 4361",
+        "internalName": "IC   4361",
+        "displayNumber": "4361",
+        "num": "4361",
+        "catOut": "IC",
+        "catIn": "001",
+        "catCode": "0",
+        "cls": "1",
+        "catOutS": "001",
+        "catOutL": "IC",
+        "operatorCode": "DSB",
+        "operator": "DSB",
+        "admin": "000002",
+        "matchId": "4361"
+    },
+    "Product": [
+        {
+            "icon": {
+                "res": "prod_ic"
+            },
+            "operatorInfo": {
+                "name": "DSB",
+                "nameS": "DSB",
+                "nameN": "DSB",
+                "nameL": "DSB"
+            },
+            "name": "IC 4361",
+            "internalName": "IC   4361",
+            "displayNumber": "4361",
+            "num": "4361",
+            "catOut": "IC",
+            "catIn": "001",
+            "catCode": "0",
+            "cls": "1",
+            "catOutS": "001",
+            "catOutL": "IC",
+            "operatorCode": "DSB",
+            "operator": "DSB",
+            "admin": "000002",
+            "routeIdxFrom": 0,
+            "routeIdxTo": 11,
+            "matchId": "4361"
+        }
+    ],
+    "Notes": {
+        "Note": [
+            {
+                "value": "Cykelreservering kr\u00e6ves",
+                "key": "CR",
+                "type": "A",
+                "priority": 0,
+                "routeIdxFrom": 0,
+                "routeIdxTo": 11,
+                "txtN": "Cykelreservering kr\u00e6ves"
+            },
+            {
+                "value": "Reservering anbefales",
+                "key": "RE",
+                "type": "A",
+                "priority": 0,
+                "routeIdxFrom": 0,
+                "routeIdxTo": 11,
+                "txtN": "Reservering anbefales"
+            },
+            {
+                "value": "Mulighed for internet",
+                "key": "TD",
+                "type": "A",
+                "priority": 200,
+                "routeIdxFrom": 0,
+                "routeIdxTo": 11,
+                "txtN": "Mulighed for internet"
+            },
+            {
+                "value": "ec3400",
+                "key": "CT",
+                "type": "I",
+                "routeIdxFrom": 0,
+                "routeIdxTo": 11,
+                "txtN": "ec3400"
+            },
+            {
+                "key": "FB",
+                "type": "A"
+            },
+            {
+                "value": "8600053///741,74/",
+                "key": "TE",
+                "type": "I",
+                "txtN": "8600053///741,74/"
+            },
+            {
+                "value": "4301",
+                "key": "TN",
+                "type": "I",
+                "txtN": "4301"
+            },
+            {
+                "value": "MTO",
+                "key": "TP",
+                "type": "I",
+                "txtN": "MTO"
+            },
+            {
+                "value": "MT 301",
+                "key": "TR",
+                "type": "I",
+                "txtN": "MT 301"
+            },
+            {
+                "value": "301",
+                "key": "TW",
+                "type": "I",
+                "txtN": "301"
+            },
+            {
+                "value": "200",
+                "key": "en",
+                "type": "I",
+                "txtN": "200"
+            },
+            {
+                "value": "200",
+                "key": "ev",
+                "type": "I",
+                "txtN": "200"
+            }
+        ]
+    },
+    "platform": {
+        "type": "PL",
+        "text": "2"
+    },
+    "rtPlatform": {
+        "type": "PL",
+        "text": "2"
+    },
+    "name": "IC 4361",
+    "type": "ST",
+    "stop": "Aarhus H",
+    "stopid": "A=1@O=Aarhus H@X=10204761@Y=56150444@U=86@L=8600053@",
+    "stopExtId": "8600053",
+    "lon": 10.204761,
+    "lat": 56.150444,
+    "isMainMast": true,
+    "prognosisType": "PROGNOSED",
+    "time": "19:20:00",
+    "date": "2024-11-27",
+    "track": "2",
+    "rtTrack": "2",
+    "reachable": true,
+    "direction": "Aalborg St.",
+    "directionFlag": "1"
+},
+{
+    "JourneyDetailRef": {
+        "ref": "2|#VN#1#ST#1732618831#PI#0#ZI#59371#TA#0#DA#271124#1S#8600053#1T#1920#LS#8600212#LT#2233#PU#86#RT#3#CA#030#ZE#5377#ZB#RA 5377#PC#2#FR#8600053#FT#1920#TO#8600212#TT#2233#"
+    },
+    "JourneyStatus": "P",
+    "ProductAtStop": {
+        "icon": {
+            "res": "prod_ic"
+        },
+        "operatorInfo": {
+            "name": "GoCollective",
+            "nameS": "GoC",
+            "nameN": "GoC",
+            "nameL": "GoCollective"
+        },
+        "name": "RA 5377",
+        "internalName": "RA 5377",
+        "displayNumber": "5377",
+        "num": "5377",
+        "catOut": "RA",
+        "catIn": "030",
+        "catCode": "2",
+        "cls": "4",
+        "catOutS": "030",
+        "catOutL": "RA",
+        "operatorCode": "GoC",
+        "operator": "GoCollective",
+        "admin": "000087",
+        "matchId": "5377"
+    },
+    "Product": [
+        {
+            "icon": {
+                "res": "prod_ic"
+            },
+            "operatorInfo": {
+                "name": "GoCollective",
+                "nameS": "GoC",
+                "nameN": "GoC",
+                "nameL": "GoCollective"
+            },
+            "name": "RA 5377",
+            "internalName": "RA 5377",
+            "displayNumber": "5377",
+            "num": "5377",
+            "catOut": "RA",
+            "catIn": "030",
+            "catCode": "2",
+            "cls": "4",
+            "catOutS": "030",
+            "catOutL": "RA",
+            "operatorCode": "GoC",
+            "operator": "GoCollective",
+            "admin": "000087",
+            "routeIdxFrom": 0,
+            "routeIdxTo": 27,
+            "matchId": "5377"
+        }
+    ],
+    "Notes": {
+        "Note": [
+            {
+                "value": "Mulighed for internet",
+                "key": "TD",
+                "type": "A",
+                "priority": 200,
+                "routeIdxFrom": 0,
+                "routeIdxTo": 27,
+                "txtN": "Mulighed for internet"
+            },
+            {
+                "value": "6938a1",
+                "key": "CT",
+                "type": "I",
+                "routeIdxFrom": 0,
+                "routeIdxTo": 27,
+                "txtN": "6938a1"
+            },
+            {
+                "value": "ffffff",
+                "key": "CF",
+                "type": "I",
+                "routeIdxFrom": 0,
+                "routeIdxTo": 27,
+                "txtN": "ffffff"
+            },
+            {
+                "key": "FB",
+                "type": "A"
+            },
+            {
+                "value": "8600053///741,74/",
+                "key": "TE",
+                "type": "I",
+                "txtN": "8600053///741,74/"
+            },
+            {
+                "value": "4301",
+                "key": "TN",
+                "type": "I",
+                "txtN": "4301"
+            },
+            {
+                "value": "MTO",
+                "key": "TP",
+                "type": "I",
+                "txtN": "MTO"
+            },
+            {
+                "value": "MT 301",
+                "key": "TR",
+                "type": "I",
+                "txtN": "MT 301"
+            },
+            {
+                "value": "301",
+                "key": "TW",
+                "type": "I",
+                "txtN": "301"
+            },
+            {
+                "value": "200",
+                "key": "en",
+                "type": "I",
+                "txtN": "200"
+            },
+            {
+                "value": "200",
+                "key": "ev",
+                "type": "I",
+                "txtN": "200"
+            }
+        ]
+    },
+    "rtPlatform": {
+        "type": "PL",
+        "text": "7"
+    },
+    "name": "RA 5377",
+    "type": "ST",
+    "stop": "Aarhus H",
+    "stopid": "A=1@O=Aarhus H@X=10204761@Y=56150444@U=86@L=8600053@",
+    "stopExtId": "8600053",
+    "lon": 10.204761,
+    "lat": 56.150444,
+    "isMainMast": true,
+    "prognosisType": "PROGNOSED",
+    "time": "19:20:00",
+    "date": "2024-11-27",
+    "rtTrack": "7",
+    "reachable": true,
+    "direction": "Herning St.",
+    "directionFlag": "1"
+},
+{}]}

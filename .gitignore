@@ -1,0 +1,6 @@
+*.exe
+key.txt
+edges.txt
+testegdes.txt
+*.json
+__pycache__

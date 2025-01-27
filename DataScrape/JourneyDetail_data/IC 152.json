@@ -1,0 +1,1383 @@
+{
+    "Stops": {
+        "Stop": [
+            {
+                "Notes": {
+                    "Note": [
+                        {
+                            "key": "FB",
+                            "type": "A"
+                        },
+                        {
+                            "value": "8600079///741,74/",
+                            "key": "TE",
+                            "type": "I",
+                            "txtN": "8600079///741,74/"
+                        },
+                        {
+                            "value": "3530",
+                            "key": "TN",
+                            "type": "I",
+                            "txtN": "3530"
+                        },
+                        {
+                            "value": "SYD",
+                            "key": "TP",
+                            "type": "I",
+                            "txtN": "SYD"
+                        },
+                        {
+                            "value": "ST 530",
+                            "key": "TR",
+                            "type": "I",
+                            "txtN": "ST 530"
+                        },
+                        {
+                            "value": "530",
+                            "key": "TW",
+                            "type": "I",
+                            "txtN": "530"
+                        },
+                        {
+                            "value": "200",
+                            "key": "en",
+                            "type": "I",
+                            "txtN": "200"
+                        },
+                        {
+                            "value": "200",
+                            "key": "ev",
+                            "type": "I",
+                            "txtN": "200"
+                        }
+                    ]
+                },
+                "depPlatform": {
+                    "type": "PL",
+                    "text": "10"
+                },
+                "rtDepPlatform": {
+                    "type": "PL",
+                    "text": "10"
+                },
+                "name": "Fredericia St.",
+                "id": "A=1@O=Fredericia St.@X=9740639@Y=55568213@U=86@L=8600079@",
+                "extId": "8600079",
+                "routeIdx": 0,
+                "lon": 9.740639,
+                "lat": 55.568213,
+                "depPrognosisType": "PROGNOSED",
+                "depTime": "16:54:00",
+                "depDate": "2024-11-27",
+                "depTrack": "10",
+                "rtDepTrack": "10",
+                "depDir": "\u00d8sterport St.",
+                "minimumChangeDuration": "PT5M"
+            },
+            {
+                "Notes": {
+                    "Note": [
+                        {
+                            "key": "FB",
+                            "type": "A"
+                        },
+                        {
+                            "value": "2136",
+                            "key": "TN",
+                            "type": "I",
+                            "txtN": "2136"
+                        },
+                        {
+                            "value": "FYNTOG",
+                            "key": "TP",
+                            "type": "I",
+                            "txtN": "FYNTOG"
+                        },
+                        {
+                            "value": "FYN 136",
+                            "key": "TR",
+                            "type": "I",
+                            "txtN": "FYN 136"
+                        },
+                        {
+                            "value": "36",
+                            "key": "TW",
+                            "type": "I",
+                            "txtN": "36"
+                        }
+                    ]
+                },
+                "arrPlatform": {
+                    "type": "PL",
+                    "text": "4"
+                },
+                "rtArrPlatform": {
+                    "type": "PL",
+                    "text": "4"
+                },
+                "depPlatform": {
+                    "type": "PL",
+                    "text": "4"
+                },
+                "rtDepPlatform": {
+                    "type": "PL",
+                    "text": "4"
+                },
+                "name": "Middelfart St.",
+                "id": "A=1@O=Middelfart St.@X=9734041@Y=55501981@U=86@L=8600501@",
+                "extId": "8600501",
+                "routeIdx": 1,
+                "lon": 9.734041,
+                "lat": 55.501981,
+                "arrPrognosisType": "PROGNOSED",
+                "depPrognosisType": "PROGNOSED",
+                "depTime": "17:03:00",
+                "depDate": "2024-11-27",
+                "arrTime": "17:01:00",
+                "arrDate": "2024-11-27",
+                "arrTrack": "4",
+                "depTrack": "4",
+                "rtDepTime": "17:04:00",
+                "rtDepDate": "2024-11-27",
+                "rtDepTz": 0,
+                "rtArrTrack": "4",
+                "rtDepTrack": "4",
+                "minimumChangeDuration": "PT4M"
+            },
+            {
+                "Notes": {
+                    "Note": [
+                        {
+                            "key": "FB",
+                            "type": "A"
+                        },
+                        {
+                            "value": "8600512///741,74/",
+                            "key": "TE",
+                            "type": "I",
+                            "txtN": "8600512///741,74/"
+                        },
+                        {
+                            "value": "2001",
+                            "key": "TN",
+                            "type": "I",
+                            "txtN": "2001"
+                        },
+                        {
+                            "value": "FYNTOG",
+                            "key": "TP",
+                            "type": "I",
+                            "txtN": "FYNTOG"
+                        },
+                        {
+                            "value": "FYN 001",
+                            "key": "TR",
+                            "type": "I",
+                            "txtN": "FYN 001"
+                        },
+                        {
+                            "value": "1",
+                            "key": "TW",
+                            "type": "I",
+                            "txtN": "1"
+                        },
+                        {
+                            "value": "200",
+                            "key": "en",
+                            "type": "I",
+                            "txtN": "200"
+                        },
+                        {
+                            "value": "200",
+                            "key": "ev",
+                            "type": "I",
+                            "txtN": "200"
+                        }
+                    ]
+                },
+                "arrPlatform": {
+                    "type": "PL",
+                    "text": "4"
+                },
+                "rtArrPlatform": {
+                    "type": "PL",
+                    "text": "4"
+                },
+                "depPlatform": {
+                    "type": "PL",
+                    "text": "4"
+                },
+                "rtDepPlatform": {
+                    "type": "PL",
+                    "text": "4"
+                },
+                "name": "Odense St.",
+                "id": "A=1@O=Odense St.@X=10386739@Y=55401778@U=86@L=8600512@",
+                "extId": "8600512",
+                "routeIdx": 11,
+                "lon": 10.386739,
+                "lat": 55.401778,
+                "arrPrognosisType": "PROGNOSED",
+                "depPrognosisType": "PROGNOSED",
+                "depTime": "17:26:00",
+                "depDate": "2024-11-27",
+                "arrTime": "17:24:00",
+                "arrDate": "2024-11-27",
+                "arrTrack": "4",
+                "depTrack": "4",
+                "rtDepTime": "17:27:00",
+                "rtDepDate": "2024-11-27",
+                "rtDepTz": 0,
+                "rtArrTrack": "4",
+                "rtDepTrack": "4",
+                "minimumChangeDuration": "PT5M"
+            },
+            {
+                "Notes": {
+                    "Note": [
+                        {
+                            "key": "FB",
+                            "type": "A"
+                        },
+                        {
+                            "value": "8600518///741,74/",
+                            "key": "TE",
+                            "type": "I",
+                            "txtN": "8600518///741,74/"
+                        },
+                        {
+                            "value": "2202",
+                            "key": "TN",
+                            "type": "I",
+                            "txtN": "2202"
+                        },
+                        {
+                            "value": "FYNTOG",
+                            "key": "TP",
+                            "type": "I",
+                            "txtN": "FYNTOG"
+                        },
+                        {
+                            "value": "FYN 202",
+                            "key": "TR",
+                            "type": "I",
+                            "txtN": "FYN 202"
+                        },
+                        {
+                            "value": "2",
+                            "key": "TW",
+                            "type": "I",
+                            "txtN": "2"
+                        },
+                        {
+                            "value": "200",
+                            "key": "en",
+                            "type": "I",
+                            "txtN": "200"
+                        },
+                        {
+                            "value": "200",
+                            "key": "ev",
+                            "type": "I",
+                            "txtN": "200"
+                        }
+                    ]
+                },
+                "arrPlatform": {
+                    "type": "PL",
+                    "text": "2"
+                },
+                "rtArrPlatform": {
+                    "type": "PL",
+                    "text": "2"
+                },
+                "depPlatform": {
+                    "type": "PL",
+                    "text": "2"
+                },
+                "rtDepPlatform": {
+                    "type": "PL",
+                    "text": "2"
+                },
+                "name": "Nyborg St.",
+                "id": "A=1@O=Nyborg St.@X=10802580@Y=55313890@U=86@L=8600518@",
+                "extId": "8600518",
+                "routeIdx": 13,
+                "lon": 10.80258,
+                "lat": 55.31389,
+                "arrPrognosisType": "PROGNOSED",
+                "depPrognosisType": "PROGNOSED",
+                "depTime": "17:41:00",
+                "depDate": "2024-11-27",
+                "arrTime": "17:39:00",
+                "arrDate": "2024-11-27",
+                "arrTrack": "2",
+                "depTrack": "2",
+                "rtArrTrack": "2",
+                "rtDepTrack": "2",
+                "minimumChangeDuration": "PT5M"
+            },
+            {
+                "Notes": {
+                    "Note": [
+                        {
+                            "key": "FB",
+                            "type": "A"
+                        },
+                        {
+                            "value": "8600601///741,74/",
+                            "key": "TE",
+                            "type": "I",
+                            "txtN": "8600601///741,74/"
+                        },
+                        {
+                            "value": "1150",
+                            "key": "TN",
+                            "type": "I",
+                            "txtN": "1150"
+                        },
+                        {
+                            "value": "TV",
+                            "key": "TP",
+                            "type": "I",
+                            "txtN": "TV"
+                        },
+                        {
+                            "value": "DOT 150",
+                            "key": "TR",
+                            "type": "I",
+                            "txtN": "DOT 150"
+                        },
+                        {
+                            "value": "50",
+                            "key": "TW",
+                            "type": "I",
+                            "txtN": "50"
+                        },
+                        {
+                            "value": "200",
+                            "key": "en",
+                            "type": "I",
+                            "txtN": "200"
+                        },
+                        {
+                            "value": "200",
+                            "key": "ev",
+                            "type": "I",
+                            "txtN": "200"
+                        }
+                    ]
+                },
+                "arrPlatform": {
+                    "type": "PL",
+                    "text": "2"
+                },
+                "rtArrPlatform": {
+                    "type": "PL",
+                    "text": "2"
+                },
+                "depPlatform": {
+                    "type": "PL",
+                    "text": "2"
+                },
+                "rtDepPlatform": {
+                    "type": "PL",
+                    "text": "2"
+                },
+                "name": "Kors\u00f8r St.",
+                "id": "A=1@O=Kors\u00f8r St.@X=11135334@Y=55356886@U=86@L=8600601@",
+                "extId": "8600601",
+                "routeIdx": 14,
+                "lon": 11.135334,
+                "lat": 55.356886,
+                "arrPrognosisType": "PROGNOSED",
+                "depPrognosisType": "PROGNOSED",
+                "depTime": "17:53:00",
+                "depDate": "2024-11-27",
+                "arrTime": "17:52:00",
+                "arrDate": "2024-11-27",
+                "arrTrack": "2",
+                "depTrack": "2",
+                "rtDepTime": "17:54:00",
+                "rtDepDate": "2024-11-27",
+                "rtDepTz": 0,
+                "rtArrTrack": "2",
+                "rtDepTrack": "2",
+                "minimumChangeDuration": "PT5M"
+            },
+            {
+                "Notes": {
+                    "Note": [
+                        {
+                            "key": "FB",
+                            "type": "A"
+                        },
+                        {
+                            "value": "8600605///741,74/",
+                            "key": "TE",
+                            "type": "I",
+                            "txtN": "8600605///741,74/"
+                        },
+                        {
+                            "value": "1130",
+                            "key": "TN",
+                            "type": "I",
+                            "txtN": "1130"
+                        },
+                        {
+                            "value": "TV",
+                            "key": "TP",
+                            "type": "I",
+                            "txtN": "TV"
+                        },
+                        {
+                            "value": "DOT 130",
+                            "key": "TR",
+                            "type": "I",
+                            "txtN": "DOT 130"
+                        },
+                        {
+                            "value": "30",
+                            "key": "TW",
+                            "type": "I",
+                            "txtN": "30"
+                        },
+                        {
+                            "value": "200",
+                            "key": "en",
+                            "type": "I",
+                            "txtN": "200"
+                        },
+                        {
+                            "value": "200",
+                            "key": "ev",
+                            "type": "I",
+                            "txtN": "200"
+                        }
+                    ]
+                },
+                "arrPlatform": {
+                    "type": "PL",
+                    "text": "2"
+                },
+                "rtArrPlatform": {
+                    "type": "PL",
+                    "text": "2"
+                },
+                "depPlatform": {
+                    "type": "PL",
+                    "text": "2"
+                },
+                "rtDepPlatform": {
+                    "type": "PL",
+                    "text": "2"
+                },
+                "name": "Slagelse St.",
+                "id": "A=1@O=Slagelse St.@X=11348998@Y=55407306@U=86@L=8600605@",
+                "extId": "8600605",
+                "routeIdx": 15,
+                "lon": 11.348998,
+                "lat": 55.407306,
+                "arrPrognosisType": "PROGNOSED",
+                "depPrognosisType": "PROGNOSED",
+                "depTime": "18:02:00",
+                "depDate": "2024-11-27",
+                "arrTime": "18:00:00",
+                "arrDate": "2024-11-27",
+                "arrTrack": "2",
+                "depTrack": "2",
+                "rtArrTrack": "2",
+                "rtDepTrack": "2",
+                "minimumChangeDuration": "PT5M"
+            },
+            {
+                "Notes": {
+                    "Note": [
+                        {
+                            "key": "FB",
+                            "type": "A"
+                        },
+                        {
+                            "value": "8600608///741,74/",
+                            "key": "TE",
+                            "type": "I",
+                            "txtN": "8600608///741,74/"
+                        },
+                        {
+                            "value": "1180",
+                            "key": "TN",
+                            "type": "I",
+                            "txtN": "1180"
+                        },
+                        {
+                            "value": "TV",
+                            "key": "TP",
+                            "type": "I",
+                            "txtN": "TV"
+                        },
+                        {
+                            "value": "DOT 180",
+                            "key": "TR",
+                            "type": "I",
+                            "txtN": "DOT 180"
+                        },
+                        {
+                            "value": "80",
+                            "key": "TW",
+                            "type": "I",
+                            "txtN": "80"
+                        },
+                        {
+                            "value": "200",
+                            "key": "en",
+                            "type": "I",
+                            "txtN": "200"
+                        },
+                        {
+                            "value": "200",
+                            "key": "ev",
+                            "type": "I",
+                            "txtN": "200"
+                        }
+                    ]
+                },
+                "arrPlatform": {
+                    "type": "PL",
+                    "text": "2"
+                },
+                "rtArrPlatform": {
+                    "type": "PL",
+                    "text": "2"
+                },
+                "depPlatform": {
+                    "type": "PL",
+                    "text": "2"
+                },
+                "rtDepPlatform": {
+                    "type": "PL",
+                    "text": "2"
+                },
+                "name": "Sor\u00f8 St.",
+                "id": "A=1@O=Sor\u00f8 St.@X=11569243@Y=55419343@U=86@L=8600608@",
+                "extId": "8600608",
+                "routeIdx": 16,
+                "lon": 11.569243,
+                "lat": 55.419343,
+                "arrPrognosisType": "PROGNOSED",
+                "depPrognosisType": "PROGNOSED",
+                "depTime": "18:11:00",
+                "depDate": "2024-11-27",
+                "arrTime": "18:10:00",
+                "arrDate": "2024-11-27",
+                "arrTrack": "2",
+                "depTrack": "2",
+                "rtArrTrack": "2",
+                "rtDepTrack": "2",
+                "minimumChangeDuration": "PT2M"
+            },
+            {
+                "Notes": {
+                    "Note": [
+                        {
+                            "key": "FB",
+                            "type": "A"
+                        },
+                        {
+                            "value": "8600611///741,74/",
+                            "key": "TE",
+                            "type": "I",
+                            "txtN": "8600611///741,74/"
+                        },
+                        {
+                            "value": "1140",
+                            "key": "TN",
+                            "type": "I",
+                            "txtN": "1140"
+                        },
+                        {
+                            "value": "TV",
+                            "key": "TP",
+                            "type": "I",
+                            "txtN": "TV"
+                        },
+                        {
+                            "value": "DOT 140",
+                            "key": "TR",
+                            "type": "I",
+                            "txtN": "DOT 140"
+                        },
+                        {
+                            "value": "40",
+                            "key": "TW",
+                            "type": "I",
+                            "txtN": "40"
+                        },
+                        {
+                            "value": "200",
+                            "key": "en",
+                            "type": "I",
+                            "txtN": "200"
+                        },
+                        {
+                            "value": "200",
+                            "key": "ev",
+                            "type": "I",
+                            "txtN": "200"
+                        }
+                    ]
+                },
+                "arrPlatform": {
+                    "type": "PL",
+                    "text": "2"
+                },
+                "rtArrPlatform": {
+                    "type": "PL",
+                    "text": "2"
+                },
+                "depPlatform": {
+                    "type": "PL",
+                    "text": "2"
+                },
+                "rtDepPlatform": {
+                    "type": "PL",
+                    "text": "2"
+                },
+                "name": "Ringsted St.",
+                "id": "A=1@O=Ringsted St.@X=11786377@Y=55438391@U=86@L=8600611@",
+                "extId": "8600611",
+                "routeIdx": 17,
+                "lon": 11.786377,
+                "lat": 55.438391,
+                "arrPrognosisType": "PROGNOSED",
+                "depPrognosisType": "PROGNOSED",
+                "depTime": "18:21:00",
+                "depDate": "2024-11-27",
+                "arrTime": "18:19:00",
+                "arrDate": "2024-11-27",
+                "arrTrack": "2",
+                "depTrack": "2",
+                "rtArrTrack": "2",
+                "rtDepTrack": "2",
+                "minimumChangeDuration": "PT4M"
+            },
+            {
+                "Notes": {
+                    "Note": [
+                        {
+                            "key": "FB",
+                            "type": "A"
+                        },
+                        {
+                            "value": "ABCH",
+                            "key": "OZ",
+                            "type": "I",
+                            "txtN": "ABCH"
+                        },
+                        {
+                            "value": "8600797///741,74/",
+                            "key": "TE",
+                            "type": "I",
+                            "txtN": "8600797///741,74/"
+                        },
+                        {
+                            "value": "1099",
+                            "key": "TN",
+                            "type": "I",
+                            "txtN": "1099"
+                        },
+                        {
+                            "value": "TH",
+                            "key": "TP",
+                            "type": "I",
+                            "txtN": "TH"
+                        },
+                        {
+                            "value": "DOT 99",
+                            "key": "TR",
+                            "type": "I",
+                            "txtN": "DOT 99"
+                        },
+                        {
+                            "value": "99",
+                            "key": "TW",
+                            "type": "I",
+                            "txtN": "99"
+                        }
+                    ]
+                },
+                "arrPlatform": {
+                    "type": "PL",
+                    "text": "4"
+                },
+                "rtArrPlatform": {
+                    "type": "PL",
+                    "text": "4"
+                },
+                "depPlatform": {
+                    "type": "PL",
+                    "text": "4"
+                },
+                "rtDepPlatform": {
+                    "type": "PL",
+                    "text": "4"
+                },
+                "name": "K\u00f8ge Nord St.",
+                "id": "A=1@O=K\u00f8ge Nord St.@X=12173983@Y=55499194@U=86@L=8600797@",
+                "extId": "8600797",
+                "routeIdx": 18,
+                "lon": 12.173983,
+                "lat": 55.499194,
+                "arrPrognosisType": "PROGNOSED",
+                "depPrognosisType": "PROGNOSED",
+                "depTime": "18:35:00",
+                "depDate": "2024-11-27",
+                "arrTime": "18:34:00",
+                "arrDate": "2024-11-27",
+                "arrTrack": "4",
+                "depTrack": "4",
+                "rtArrTrack": "4",
+                "rtDepTrack": "4",
+                "minimumChangeDuration": "PT8M"
+            },
+            {
+                "Notes": {
+                    "Note": [
+                        {
+                            "key": "FB",
+                            "type": "A"
+                        },
+                        {
+                            "value": "E",
+                            "key": "OZ",
+                            "type": "I",
+                            "txtN": "E"
+                        },
+                        {
+                            "value": "8600783///741,74/",
+                            "key": "TE",
+                            "type": "I",
+                            "txtN": "8600783///741,74/"
+                        },
+                        {
+                            "value": "1002",
+                            "key": "TN",
+                            "type": "I",
+                            "txtN": "1002"
+                        },
+                        {
+                            "value": "TH",
+                            "key": "TP",
+                            "type": "I",
+                            "txtN": "TH"
+                        },
+                        {
+                            "value": "DOT 2",
+                            "key": "TR",
+                            "type": "I",
+                            "txtN": "DOT 2"
+                        },
+                        {
+                            "value": "2",
+                            "key": "TW",
+                            "type": "I",
+                            "txtN": "2"
+                        }
+                    ]
+                },
+                "arrPlatform": {
+                    "type": "PL",
+                    "text": "23"
+                },
+                "rtArrPlatform": {
+                    "type": "PL",
+                    "text": "23"
+                },
+                "depPlatform": {
+                    "type": "PL",
+                    "text": "23"
+                },
+                "rtDepPlatform": {
+                    "type": "PL",
+                    "text": "23"
+                },
+                "name": "K\u00f8benhavn Syd St.",
+                "id": "A=1@O=K\u00f8benhavn Syd St.@X=12516850@Y=55652622@U=86@L=8600783@",
+                "extId": "8600783",
+                "routeIdx": 19,
+                "lon": 12.51685,
+                "lat": 55.652622,
+                "arrPrognosisType": "PROGNOSED",
+                "depPrognosisType": "PROGNOSED",
+                "depTime": "18:50:00",
+                "depDate": "2024-11-27",
+                "arrTime": "18:49:00",
+                "arrDate": "2024-11-27",
+                "arrTrack": "23",
+                "depTrack": "23",
+                "rtArrTrack": "23",
+                "rtDepTrack": "23",
+                "minimumChangeDuration": "PT10M"
+            },
+            {
+                "Notes": {
+                    "Note": [
+                        {
+                            "key": "FB",
+                            "type": "A"
+                        },
+                        {
+                            "value": "FL",
+                            "key": "OZ",
+                            "type": "I",
+                            "txtN": "FL"
+                        },
+                        {
+                            "value": "8600626///741,74/",
+                            "key": "TE",
+                            "type": "I",
+                            "txtN": "8600626///741,74/"
+                        },
+                        {
+                            "value": "1001",
+                            "key": "TN",
+                            "type": "I",
+                            "txtN": "1001"
+                        },
+                        {
+                            "value": "TH",
+                            "key": "TP",
+                            "type": "I",
+                            "txtN": "TH"
+                        },
+                        {
+                            "value": "DOT 1",
+                            "key": "TR",
+                            "type": "I",
+                            "txtN": "DOT 1"
+                        },
+                        {
+                            "value": "1",
+                            "key": "TW",
+                            "type": "I",
+                            "txtN": "1"
+                        }
+                    ]
+                },
+                "arrPlatform": {
+                    "type": "PL",
+                    "text": "1"
+                },
+                "rtArrPlatform": {
+                    "type": "PL",
+                    "text": "1"
+                },
+                "depPlatform": {
+                    "type": "PL",
+                    "text": "1"
+                },
+                "rtDepPlatform": {
+                    "type": "PL",
+                    "text": "1"
+                },
+                "name": "K\u00f8benhavn H",
+                "id": "A=1@O=K\u00f8benhavn H@X=12565562@Y=55673063@U=86@L=8600626@",
+                "extId": "8600626",
+                "routeIdx": 20,
+                "lon": 12.565562,
+                "lat": 55.673063,
+                "arrPrognosisType": "PROGNOSED",
+                "depPrognosisType": "PROGNOSED",
+                "depTime": "19:06:00",
+                "depDate": "2024-11-27",
+                "arrTime": "18:56:00",
+                "arrDate": "2024-11-27",
+                "arrTrack": "1",
+                "depTrack": "1",
+                "rtArrTrack": "1",
+                "rtDepTrack": "1",
+                "minimumChangeDuration": "PT6M"
+            },
+            {
+                "Notes": {
+                    "Note": [
+                        {
+                            "key": "FB",
+                            "type": "A"
+                        },
+                        {
+                            "value": "FL",
+                            "key": "OZ",
+                            "type": "I",
+                            "txtN": "FL"
+                        },
+                        {
+                            "value": "8600646///741,74/",
+                            "key": "TE",
+                            "type": "I",
+                            "txtN": "8600646///741,74/"
+                        },
+                        {
+                            "value": "1001",
+                            "key": "TN",
+                            "type": "I",
+                            "txtN": "1001"
+                        },
+                        {
+                            "value": "TH",
+                            "key": "TP",
+                            "type": "I",
+                            "txtN": "TH"
+                        },
+                        {
+                            "value": "DOT 1",
+                            "key": "TR",
+                            "type": "I",
+                            "txtN": "DOT 1"
+                        },
+                        {
+                            "value": "1",
+                            "key": "TW",
+                            "type": "I",
+                            "txtN": "1"
+                        }
+                    ]
+                },
+                "arrPlatform": {
+                    "type": "PL",
+                    "text": "1"
+                },
+                "rtArrPlatform": {
+                    "type": "PL",
+                    "text": "1"
+                },
+                "depPlatform": {
+                    "type": "PL",
+                    "text": "1"
+                },
+                "rtDepPlatform": {
+                    "type": "PL",
+                    "text": "1"
+                },
+                "name": "N\u00f8rreport St.",
+                "id": "A=1@O=N\u00f8rreport St.@X=12571801@Y=55683455@U=86@L=8600646@",
+                "extId": "8600646",
+                "routeIdx": 21,
+                "lon": 12.571801,
+                "lat": 55.683455,
+                "arrPrognosisType": "PROGNOSED",
+                "depPrognosisType": "PROGNOSED",
+                "depTime": "19:09:00",
+                "depDate": "2024-11-27",
+                "arrTime": "19:08:00",
+                "arrDate": "2024-11-27",
+                "arrTrack": "1",
+                "depTrack": "1",
+                "rtArrTrack": "1",
+                "rtDepTrack": "1",
+                "minimumChangeDuration": "PT4M"
+            },
+            {
+                "Notes": {
+                    "Note": [
+                        {
+                            "key": "FB",
+                            "type": "A"
+                        },
+                        {
+                            "value": "FL",
+                            "key": "OZ",
+                            "type": "I",
+                            "txtN": "FL"
+                        },
+                        {
+                            "value": "8600650///741,74/",
+                            "key": "TE",
+                            "type": "I",
+                            "txtN": "8600650///741,74/"
+                        },
+                        {
+                            "value": "1001",
+                            "key": "TN",
+                            "type": "I",
+                            "txtN": "1001"
+                        },
+                        {
+                            "value": "TH",
+                            "key": "TP",
+                            "type": "I",
+                            "txtN": "TH"
+                        },
+                        {
+                            "value": "DOT 1",
+                            "key": "TR",
+                            "type": "I",
+                            "txtN": "DOT 1"
+                        },
+                        {
+                            "value": "1",
+                            "key": "TW",
+                            "type": "I",
+                            "txtN": "1"
+                        }
+                    ]
+                },
+                "arrPlatform": {
+                    "type": "PL",
+                    "text": "2"
+                },
+                "rtArrPlatform": {
+                    "type": "PL",
+                    "text": "2"
+                },
+                "name": "\u00d8sterport St.",
+                "id": "A=1@O=\u00d8sterport St.@X=12587784@Y=55692498@U=86@L=8600650@",
+                "extId": "8600650",
+                "routeIdx": 22,
+                "lon": 12.587784,
+                "lat": 55.692498,
+                "arrPrognosisType": "PROGNOSED",
+                "arrTime": "19:12:00",
+                "arrDate": "2024-11-27",
+                "arrTrack": "2",
+                "rtArrTrack": "2",
+                "minimumChangeDuration": "PT5M"
+            }
+        ]
+    },
+    "Names": {
+        "Name": [
+            {
+                "Product": {
+                    "icon": {
+                        "res": "prod_ic"
+                    },
+                    "operatorInfo": {
+                        "name": "DSB",
+                        "nameS": "DSB",
+                        "nameN": "DSB",
+                        "nameL": "DSB"
+                    },
+                    "name": "IC 152",
+                    "internalName": "IC    152",
+                    "displayNumber": "152",
+                    "num": "152",
+                    "catOut": "IC",
+                    "catIn": "001",
+                    "catCode": "0",
+                    "cls": "1",
+                    "catOutS": "001",
+                    "catOutL": "IC",
+                    "operatorCode": "DSB",
+                    "operator": "DSB",
+                    "admin": "000002",
+                    "matchId": "152"
+                },
+                "name": "IC 152",
+                "number": "152",
+                "category": "001",
+                "routeIdxFrom": 0,
+                "routeIdxTo": 22
+            }
+        ]
+    },
+    "Product": [
+        {
+            "icon": {
+                "res": "prod_ic"
+            },
+            "operatorInfo": {
+                "name": "DSB",
+                "nameS": "DSB",
+                "nameN": "DSB",
+                "nameL": "DSB"
+            },
+            "name": "IC 152",
+            "internalName": "IC    152",
+            "displayNumber": "152",
+            "num": "152",
+            "catOut": "IC",
+            "catIn": "001",
+            "catCode": "0",
+            "cls": "1",
+            "catOutS": "001",
+            "catOutL": "IC",
+            "operatorCode": "DSB",
+            "operator": "DSB",
+            "admin": "000002",
+            "routeIdxFrom": 0,
+            "routeIdxTo": 22,
+            "matchId": "152"
+        }
+    ],
+    "Directions": {
+        "Direction": [
+            {
+                "value": "\u00d8sterport St.",
+                "flag": "1",
+                "routeIdxFrom": 0,
+                "routeIdxTo": 22
+            }
+        ]
+    },
+    "Notes": {
+        "Note": [
+            {
+                "value": "Cykelreservering kr\u00e6ves",
+                "key": "CR",
+                "type": "A",
+                "priority": 0,
+                "routeIdxFrom": 0,
+                "routeIdxTo": 22,
+                "txtN": "Cykelreservering kr\u00e6ves"
+            },
+            {
+                "value": "Reservering anbefales",
+                "key": "RE",
+                "type": "A",
+                "priority": 0,
+                "routeIdxFrom": 0,
+                "routeIdxTo": 22,
+                "txtN": "Reservering anbefales"
+            },
+            {
+                "value": "Mulighed for internet",
+                "key": "TD",
+                "type": "A",
+                "priority": 200,
+                "routeIdxFrom": 0,
+                "routeIdxTo": 22,
+                "txtN": "Mulighed for internet"
+            },
+            {
+                "value": "ec3400",
+                "key": "CT",
+                "type": "I",
+                "routeIdxFrom": 0,
+                "routeIdxTo": 22,
+                "txtN": "ec3400"
+            }
+        ]
+    },
+    "Messages": {
+        "Message": [
+            {
+                "affectedStops": {
+                    "StopLocation": [
+                        {
+                            "LocationNotes": {
+                                "LocationNote": [
+                                    {
+                                        "value": "",
+                                        "key": "FB",
+                                        "type": "A",
+                                        "txtN": ""
+                                    },
+                                    {
+                                        "value": "8600611///741,74/",
+                                        "key": "TE",
+                                        "type": "I",
+                                        "txtN": "8600611///741,74/"
+                                    },
+                                    {
+                                        "value": "1140",
+                                        "key": "TN",
+                                        "type": "I",
+                                        "txtN": "1140"
+                                    },
+                                    {
+                                        "value": "TV",
+                                        "key": "TP",
+                                        "type": "I",
+                                        "txtN": "TV"
+                                    },
+                                    {
+                                        "value": "DOT 140",
+                                        "key": "TR",
+                                        "type": "I",
+                                        "txtN": "DOT 140"
+                                    },
+                                    {
+                                        "value": "40",
+                                        "key": "TW",
+                                        "type": "I",
+                                        "txtN": "40"
+                                    },
+                                    {
+                                        "value": "200",
+                                        "key": "en",
+                                        "type": "I",
+                                        "txtN": "200"
+                                    },
+                                    {
+                                        "value": "200",
+                                        "key": "ev",
+                                        "type": "I",
+                                        "txtN": "200"
+                                    }
+                                ]
+                            },
+                            "id": "A=1@O=Ringsted St.@X=11786377@Y=55438391@U=86@L=8600611@",
+                            "extId": "8600611",
+                            "name": "Ringsted St.",
+                            "lon": 11.786377,
+                            "lat": 55.438391,
+                            "products": 45
+                        },
+                        {
+                            "LocationNotes": {
+                                "LocationNote": [
+                                    {
+                                        "value": "",
+                                        "key": "FB",
+                                        "type": "A",
+                                        "txtN": ""
+                                    },
+                                    {
+                                        "value": "8600611///741,74/",
+                                        "key": "TE",
+                                        "type": "I",
+                                        "txtN": "8600611///741,74/"
+                                    },
+                                    {
+                                        "value": "1140",
+                                        "key": "TN",
+                                        "type": "I",
+                                        "txtN": "1140"
+                                    },
+                                    {
+                                        "value": "TV",
+                                        "key": "TP",
+                                        "type": "I",
+                                        "txtN": "TV"
+                                    },
+                                    {
+                                        "value": "DOT 140",
+                                        "key": "TR",
+                                        "type": "I",
+                                        "txtN": "DOT 140"
+                                    },
+                                    {
+                                        "value": "40",
+                                        "key": "TW",
+                                        "type": "I",
+                                        "txtN": "40"
+                                    },
+                                    {
+                                        "value": "200",
+                                        "key": "en",
+                                        "type": "I",
+                                        "txtN": "200"
+                                    },
+                                    {
+                                        "value": "200",
+                                        "key": "ev",
+                                        "type": "I",
+                                        "txtN": "200"
+                                    }
+                                ]
+                            },
+                            "id": "A=1@O=Ringsted St.@X=11786377@Y=55438391@U=86@L=8600611@",
+                            "extId": "8600611",
+                            "name": "Ringsted St.",
+                            "lon": 11.786377,
+                            "lat": 55.438391,
+                            "products": 45
+                        }
+                    ]
+                },
+                "validFromStop": {
+                    "name": "Ringsted St.",
+                    "id": "A=1@O=Ringsted St.@X=11786377@Y=55438391@U=86@L=8600611@",
+                    "extId": "8600611",
+                    "routeIdx": 17,
+                    "lon": 11.786377,
+                    "lat": 55.438391,
+                    "minimumChangeDuration": "PT4M"
+                },
+                "validToStop": {
+                    "name": "Ringsted St.",
+                    "id": "A=1@O=Ringsted St.@X=11786377@Y=55438391@U=86@L=8600611@",
+                    "extId": "8600611",
+                    "routeIdx": 17,
+                    "lon": 11.786377,
+                    "lat": 55.438391,
+                    "minimumChangeDuration": "PT4M"
+                },
+                "channel": [
+                    {
+                        "name": "TIMETABLE",
+                        "url": [
+                            {
+                                "name": "dsb.dk/sporfornyelse/",
+                                "url": "https://www.dsb.dk/trafikinformation/sporfornyelse-2024/ro-rg-nae2024/"
+                            }
+                        ],
+                        "validFromTime": "13:33:00",
+                        "validFromDate": "2024-07-12",
+                        "validToTime": "04:00:00",
+                        "validToDate": "2024-12-09"
+                    }
+                ],
+                "messageCategory": [
+                    {
+                        "id": 11
+                    }
+                ],
+                "id": "375759",
+                "act": true,
+                "head": "Sporarbejde p\u00e5 str\u00e6kningen: Tider er opdateret",
+                "lead": "L\u00e6s mere p\u00e5 dsb.dk/sporfornyelse",
+                "text": "L\u00e6s mere p\u00e5 dsb.dk/sporfornyelse (Ringsted St.)",
+                "company": "DcDK",
+                "category": "11",
+                "products": 7,
+                "icon": "HIM11",
+                "routeIdxFrom": 17,
+                "routeIdxTo": 17,
+                "sTime": "04:00:00",
+                "sDate": "2024-11-25",
+                "eTime": "04:00:00",
+                "eDate": "2024-12-09",
+                "modTime": "13:42:10",
+                "modDate": "2024-10-08",
+                "dailyStartingAt": "00:00:00",
+                "dailyDuration": "PT23H59M0S"
+            }
+        ]
+    },
+    "JourneyStatus": "P",
+    "ServiceDays": [
+        {
+            "planningPeriodBegin": "2024-11-26",
+            "planningPeriodEnd": "2025-02-12",
+            "sDaysR": "ikke altid",
+            "sDaysI": "27. nov - 13. dec 2024 man - fre, s\u00f8n",
+            "sDaysB": "F7EFC000000000000000",
+            "routeIdxFrom": 0,
+            "routeIdxTo": 22
+        }
+    ],
+    "lastPos": {
+        "lon": 12.332814,
+        "lat": 55.633664
+    },
+    "TechnicalMessages": {
+        "TechnicalMessage": [
+            {
+                "value": "2024-11-27 18:43:12",
+                "key": "requestTime"
+            },
+            {
+                "value": "ttp=16402#16480 plancode0=xubi5 planid=1732618831 planid0=1732618831 planid_adr=1732528415 plancode_adr=xsdrl planid_poi=1732519734 plancode_poi=xr62g srvv=5.45.Rejseplanen.15.4.11 (customer/hcudk/release/2024.4.2.0) [2024-09-13] tlibv=TRFVER: rel/dk/10.05.5 2024-08-23 16:30:57 +0200 Rejsekort v10.5.5 jno=1",
+                "key": "backendInfo"
+            }
+        ]
+    },
+    "serverVersion": "2.45.2",
+    "dialectVersion": "2.45-Rejseplanen",
+    "planRtTs": "2024-11-27T18:43:02.000+01:00",
+    "requestId": "csiw3zgi6qs89kck",
+    "reachable": true,
+    "dayOfOperation": "2024-11-27",
+    "ref": "2|#VN#1#ST#1732618831#PI#0#ZI#77#TA#0#DA#271124#1S#8600079#1T#1654#LS#8600650#LT#1912#PU#86#RT#1#CA#001#ZE#152#ZB#IC    152#PC#0#FR#8600079#FT#1654#TO#8600650#TT#1912#"
+}

@@ -1,0 +1,137 @@
+{"Depature":[{
+    "JourneyDetailRef": {
+        "ref": "2|#VN#1#ST#1732618831#PI#0#ZI#57459#TA#0#DA#271124#1S#8600404#1T#1935#LS#8600189#LT#2053#PU#86#RT#1#CA#030#ZE#5572#ZB#RA 5572#PC#2#FR#8600404#FT#1935#TO#8600189#TT#2053#"
+    },
+    "JourneyStatus": "P",
+    "ProductAtStop": {
+        "icon": {
+            "res": "prod_ic"
+        },
+        "operatorInfo": {
+            "name": "GoCollective",
+            "nameS": "GoC",
+            "nameN": "GoC",
+            "nameL": "GoCollective"
+        },
+        "name": "RA 5572",
+        "internalName": "RA 5572",
+        "displayNumber": "5572",
+        "num": "5572",
+        "catOut": "RA",
+        "catIn": "030",
+        "catCode": "2",
+        "cls": "4",
+        "catOutS": "030",
+        "catOutL": "RA",
+        "operatorCode": "GoC",
+        "operator": "GoCollective",
+        "admin": "000087",
+        "matchId": "5572"
+    },
+    "Product": [
+        {
+            "icon": {
+                "res": "prod_ic"
+            },
+            "operatorInfo": {
+                "name": "GoCollective",
+                "nameS": "GoC",
+                "nameN": "GoC",
+                "nameL": "GoCollective"
+            },
+            "name": "RA 5572",
+            "internalName": "RA 5572",
+            "displayNumber": "5572",
+            "num": "5572",
+            "catOut": "RA",
+            "catIn": "030",
+            "catCode": "2",
+            "cls": "4",
+            "catOutS": "030",
+            "catOutL": "RA",
+            "operatorCode": "GoC",
+            "operator": "GoCollective",
+            "admin": "000087",
+            "routeIdxFrom": 0,
+            "routeIdxTo": 12,
+            "matchId": "5572"
+        }
+    ],
+    "Notes": {
+        "Note": [
+            {
+                "value": "Mulighed for internet",
+                "key": "TD",
+                "type": "A",
+                "priority": 200,
+                "routeIdxFrom": 0,
+                "routeIdxTo": 12,
+                "txtN": "Mulighed for internet"
+            },
+            {
+                "value": "6938a1",
+                "key": "CT",
+                "type": "I",
+                "routeIdxFrom": 0,
+                "routeIdxTo": 12,
+                "txtN": "6938a1"
+            },
+            {
+                "value": "ffffff",
+                "key": "CF",
+                "type": "I",
+                "routeIdxFrom": 0,
+                "routeIdxTo": 12,
+                "txtN": "ffffff"
+            },
+            {
+                "key": "FB",
+                "type": "A"
+            },
+            {
+                "value": "5110",
+                "key": "TN",
+                "type": "I",
+                "txtN": "5110"
+            },
+            {
+                "value": "NT",
+                "key": "TP",
+                "type": "I",
+                "txtN": "NT"
+            },
+            {
+                "value": "NT 110",
+                "key": "TR",
+                "type": "I",
+                "txtN": "NT 110"
+            },
+            {
+                "value": "110",
+                "key": "TW",
+                "type": "I",
+                "txtN": "110"
+            }
+        ]
+    },
+    "rtPlatform": {
+        "type": "PL",
+        "text": "1"
+    },
+    "name": "RA 5572",
+    "type": "ST",
+    "stop": "Thisted St.",
+    "stopid": "A=1@O=Thisted St.@X=8688056@Y=56952885@U=86@L=8600404@",
+    "stopExtId": "8600404",
+    "lon": 8.688056,
+    "lat": 56.952885,
+    "isMainMast": true,
+    "prognosisType": "PROGNOSED",
+    "time": "19:35:00",
+    "date": "2024-11-27",
+    "rtTrack": "1",
+    "reachable": true,
+    "direction": "Struer St.",
+    "directionFlag": "2"
+},
+{}]}

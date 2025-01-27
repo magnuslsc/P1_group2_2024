@@ -1,0 +1,1118 @@
+{
+    "Departure": [
+        {
+            "JourneyDetailRef": {
+                "ref": "2|#VN#1#ST#1732618831#PI#0#ZI#7674#TA#1#DA#271124#1S#787079101#1T#1848#LS#851100102#LT#2110#PU#86#RT#1#CA#013#ZE#70#ZB#Bus    70#PC#5#FR#787079101#FT#1848#TO#851100102#TT#2110#"
+            },
+            "JourneyStatus": "P",
+            "ProductAtStop": {
+                "icon": {
+                    "res": "prod_bus"
+                },
+                "operatorInfo": {
+                    "name": "NT",
+                    "nameS": "NT",
+                    "nameN": "NT",
+                    "nameL": "NT"
+                },
+                "name": "Bus 70",
+                "internalName": "Bus    70",
+                "displayNumber": "70",
+                "num": "3025",
+                "line": "70",
+                "lineId": "013_280_00_70",
+                "catOut": "Bus",
+                "catIn": "013",
+                "catCode": "5",
+                "cls": "32",
+                "catOutS": "013",
+                "catOutL": "Bus",
+                "operatorCode": "NT",
+                "operator": "NT",
+                "admin": "280_00",
+                "matchId": "12129"
+            },
+            "Product": [
+                {
+                    "icon": {
+                        "res": "prod_bus"
+                    },
+                    "operatorInfo": {
+                        "name": "NT",
+                        "nameS": "NT",
+                        "nameN": "NT",
+                        "nameL": "NT"
+                    },
+                    "name": "Bus 70",
+                    "internalName": "Bus    70",
+                    "displayNumber": "70",
+                    "num": "3025",
+                    "line": "70",
+                    "lineId": "013_280_00_70",
+                    "catOut": "Bus",
+                    "catIn": "013",
+                    "catCode": "5",
+                    "cls": "32",
+                    "catOutS": "013",
+                    "catOutL": "Bus",
+                    "operatorCode": "NT",
+                    "operator": "NT",
+                    "admin": "280_00",
+                    "routeIdxFrom": 0,
+                    "routeIdxTo": 119,
+                    "matchId": "12129"
+                }
+            ],
+            "Notes": {
+                "Note": [
+                    {
+                        "value": "A7B1B7",
+                        "key": "CT",
+                        "type": "I",
+                        "routeIdxFrom": 0,
+                        "routeIdxTo": 119,
+                        "txtN": "A7B1B7"
+                    },
+                    {
+                        "value": "NT",
+                        "key": "PU",
+                        "type": "I",
+                        "routeIdxFrom": 0,
+                        "routeIdxTo": 119,
+                        "txtN": "NT"
+                    },
+                    {
+                        "value": "2009",
+                        "key": "bp",
+                        "type": "I",
+                        "routeIdxFrom": 0,
+                        "routeIdxTo": 119,
+                        "txtN": "2009"
+                    },
+                    {
+                        "value": "12129",
+                        "key": "FD",
+                        "type": "I",
+                        "routeIdxFrom": 0,
+                        "routeIdxTo": 119,
+                        "txtN": "12129"
+                    },
+                    {
+                        "key": "FB",
+                        "type": "A"
+                    },
+                    {
+                        "value": "5110",
+                        "key": "TN",
+                        "type": "I",
+                        "txtN": "5110"
+                    },
+                    {
+                        "value": "NT",
+                        "key": "TP",
+                        "type": "I",
+                        "txtN": "NT"
+                    },
+                    {
+                        "value": "NT 110",
+                        "key": "TR",
+                        "type": "I",
+                        "txtN": "NT 110"
+                    },
+                    {
+                        "value": "110",
+                        "key": "TW",
+                        "type": "I",
+                        "txtN": "110"
+                    }
+                ]
+            },
+            "Messages": {
+                "Message": [
+                    {
+                        "affectedStops": {
+                            "StopLocation": [
+                                {
+                                    "LocationNotes": {
+                                        "LocationNote": [
+                                            {
+                                                "value": "",
+                                                "key": "FB",
+                                                "type": "A",
+                                                "txtN": ""
+                                            },
+                                            {
+                                                "value": "5110",
+                                                "key": "TN",
+                                                "type": "I",
+                                                "txtN": "5110"
+                                            },
+                                            {
+                                                "value": "NT",
+                                                "key": "TP",
+                                                "type": "I",
+                                                "txtN": "NT"
+                                            },
+                                            {
+                                                "value": "NT 110",
+                                                "key": "TR",
+                                                "type": "I",
+                                                "txtN": "NT 110"
+                                            },
+                                            {
+                                                "value": "110",
+                                                "key": "TW",
+                                                "type": "I",
+                                                "txtN": "110"
+                                            }
+                                        ]
+                                    },
+                                    "productAtStop": [
+                                        {
+                                            "icon": {
+                                                "res": "prod_ic"
+                                            },
+                                            "name": "RA",
+                                            "internalName": "RA      ",
+                                            "catOut": "RA",
+                                            "cls": "4",
+                                            "catOutS": "030",
+                                            "catOutL": "RA"
+                                        },
+                                        {
+                                            "icon": {
+                                                "res": "prod_gen"
+                                            },
+                                            "name": "Togbus",
+                                            "internalName": "Togbus  ",
+                                            "catOut": "Togbus",
+                                            "cls": "8",
+                                            "catOutS": "032",
+                                            "catOutL": "Togbus"
+                                        },
+                                        {
+                                            "icon": {
+                                                "res": "prod_bus"
+                                            },
+                                            "name": "Bus 70",
+                                            "internalName": "Bus 70",
+                                            "line": "70",
+                                            "lineId": "013_280_00_70",
+                                            "catOut": "Bus",
+                                            "cls": "32",
+                                            "catOutS": "013",
+                                            "catOutL": "Bus"
+                                        },
+                                        {
+                                            "icon": {
+                                                "res": "prod_bus"
+                                            },
+                                            "name": "Bus 90",
+                                            "internalName": "Bus 90",
+                                            "line": "90",
+                                            "lineId": "013_280_00_90",
+                                            "catOut": "Bus",
+                                            "cls": "32",
+                                            "catOutS": "013",
+                                            "catOutL": "Bus"
+                                        },
+                                        {
+                                            "icon": {
+                                                "res": "prod_bus"
+                                            },
+                                            "name": "Bus 310",
+                                            "internalName": "Bus 310",
+                                            "line": "310",
+                                            "lineId": "013_280_00_310",
+                                            "catOut": "Bus",
+                                            "cls": "32",
+                                            "catOutS": "013",
+                                            "catOutL": "Bus"
+                                        },
+                                        {
+                                            "icon": {
+                                                "res": "prod_bus"
+                                            },
+                                            "name": "Bus 311",
+                                            "internalName": "Bus 311",
+                                            "line": "311",
+                                            "lineId": "013_280_00_311",
+                                            "catOut": "Bus",
+                                            "cls": "32",
+                                            "catOutS": "013",
+                                            "catOutL": "Bus"
+                                        },
+                                        {
+                                            "icon": {
+                                                "res": "prod_bus"
+                                            },
+                                            "name": "Bus 312",
+                                            "internalName": "Bus 312",
+                                            "line": "312",
+                                            "lineId": "013_280_00_312",
+                                            "catOut": "Bus",
+                                            "cls": "32",
+                                            "catOutS": "013",
+                                            "catOutL": "Bus"
+                                        },
+                                        {
+                                            "icon": {
+                                                "res": "prod_bus"
+                                            },
+                                            "name": "Bus 313",
+                                            "internalName": "Bus 313",
+                                            "line": "313",
+                                            "lineId": "013_280_00_313",
+                                            "catOut": "Bus",
+                                            "cls": "32",
+                                            "catOutS": "013",
+                                            "catOutL": "Bus"
+                                        },
+                                        {
+                                            "icon": {
+                                                "res": "prod_bus"
+                                            },
+                                            "name": "Bus 320",
+                                            "internalName": "Bus 320",
+                                            "line": "320",
+                                            "lineId": "013_280_00_320",
+                                            "catOut": "Bus",
+                                            "cls": "32",
+                                            "catOutS": "013",
+                                            "catOutL": "Bus"
+                                        },
+                                        {
+                                            "icon": {
+                                                "res": "prod_bus"
+                                            },
+                                            "name": "Bus 322",
+                                            "internalName": "Bus 322",
+                                            "line": "322",
+                                            "lineId": "013_280_00_322",
+                                            "catOut": "Bus",
+                                            "cls": "32",
+                                            "catOutS": "013",
+                                            "catOutL": "Bus"
+                                        },
+                                        {
+                                            "icon": {
+                                                "res": "prod_bus"
+                                            },
+                                            "name": "Bus 323",
+                                            "internalName": "Bus 323",
+                                            "line": "323",
+                                            "lineId": "013_280_00_323",
+                                            "catOut": "Bus",
+                                            "cls": "32",
+                                            "catOutS": "013",
+                                            "catOutL": "Bus"
+                                        },
+                                        {
+                                            "icon": {
+                                                "res": "prod_bus"
+                                            },
+                                            "name": "Bybus 1",
+                                            "internalName": "Bybus 1",
+                                            "line": "1",
+                                            "lineId": "028_280_10_1",
+                                            "catOut": "Bybus",
+                                            "cls": "32",
+                                            "catOutS": "028",
+                                            "catOutL": "Bybus"
+                                        },
+                                        {
+                                            "icon": {
+                                                "res": "prod_bus"
+                                            },
+                                            "name": "Bybus 2",
+                                            "internalName": "Bybus 2",
+                                            "line": "2",
+                                            "lineId": "028_280_10_2",
+                                            "catOut": "Bybus",
+                                            "cls": "32",
+                                            "catOutS": "028",
+                                            "catOutL": "Bybus"
+                                        },
+                                        {
+                                            "icon": {
+                                                "res": "prod_bus"
+                                            },
+                                            "name": "X Bus 940X",
+                                            "internalName": "X Bus 940X",
+                                            "line": "940X",
+                                            "lineId": "023_280_00_940X",
+                                            "catOut": "X Bus",
+                                            "cls": "64",
+                                            "catOutS": "023",
+                                            "catOutL": "X Bus"
+                                        },
+                                        {
+                                            "icon": {
+                                                "res": "prod_bus"
+                                            },
+                                            "name": "X Bus 970X",
+                                            "internalName": "X Bus 970X",
+                                            "line": "970X",
+                                            "lineId": "023_280_00_970X",
+                                            "catOut": "X Bus",
+                                            "cls": "64",
+                                            "catOutS": "023",
+                                            "catOutL": "X Bus"
+                                        }
+                                    ],
+                                    "mainMast": {
+                                        "LocationNotes": {
+                                            "LocationNote": [
+                                                {
+                                                    "value": "",
+                                                    "key": "FB",
+                                                    "type": "A",
+                                                    "txtN": ""
+                                                },
+                                                {
+                                                    "value": "5110",
+                                                    "key": "TN",
+                                                    "type": "I",
+                                                    "txtN": "5110"
+                                                },
+                                                {
+                                                    "value": "NT",
+                                                    "key": "TP",
+                                                    "type": "I",
+                                                    "txtN": "NT"
+                                                },
+                                                {
+                                                    "value": "NT 110",
+                                                    "key": "TR",
+                                                    "type": "I",
+                                                    "txtN": "NT 110"
+                                                },
+                                                {
+                                                    "value": "110",
+                                                    "key": "TW",
+                                                    "type": "I",
+                                                    "txtN": "110"
+                                                }
+                                            ]
+                                        },
+                                        "id": "A=1@O=Thisted St.@X=8688056@Y=56952885@U=86@L=8600404@",
+                                        "extId": "8600404",
+                                        "isMainMast": true,
+                                        "name": "Thisted St.",
+                                        "lon": 8.688056,
+                                        "lat": 56.952885,
+                                        "products": 108
+                                    },
+                                    "id": "A=1@O=Thisted St.@X=8687023@Y=56952651@U=86@L=787079101@",
+                                    "extId": "787079101",
+                                    "hasMainMast": true,
+                                    "mainMastId": "A=1@O=Thisted St.@X=8688056@Y=56952885@U=86@L=8600404@",
+                                    "mainMastExtId": "8600404",
+                                    "mainMastLon": 8.688056,
+                                    "mainMastLat": 56.952885,
+                                    "name": "Thisted St.",
+                                    "lon": 8.687023,
+                                    "lat": 56.952651,
+                                    "products": 108
+                                },
+                                {
+                                    "LocationNotes": {
+                                        "LocationNote": [
+                                            {
+                                                "value": "",
+                                                "key": "FB",
+                                                "type": "A",
+                                                "txtN": ""
+                                            },
+                                            {
+                                                "value": "5001",
+                                                "key": "TN",
+                                                "type": "I",
+                                                "txtN": "5001"
+                                            },
+                                            {
+                                                "value": "NT",
+                                                "key": "TP",
+                                                "type": "I",
+                                                "txtN": "NT"
+                                            },
+                                            {
+                                                "value": "NT 001",
+                                                "key": "TR",
+                                                "type": "I",
+                                                "txtN": "NT 001"
+                                            },
+                                            {
+                                                "value": "1",
+                                                "key": "TW",
+                                                "type": "I",
+                                                "txtN": "1"
+                                            }
+                                        ]
+                                    },
+                                    "id": "A=1@O=Aalborg St. (Omr\u00e5de C / Regionalbus)@X=9918383@Y=57041392@U=86@L=851100102@",
+                                    "extId": "851100102",
+                                    "name": "Aalborg St. (Omr\u00e5de C / Regionalbus)",
+                                    "lon": 9.918383,
+                                    "lat": 57.041392,
+                                    "products": 224
+                                }
+                            ]
+                        },
+                        "validFromStop": {
+                            "name": "Thisted St.",
+                            "id": "A=1@O=Thisted St.@X=8687023@Y=56952651@U=86@L=787079101@",
+                            "extId": "787079101",
+                            "routeIdx": 0,
+                            "lon": 8.687023,
+                            "lat": 56.952651,
+                            "minimumChangeDuration": "PT4M"
+                        },
+                        "validToStop": {
+                            "name": "Aalborg St. (Omr\u00e5de C / Regionalbus)",
+                            "id": "A=1@O=Aalborg St. (Omr\u00e5de C / Regionalbus)@X=9918383@Y=57041392@U=86@L=851100102@",
+                            "extId": "851100102",
+                            "routeIdx": 119,
+                            "lon": 9.918383,
+                            "lat": 57.041392,
+                            "minimumChangeDuration": "PT4M"
+                        },
+                        "channel": [
+                            {
+                                "name": "TIMETABLE",
+                                "url": [
+                                    {
+                                        "name": "Leopardvej",
+                                        "url": "https://nt.vidi.gc2.io/app/nt/?state=state_snapshot_2e84d630-a8b1-11ef-8aeb-0fa6886be70c&amp;config=/api/v2/configuration/nt/configuration_trafikinfo_6183e61e4c148561906224.json&amp;dps=1"
+                                    }
+                                ],
+                                "validFromTime": "00:00:00",
+                                "validFromDate": "2024-11-22",
+                                "validToTime": "16:00:00",
+                                "validToDate": "2024-11-28"
+                            }
+                        ],
+                        "messageCategory": [
+                            {
+                                "id": 0
+                            }
+                        ],
+                        "id": "54338",
+                        "act": true,
+                        "head": "Omk\u00f8rsel; Thisted",
+                        "text": "Rute TH2, Rute 311, Rute 70 betjener ikke f\u00f8lgende stoppesteder: Leopardvej. Bussen k\u00f8re via l\u00f8vevej og Bj\u00f8rnevej. Stop p\u00e5 disse veje benyttes.<br><br>Vi beklager ulejligheden.",
+                        "company": "NT",
+                        "category": "0",
+                        "products": 32,
+                        "icon": "HIM0",
+                        "routeIdxFrom": 0,
+                        "routeIdxTo": 119,
+                        "sTime": "07:00:00",
+                        "sDate": "2024-11-25",
+                        "eTime": "16:00:00",
+                        "eDate": "2024-11-28",
+                        "modTime": "10:25:04",
+                        "modDate": "2024-11-22",
+                        "dailyStartingAt": "00:00:00",
+                        "dailyDuration": "PT23H59M0S"
+                    }
+                ]
+            },
+            "platform": {
+                "type": "PL",
+                "text": "A"
+            },
+            "mainMast": {
+                "LocationNotes": {
+                    "LocationNote": [
+                        {
+                            "value": "",
+                            "key": "FB",
+                            "type": "A",
+                            "txtN": ""
+                        },
+                        {
+                            "value": "5110",
+                            "key": "TN",
+                            "type": "I",
+                            "txtN": "5110"
+                        },
+                        {
+                            "value": "NT",
+                            "key": "TP",
+                            "type": "I",
+                            "txtN": "NT"
+                        },
+                        {
+                            "value": "NT 110",
+                            "key": "TR",
+                            "type": "I",
+                            "txtN": "NT 110"
+                        },
+                        {
+                            "value": "110",
+                            "key": "TW",
+                            "type": "I",
+                            "txtN": "110"
+                        }
+                    ]
+                },
+                "id": "A=1@O=Thisted St.@X=8688056@Y=56952885@U=86@L=8600404@",
+                "extId": "8600404",
+                "isMainMast": true,
+                "name": "Thisted St.",
+                "lon": 8.688056,
+                "lat": 56.952885,
+                "products": 108
+            },
+            "name": "Bus 70",
+            "type": "ST",
+            "stop": "Thisted St.",
+            "stopid": "A=1@O=Thisted St.@X=8687023@Y=56952651@U=86@L=787079101@",
+            "stopExtId": "787079101",
+            "lon": 8.687023,
+            "lat": 56.952651,
+            "hasMainMast": true,
+            "mainMastId": "A=1@O=Thisted St.@X=8688056@Y=56952885@U=86@L=8600404@",
+            "mainMastExtId": "8600404",
+            "mainMastLon": 8.688056,
+            "mainMastLat": 56.952885,
+            "time": "18:48:00",
+            "date": "2024-11-27",
+            "track": "A",
+            "reachable": true,
+            "direction": "Aalborg St.",
+            "directionFlag": "2"
+        },
+        {
+            "JourneyDetailRef": {
+                "ref": "2|#VN#1#ST#1732618831#PI#0#ZI#8306#TA#0#DA#271124#1S#787079102#1T#1925#LS#773079102#LT#2010#PU#86#RT#1#CA#013#ZE#90#ZB#Bus    90#PC#5#FR#787079102#FT#1925#TO#773079102#TT#2010#"
+            },
+            "JourneyStatus": "P",
+            "ProductAtStop": {
+                "icon": {
+                    "res": "prod_bus"
+                },
+                "operatorInfo": {
+                    "name": "NT",
+                    "nameS": "NT",
+                    "nameN": "NT",
+                    "nameL": "NT"
+                },
+                "name": "Bus 90",
+                "internalName": "Bus    90",
+                "displayNumber": "90",
+                "num": "3609",
+                "line": "90",
+                "lineId": "013_280_00_90",
+                "catOut": "Bus",
+                "catIn": "013",
+                "catCode": "5",
+                "cls": "32",
+                "catOutS": "013",
+                "catOutL": "Bus",
+                "operatorCode": "NT",
+                "operator": "NT",
+                "admin": "280_00",
+                "matchId": "18505"
+            },
+            "Product": [
+                {
+                    "icon": {
+                        "res": "prod_bus"
+                    },
+                    "operatorInfo": {
+                        "name": "NT",
+                        "nameS": "NT",
+                        "nameN": "NT",
+                        "nameL": "NT"
+                    },
+                    "name": "Bus 90",
+                    "internalName": "Bus    90",
+                    "displayNumber": "90",
+                    "num": "3609",
+                    "line": "90",
+                    "lineId": "013_280_00_90",
+                    "catOut": "Bus",
+                    "catIn": "013",
+                    "catCode": "5",
+                    "cls": "32",
+                    "catOutS": "013",
+                    "catOutL": "Bus",
+                    "operatorCode": "NT",
+                    "operator": "NT",
+                    "admin": "280_00",
+                    "routeIdxFrom": 0,
+                    "routeIdxTo": 62,
+                    "matchId": "18505"
+                }
+            ],
+            "Notes": {
+                "Note": [
+                    {
+                        "value": "NT",
+                        "key": "PU",
+                        "type": "I",
+                        "routeIdxFrom": 0,
+                        "routeIdxTo": 62,
+                        "txtN": "NT"
+                    },
+                    {
+                        "value": "2009",
+                        "key": "bp",
+                        "type": "I",
+                        "routeIdxFrom": 0,
+                        "routeIdxTo": 62,
+                        "txtN": "2009"
+                    },
+                    {
+                        "value": "18505",
+                        "key": "FD",
+                        "type": "I",
+                        "routeIdxFrom": 0,
+                        "routeIdxTo": 62,
+                        "txtN": "18505"
+                    },
+                    {
+                        "key": "FB",
+                        "type": "A"
+                    },
+                    {
+                        "value": "5110",
+                        "key": "TN",
+                        "type": "I",
+                        "txtN": "5110"
+                    },
+                    {
+                        "value": "NT",
+                        "key": "TP",
+                        "type": "I",
+                        "txtN": "NT"
+                    },
+                    {
+                        "value": "NT 110",
+                        "key": "TR",
+                        "type": "I",
+                        "txtN": "NT 110"
+                    },
+                    {
+                        "value": "110",
+                        "key": "TW",
+                        "type": "I",
+                        "txtN": "110"
+                    }
+                ]
+            },
+            "platform": {
+                "type": "PL",
+                "text": "B"
+            },
+            "mainMast": {
+                "LocationNotes": {
+                    "LocationNote": [
+                        {
+                            "value": "",
+                            "key": "FB",
+                            "type": "A",
+                            "txtN": ""
+                        },
+                        {
+                            "value": "5110",
+                            "key": "TN",
+                            "type": "I",
+                            "txtN": "5110"
+                        },
+                        {
+                            "value": "NT",
+                            "key": "TP",
+                            "type": "I",
+                            "txtN": "NT"
+                        },
+                        {
+                            "value": "NT 110",
+                            "key": "TR",
+                            "type": "I",
+                            "txtN": "NT 110"
+                        },
+                        {
+                            "value": "110",
+                            "key": "TW",
+                            "type": "I",
+                            "txtN": "110"
+                        }
+                    ]
+                },
+                "id": "A=1@O=Thisted St.@X=8688056@Y=56952885@U=86@L=8600404@",
+                "extId": "8600404",
+                "isMainMast": true,
+                "name": "Thisted St.",
+                "lon": 8.688056,
+                "lat": 56.952885,
+                "products": 108
+            },
+            "name": "Bus 90",
+            "type": "ST",
+            "stop": "Thisted St.",
+            "stopid": "A=1@O=Thisted St.@X=8686492@Y=56952633@U=86@L=787079102@",
+            "stopExtId": "787079102",
+            "lon": 8.686492,
+            "lat": 56.952633,
+            "hasMainMast": true,
+            "mainMastId": "A=1@O=Thisted St.@X=8688056@Y=56952885@U=86@L=8600404@",
+            "mainMastExtId": "8600404",
+            "mainMastLon": 8.688056,
+            "mainMastLat": 56.952885,
+            "time": "19:25:00",
+            "date": "2024-11-27",
+            "track": "B",
+            "reachable": true,
+            "direction": "Nyk\u00f8bing Mors",
+            "directionFlag": "1"
+        },
+        {
+            "JourneyDetailRef": {
+                "ref": "2|#VN#1#ST#1732618831#PI#0#ZI#8661#TA#2#DA#271124#1S#787079101#1T#1935#LS#851100100#LT#2114#PU#86#RT#1#CA#023#ZE#970X#ZB#X Bus 970X#PC#6#FR#787079101#FT#1935#TO#851100100#TT#2114#"
+            },
+            "JourneyStatus": "P",
+            "ProductAtStop": {
+                "icon": {
+                    "res": "prod_bus"
+                },
+                "operatorInfo": {
+                    "name": "NT",
+                    "nameS": "NT",
+                    "nameN": "NT",
+                    "nameL": "NT"
+                },
+                "name": "X Bus 970X",
+                "internalName": "X Bus 970X",
+                "displayNumber": "970X",
+                "num": "3930",
+                "line": "970X",
+                "lineId": "023_280_00_970X",
+                "catOut": "X Bus",
+                "catIn": "023",
+                "catCode": "6",
+                "cls": "64",
+                "catOutS": "023",
+                "catOutL": "X Bus",
+                "operatorCode": "NT",
+                "operator": "NT",
+                "admin": "280_00",
+                "matchId": "17538"
+            },
+            "Product": [
+                {
+                    "icon": {
+                        "res": "prod_bus"
+                    },
+                    "operatorInfo": {
+                        "name": "NT",
+                        "nameS": "NT",
+                        "nameN": "NT",
+                        "nameL": "NT"
+                    },
+                    "name": "X Bus 970X",
+                    "internalName": "X Bus 970X",
+                    "displayNumber": "970X",
+                    "num": "3930",
+                    "line": "970X",
+                    "lineId": "023_280_00_970X",
+                    "catOut": "X Bus",
+                    "catIn": "023",
+                    "catCode": "6",
+                    "cls": "64",
+                    "catOutS": "023",
+                    "catOutL": "X Bus",
+                    "operatorCode": "NT",
+                    "operator": "NT",
+                    "admin": "280_00",
+                    "routeIdxFrom": 0,
+                    "routeIdxTo": 11,
+                    "matchId": "17538"
+                }
+            ],
+            "Notes": {
+                "Note": [
+                    {
+                        "value": "007AC2",
+                        "key": "CT",
+                        "type": "I",
+                        "routeIdxFrom": 0,
+                        "routeIdxTo": 11,
+                        "txtN": "007AC2"
+                    },
+                    {
+                        "value": "NT",
+                        "key": "PU",
+                        "type": "I",
+                        "routeIdxFrom": 0,
+                        "routeIdxTo": 11,
+                        "txtN": "NT"
+                    },
+                    {
+                        "value": "2009",
+                        "key": "bp",
+                        "type": "I",
+                        "routeIdxFrom": 0,
+                        "routeIdxTo": 11,
+                        "txtN": "2009"
+                    },
+                    {
+                        "value": "17538",
+                        "key": "FD",
+                        "type": "I",
+                        "routeIdxFrom": 0,
+                        "routeIdxTo": 11,
+                        "txtN": "17538"
+                    },
+                    {
+                        "key": "FB",
+                        "type": "A"
+                    },
+                    {
+                        "value": "5110",
+                        "key": "TN",
+                        "type": "I",
+                        "txtN": "5110"
+                    },
+                    {
+                        "value": "NT",
+                        "key": "TP",
+                        "type": "I",
+                        "txtN": "NT"
+                    },
+                    {
+                        "value": "NT 110",
+                        "key": "TR",
+                        "type": "I",
+                        "txtN": "NT 110"
+                    },
+                    {
+                        "value": "110",
+                        "key": "TW",
+                        "type": "I",
+                        "txtN": "110"
+                    }
+                ]
+            },
+            "platform": {
+                "type": "PL",
+                "text": "A"
+            },
+            "mainMast": {
+                "LocationNotes": {
+                    "LocationNote": [
+                        {
+                            "value": "",
+                            "key": "FB",
+                            "type": "A",
+                            "txtN": ""
+                        },
+                        {
+                            "value": "5110",
+                            "key": "TN",
+                            "type": "I",
+                            "txtN": "5110"
+                        },
+                        {
+                            "value": "NT",
+                            "key": "TP",
+                            "type": "I",
+                            "txtN": "NT"
+                        },
+                        {
+                            "value": "NT 110",
+                            "key": "TR",
+                            "type": "I",
+                            "txtN": "NT 110"
+                        },
+                        {
+                            "value": "110",
+                            "key": "TW",
+                            "type": "I",
+                            "txtN": "110"
+                        }
+                    ]
+                },
+                "id": "A=1@O=Thisted St.@X=8688056@Y=56952885@U=86@L=8600404@",
+                "extId": "8600404",
+                "isMainMast": true,
+                "name": "Thisted St.",
+                "lon": 8.688056,
+                "lat": 56.952885,
+                "products": 108
+            },
+            "name": "X Bus 970X",
+            "type": "ST",
+            "stop": "Thisted St.",
+            "stopid": "A=1@O=Thisted St.@X=8687023@Y=56952651@U=86@L=787079101@",
+            "stopExtId": "787079101",
+            "lon": 8.687023,
+            "lat": 56.952651,
+            "hasMainMast": true,
+            "mainMastId": "A=1@O=Thisted St.@X=8688056@Y=56952885@U=86@L=8600404@",
+            "mainMastExtId": "8600404",
+            "mainMastLon": 8.688056,
+            "mainMastLat": 56.952885,
+            "time": "19:35:00",
+            "date": "2024-11-27",
+            "track": "A",
+            "reachable": true,
+            "direction": "Aalborg St.",
+            "directionFlag": "2"
+        },
+        {
+            "JourneyDetailRef": {
+                "ref": "2|#VN#1#ST#1732618831#PI#0#ZI#57459#TA#0#DA#271124#1S#8600404#1T#1935#LS#8600189#LT#2053#PU#86#RT#1#CA#030#ZE#5572#ZB#RA 5572#PC#2#FR#8600404#FT#1935#TO#8600189#TT#2053#"
+            },
+            "JourneyStatus": "P",
+            "ProductAtStop": {
+                "icon": {
+                    "res": "prod_ic"
+                },
+                "operatorInfo": {
+                    "name": "GoCollective",
+                    "nameS": "GoC",
+                    "nameN": "GoC",
+                    "nameL": "GoCollective"
+                },
+                "name": "RA 5572",
+                "internalName": "RA 5572",
+                "displayNumber": "5572",
+                "num": "5572",
+                "catOut": "RA",
+                "catIn": "030",
+                "catCode": "2",
+                "cls": "4",
+                "catOutS": "030",
+                "catOutL": "RA",
+                "operatorCode": "GoC",
+                "operator": "GoCollective",
+                "admin": "000087",
+                "matchId": "5572"
+            },
+            "Product": [
+                {
+                    "icon": {
+                        "res": "prod_ic"
+                    },
+                    "operatorInfo": {
+                        "name": "GoCollective",
+                        "nameS": "GoC",
+                        "nameN": "GoC",
+                        "nameL": "GoCollective"
+                    },
+                    "name": "RA 5572",
+                    "internalName": "RA 5572",
+                    "displayNumber": "5572",
+                    "num": "5572",
+                    "catOut": "RA",
+                    "catIn": "030",
+                    "catCode": "2",
+                    "cls": "4",
+                    "catOutS": "030",
+                    "catOutL": "RA",
+                    "operatorCode": "GoC",
+                    "operator": "GoCollective",
+                    "admin": "000087",
+                    "routeIdxFrom": 0,
+                    "routeIdxTo": 12,
+                    "matchId": "5572"
+                }
+            ],
+            "Notes": {
+                "Note": [
+                    {
+                        "value": "Mulighed for internet",
+                        "key": "TD",
+                        "type": "A",
+                        "priority": 200,
+                        "routeIdxFrom": 0,
+                        "routeIdxTo": 12,
+                        "txtN": "Mulighed for internet"
+                    },
+                    {
+                        "value": "6938a1",
+                        "key": "CT",
+                        "type": "I",
+                        "routeIdxFrom": 0,
+                        "routeIdxTo": 12,
+                        "txtN": "6938a1"
+                    },
+                    {
+                        "value": "ffffff",
+                        "key": "CF",
+                        "type": "I",
+                        "routeIdxFrom": 0,
+                        "routeIdxTo": 12,
+                        "txtN": "ffffff"
+                    },
+                    {
+                        "key": "FB",
+                        "type": "A"
+                    },
+                    {
+                        "value": "5110",
+                        "key": "TN",
+                        "type": "I",
+                        "txtN": "5110"
+                    },
+                    {
+                        "value": "NT",
+                        "key": "TP",
+                        "type": "I",
+                        "txtN": "NT"
+                    },
+                    {
+                        "value": "NT 110",
+                        "key": "TR",
+                        "type": "I",
+                        "txtN": "NT 110"
+                    },
+                    {
+                        "value": "110",
+                        "key": "TW",
+                        "type": "I",
+                        "txtN": "110"
+                    }
+                ]
+            },
+            "rtPlatform": {
+                "type": "PL",
+                "text": "1"
+            },
+            "name": "RA 5572",
+            "type": "ST",
+            "stop": "Thisted St.",
+            "stopid": "A=1@O=Thisted St.@X=8688056@Y=56952885@U=86@L=8600404@",
+            "stopExtId": "8600404",
+            "lon": 8.688056,
+            "lat": 56.952885,
+            "isMainMast": true,
+            "prognosisType": "PROGNOSED",
+            "time": "19:35:00",
+            "date": "2024-11-27",
+            "rtTrack": "1",
+            "reachable": true,
+            "direction": "Struer St.",
+            "directionFlag": "2"
+        }
+    ],
+    "TechnicalMessages": {
+        "TechnicalMessage": [
+            {
+                "value": "2024-11-27 18:42:57",
+                "key": "requestTime"
+            },
+            {
+                "value": "ttp=16402#16480 plancode0=xubi5 planid=1732618831 planid0=1732618831 planid_adr=1732528415 plancode_adr=xsdrl planid_poi=1732519734 plancode_poi=xr62g srvv=5.45.Rejseplanen.15.4.11 (customer/hcudk/release/2024.4.2.0) [2024-09-13] tlibv=TRFVER: rel/dk/10.05.5 2024-08-23 16:30:57 +0200 Rejsekort v10.5.5 jno=1",
+                "key": "backendInfo"
+            }
+        ]
+    },
+    "serverVersion": "2.45.2",
+    "dialectVersion": "2.45-Rejseplanen",
+    "planRtTs": "2024-11-27T18:42:52.000+01:00",
+    "requestId": "czgwrz4g6qswhkcs"
+}

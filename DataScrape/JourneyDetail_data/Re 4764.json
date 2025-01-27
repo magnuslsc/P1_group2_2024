@@ -1,0 +1,879 @@
+{
+    "Stops": {
+        "Stop": [
+            {
+                "Notes": {
+                    "Note": [
+                        {
+                            "key": "FB",
+                            "type": "A"
+                        },
+                        {
+                            "value": "8600079///741,74/",
+                            "key": "TE",
+                            "type": "I",
+                            "txtN": "8600079///741,74/"
+                        },
+                        {
+                            "value": "3530",
+                            "key": "TN",
+                            "type": "I",
+                            "txtN": "3530"
+                        },
+                        {
+                            "value": "SYD",
+                            "key": "TP",
+                            "type": "I",
+                            "txtN": "SYD"
+                        },
+                        {
+                            "value": "ST 530",
+                            "key": "TR",
+                            "type": "I",
+                            "txtN": "ST 530"
+                        },
+                        {
+                            "value": "530",
+                            "key": "TW",
+                            "type": "I",
+                            "txtN": "530"
+                        },
+                        {
+                            "value": "200",
+                            "key": "en",
+                            "type": "I",
+                            "txtN": "200"
+                        },
+                        {
+                            "value": "200",
+                            "key": "ev",
+                            "type": "I",
+                            "txtN": "200"
+                        },
+                        {
+                            "value": "Stoppested udg\u00e5r",
+                            "key": "text.realtime.stop.cancelled",
+                            "type": "R",
+                            "txtN": "Stoppested udg\u00e5r"
+                        }
+                    ]
+                },
+                "depPlatform": {
+                    "type": "PL",
+                    "text": "9"
+                },
+                "name": "Fredericia St.",
+                "id": "A=1@O=Fredericia St.@X=9740639@Y=55568213@U=86@L=8600079@",
+                "extId": "8600079",
+                "routeIdx": 0,
+                "lon": 9.740639,
+                "lat": 55.568213,
+                "depTime": "19:30:00",
+                "depDate": "2024-11-27",
+                "depTrack": "9",
+                "cancelled": true,
+                "cancelledDeparture": true,
+                "rtBoarding": false,
+                "depDir": "Odense St.",
+                "rtCnclDataSourceType": "DEFAULT",
+                "minimumChangeDuration": "PT5M"
+            },
+            {
+                "Notes": {
+                    "Note": [
+                        {
+                            "key": "FB",
+                            "type": "A"
+                        },
+                        {
+                            "value": "2136",
+                            "key": "TN",
+                            "type": "I",
+                            "txtN": "2136"
+                        },
+                        {
+                            "value": "FYNTOG",
+                            "key": "TP",
+                            "type": "I",
+                            "txtN": "FYNTOG"
+                        },
+                        {
+                            "value": "FYN 136",
+                            "key": "TR",
+                            "type": "I",
+                            "txtN": "FYN 136"
+                        },
+                        {
+                            "value": "36",
+                            "key": "TW",
+                            "type": "I",
+                            "txtN": "36"
+                        },
+                        {
+                            "value": "Stoppested udg\u00e5r",
+                            "key": "text.realtime.stop.cancelled",
+                            "type": "R",
+                            "txtN": "Stoppested udg\u00e5r"
+                        }
+                    ]
+                },
+                "arrPlatform": {
+                    "type": "PL",
+                    "text": "4"
+                },
+                "depPlatform": {
+                    "type": "PL",
+                    "text": "4"
+                },
+                "name": "Middelfart St.",
+                "id": "A=1@O=Middelfart St.@X=9734041@Y=55501981@U=86@L=8600501@",
+                "extId": "8600501",
+                "routeIdx": 1,
+                "lon": 9.734041,
+                "lat": 55.501981,
+                "depTime": "19:37:00",
+                "depDate": "2024-11-27",
+                "arrTime": "19:36:00",
+                "arrDate": "2024-11-27",
+                "arrTrack": "4",
+                "depTrack": "4",
+                "cancelled": true,
+                "cancelledDeparture": true,
+                "cancelledArrival": true,
+                "rtAlighting": false,
+                "rtBoarding": false,
+                "rtCnclDataSourceType": "DEFAULT",
+                "minimumChangeDuration": "PT4M"
+            },
+            {
+                "Notes": {
+                    "Note": [
+                        {
+                            "key": "FB",
+                            "type": "A"
+                        },
+                        {
+                            "value": "2187",
+                            "key": "TN",
+                            "type": "I",
+                            "txtN": "2187"
+                        },
+                        {
+                            "value": "FYNTOG",
+                            "key": "TP",
+                            "type": "I",
+                            "txtN": "FYNTOG"
+                        },
+                        {
+                            "value": "FYN 187",
+                            "key": "TR",
+                            "type": "I",
+                            "txtN": "FYN 187"
+                        },
+                        {
+                            "value": "87",
+                            "key": "TW",
+                            "type": "I",
+                            "txtN": "87"
+                        },
+                        {
+                            "value": "Stoppested udg\u00e5r",
+                            "key": "text.realtime.stop.cancelled",
+                            "type": "R",
+                            "txtN": "Stoppested udg\u00e5r"
+                        }
+                    ]
+                },
+                "arrPlatform": {
+                    "type": "PL",
+                    "text": "1"
+                },
+                "depPlatform": {
+                    "type": "PL",
+                    "text": "1"
+                },
+                "name": "N\u00f8rre Aaby St.",
+                "id": "A=1@O=N\u00f8rre Aaby St.@X=9869877@Y=55460244@U=86@L=8600503@",
+                "extId": "8600503",
+                "routeIdx": 3,
+                "lon": 9.869877,
+                "lat": 55.460244,
+                "depTime": "19:44:00",
+                "depDate": "2024-11-27",
+                "arrTime": "19:43:00",
+                "arrDate": "2024-11-27",
+                "arrTrack": "1",
+                "depTrack": "1",
+                "cancelled": true,
+                "cancelledDeparture": true,
+                "cancelledArrival": true,
+                "rtAlighting": false,
+                "rtBoarding": false,
+                "rtCnclDataSourceType": "DEFAULT",
+                "minimumChangeDuration": "PT2M"
+            },
+            {
+                "Notes": {
+                    "Note": [
+                        {
+                            "key": "FB",
+                            "type": "A"
+                        },
+                        {
+                            "value": "2184",
+                            "key": "TN",
+                            "type": "I",
+                            "txtN": "2184"
+                        },
+                        {
+                            "value": "FYNTOG",
+                            "key": "TP",
+                            "type": "I",
+                            "txtN": "FYNTOG"
+                        },
+                        {
+                            "value": "FYN 184",
+                            "key": "TR",
+                            "type": "I",
+                            "txtN": "FYN 184"
+                        },
+                        {
+                            "value": "84",
+                            "key": "TW",
+                            "type": "I",
+                            "txtN": "84"
+                        },
+                        {
+                            "value": "Stoppested udg\u00e5r",
+                            "key": "text.realtime.stop.cancelled",
+                            "type": "R",
+                            "txtN": "Stoppested udg\u00e5r"
+                        }
+                    ]
+                },
+                "arrPlatform": {
+                    "type": "PL",
+                    "text": "1"
+                },
+                "depPlatform": {
+                    "type": "PL",
+                    "text": "1"
+                },
+                "name": "Ejby St.",
+                "id": "A=1@O=Ejby St.@X=9929745@Y=55428593@U=86@L=8600504@",
+                "extId": "8600504",
+                "routeIdx": 4,
+                "lon": 9.929745,
+                "lat": 55.428593,
+                "depTime": "19:49:00",
+                "depDate": "2024-11-27",
+                "arrTime": "19:48:00",
+                "arrDate": "2024-11-27",
+                "arrTrack": "1",
+                "depTrack": "1",
+                "cancelled": true,
+                "cancelledDeparture": true,
+                "cancelledArrival": true,
+                "rtAlighting": false,
+                "rtBoarding": false,
+                "rtCnclDataSourceType": "DEFAULT",
+                "minimumChangeDuration": "PT2M"
+            },
+            {
+                "Notes": {
+                    "Note": [
+                        {
+                            "key": "FB",
+                            "type": "A"
+                        },
+                        {
+                            "value": "2183",
+                            "key": "TN",
+                            "type": "I",
+                            "txtN": "2183"
+                        },
+                        {
+                            "value": "FYNTOG",
+                            "key": "TP",
+                            "type": "I",
+                            "txtN": "FYNTOG"
+                        },
+                        {
+                            "value": "FYN 183",
+                            "key": "TR",
+                            "type": "I",
+                            "txtN": "FYN 183"
+                        },
+                        {
+                            "value": "83",
+                            "key": "TW",
+                            "type": "I",
+                            "txtN": "83"
+                        },
+                        {
+                            "value": "Stoppested udg\u00e5r",
+                            "key": "text.realtime.stop.cancelled",
+                            "type": "R",
+                            "txtN": "Stoppested udg\u00e5r"
+                        }
+                    ]
+                },
+                "arrPlatform": {
+                    "type": "PL",
+                    "text": "1"
+                },
+                "depPlatform": {
+                    "type": "PL",
+                    "text": "1"
+                },
+                "name": "Gelsted St.",
+                "id": "A=1@O=Gelsted St.@X=9974251@Y=55396061@U=86@L=8600505@",
+                "extId": "8600505",
+                "routeIdx": 5,
+                "lon": 9.974251,
+                "lat": 55.396061,
+                "depTime": "19:53:00",
+                "depDate": "2024-11-27",
+                "arrTime": "19:52:00",
+                "arrDate": "2024-11-27",
+                "arrTrack": "1",
+                "depTrack": "1",
+                "cancelled": true,
+                "cancelledDeparture": true,
+                "cancelledArrival": true,
+                "rtAlighting": false,
+                "rtBoarding": false,
+                "rtCnclDataSourceType": "DEFAULT",
+                "minimumChangeDuration": "PT2M"
+            },
+            {
+                "Notes": {
+                    "Note": [
+                        {
+                            "key": "FB",
+                            "type": "A"
+                        },
+                        {
+                            "value": "2081",
+                            "key": "TN",
+                            "type": "I",
+                            "txtN": "2081"
+                        },
+                        {
+                            "value": "FYNTOG",
+                            "key": "TP",
+                            "type": "I",
+                            "txtN": "FYNTOG"
+                        },
+                        {
+                            "value": "FYN 081",
+                            "key": "TR",
+                            "type": "I",
+                            "txtN": "FYN 081"
+                        },
+                        {
+                            "value": "81",
+                            "key": "TW",
+                            "type": "I",
+                            "txtN": "81"
+                        },
+                        {
+                            "value": "Stoppested udg\u00e5r",
+                            "key": "text.realtime.stop.cancelled",
+                            "type": "R",
+                            "txtN": "Stoppested udg\u00e5r"
+                        }
+                    ]
+                },
+                "arrPlatform": {
+                    "type": "PL",
+                    "text": "1"
+                },
+                "depPlatform": {
+                    "type": "PL",
+                    "text": "1"
+                },
+                "name": "Aarup St.",
+                "id": "A=1@O=Aarup St.@X=10051226@Y=55382945@U=86@L=8600506@",
+                "extId": "8600506",
+                "routeIdx": 6,
+                "lon": 10.051226,
+                "lat": 55.382945,
+                "depTime": "19:58:00",
+                "depDate": "2024-11-27",
+                "arrTime": "19:57:00",
+                "arrDate": "2024-11-27",
+                "arrTrack": "1",
+                "depTrack": "1",
+                "cancelled": true,
+                "cancelledDeparture": true,
+                "cancelledArrival": true,
+                "rtAlighting": false,
+                "rtBoarding": false,
+                "rtCnclDataSourceType": "DEFAULT",
+                "minimumChangeDuration": "PT2M"
+            },
+            {
+                "Notes": {
+                    "Note": [
+                        {
+                            "key": "FB",
+                            "type": "A"
+                        },
+                        {
+                            "value": "2079",
+                            "key": "TN",
+                            "type": "I",
+                            "txtN": "2079"
+                        },
+                        {
+                            "value": "FYNTOG",
+                            "key": "TP",
+                            "type": "I",
+                            "txtN": "FYNTOG"
+                        },
+                        {
+                            "value": "FYN 079",
+                            "key": "TR",
+                            "type": "I",
+                            "txtN": "FYN 079"
+                        },
+                        {
+                            "value": "79",
+                            "key": "TW",
+                            "type": "I",
+                            "txtN": "79"
+                        },
+                        {
+                            "value": "Stoppested udg\u00e5r",
+                            "key": "text.realtime.stop.cancelled",
+                            "type": "R",
+                            "txtN": "Stoppested udg\u00e5r"
+                        }
+                    ]
+                },
+                "arrPlatform": {
+                    "type": "PL",
+                    "text": "1"
+                },
+                "depPlatform": {
+                    "type": "PL",
+                    "text": "1"
+                },
+                "name": "Tommerup St.",
+                "id": "A=1@O=Tommerup St.@X=10182531@Y=55349371@U=86@L=8600509@",
+                "extId": "8600509",
+                "routeIdx": 9,
+                "lon": 10.182531,
+                "lat": 55.349371,
+                "depTime": "20:04:00",
+                "depDate": "2024-11-27",
+                "arrTime": "20:03:00",
+                "arrDate": "2024-11-27",
+                "arrTrack": "1",
+                "depTrack": "1",
+                "cancelled": true,
+                "cancelledDeparture": true,
+                "cancelledArrival": true,
+                "rtAlighting": false,
+                "rtBoarding": false,
+                "rtCnclDataSourceType": "DEFAULT",
+                "minimumChangeDuration": "PT2M"
+            },
+            {
+                "Notes": {
+                    "Note": [
+                        {
+                            "key": "FB",
+                            "type": "A"
+                        },
+                        {
+                            "value": "8600512///741,74/",
+                            "key": "TE",
+                            "type": "I",
+                            "txtN": "8600512///741,74/"
+                        },
+                        {
+                            "value": "2001",
+                            "key": "TN",
+                            "type": "I",
+                            "txtN": "2001"
+                        },
+                        {
+                            "value": "FYNTOG",
+                            "key": "TP",
+                            "type": "I",
+                            "txtN": "FYNTOG"
+                        },
+                        {
+                            "value": "FYN 001",
+                            "key": "TR",
+                            "type": "I",
+                            "txtN": "FYN 001"
+                        },
+                        {
+                            "value": "1",
+                            "key": "TW",
+                            "type": "I",
+                            "txtN": "1"
+                        },
+                        {
+                            "value": "200",
+                            "key": "en",
+                            "type": "I",
+                            "txtN": "200"
+                        },
+                        {
+                            "value": "200",
+                            "key": "ev",
+                            "type": "I",
+                            "txtN": "200"
+                        },
+                        {
+                            "value": "Stoppested udg\u00e5r",
+                            "key": "text.realtime.stop.cancelled",
+                            "type": "R",
+                            "txtN": "Stoppested udg\u00e5r"
+                        }
+                    ]
+                },
+                "arrPlatform": {
+                    "type": "PL",
+                    "text": "3"
+                },
+                "name": "Odense St.",
+                "id": "A=1@O=Odense St.@X=10386739@Y=55401778@U=86@L=8600512@",
+                "extId": "8600512",
+                "routeIdx": 11,
+                "lon": 10.386739,
+                "lat": 55.401778,
+                "arrTime": "20:13:00",
+                "arrDate": "2024-11-27",
+                "arrTrack": "3",
+                "cancelled": true,
+                "cancelledArrival": true,
+                "rtAlighting": false,
+                "rtCnclDataSourceType": "DEFAULT",
+                "minimumChangeDuration": "PT5M"
+            }
+        ]
+    },
+    "Names": {
+        "Name": [
+            {
+                "Product": {
+                    "icon": {
+                        "res": "prod_ic"
+                    },
+                    "operatorInfo": {
+                        "name": "DSB",
+                        "nameS": "DSB",
+                        "nameN": "DSB",
+                        "nameL": "DSB"
+                    },
+                    "name": "Re 4764",
+                    "internalName": "Re 4764",
+                    "displayNumber": "4764",
+                    "num": "4764",
+                    "catOut": "Re",
+                    "catIn": "004",
+                    "catCode": "2",
+                    "cls": "4",
+                    "catOutS": "004",
+                    "catOutL": "Re",
+                    "operatorCode": "DSB",
+                    "operator": "DSB",
+                    "admin": "000002",
+                    "matchId": "4764"
+                },
+                "name": "Re 4764",
+                "number": "4764",
+                "category": "004",
+                "routeIdxFrom": 0,
+                "routeIdxTo": 11
+            }
+        ]
+    },
+    "Product": [
+        {
+            "icon": {
+                "res": "prod_ic"
+            },
+            "operatorInfo": {
+                "name": "DSB",
+                "nameS": "DSB",
+                "nameN": "DSB",
+                "nameL": "DSB"
+            },
+            "name": "Re 4764",
+            "internalName": "Re 4764",
+            "displayNumber": "4764",
+            "num": "4764",
+            "catOut": "Re",
+            "catIn": "004",
+            "catCode": "2",
+            "cls": "4",
+            "catOutS": "004",
+            "catOutL": "Re",
+            "operatorCode": "DSB",
+            "operator": "DSB",
+            "admin": "000002",
+            "routeIdxFrom": 0,
+            "routeIdxTo": 11,
+            "matchId": "4764"
+        }
+    ],
+    "Directions": {
+        "Direction": [
+            {
+                "value": "Odense St.",
+                "flag": "1",
+                "routeIdxFrom": 0,
+                "routeIdxTo": 11
+            }
+        ]
+    },
+    "Notes": {
+        "Note": [
+            {
+                "value": "Cykelreservering kr\u00e6ves",
+                "key": "CR",
+                "type": "A",
+                "priority": 0,
+                "routeIdxFrom": 0,
+                "routeIdxTo": 11,
+                "txtN": "Cykelreservering kr\u00e6ves"
+            },
+            {
+                "value": "Mulighed for internet",
+                "key": "TD",
+                "type": "A",
+                "priority": 200,
+                "routeIdxFrom": 0,
+                "routeIdxTo": 11,
+                "txtN": "Mulighed for internet"
+            },
+            {
+                "value": "50ae30",
+                "key": "CT",
+                "type": "I",
+                "routeIdxFrom": 0,
+                "routeIdxTo": 11,
+                "txtN": "50ae30"
+            }
+        ]
+    },
+    "Messages": {
+        "Message": [
+            {
+                "affectedStops": {
+                    "StopLocation": [
+                        {
+                            "LocationNotes": {
+                                "LocationNote": [
+                                    {
+                                        "value": "",
+                                        "key": "FB",
+                                        "type": "A",
+                                        "txtN": ""
+                                    },
+                                    {
+                                        "value": "8600512///741,74/",
+                                        "key": "TE",
+                                        "type": "I",
+                                        "txtN": "8600512///741,74/"
+                                    },
+                                    {
+                                        "value": "2001",
+                                        "key": "TN",
+                                        "type": "I",
+                                        "txtN": "2001"
+                                    },
+                                    {
+                                        "value": "FYNTOG",
+                                        "key": "TP",
+                                        "type": "I",
+                                        "txtN": "FYNTOG"
+                                    },
+                                    {
+                                        "value": "FYN 001",
+                                        "key": "TR",
+                                        "type": "I",
+                                        "txtN": "FYN 001"
+                                    },
+                                    {
+                                        "value": "1",
+                                        "key": "TW",
+                                        "type": "I",
+                                        "txtN": "1"
+                                    },
+                                    {
+                                        "value": "200",
+                                        "key": "en",
+                                        "type": "I",
+                                        "txtN": "200"
+                                    },
+                                    {
+                                        "value": "200",
+                                        "key": "ev",
+                                        "type": "I",
+                                        "txtN": "200"
+                                    }
+                                ]
+                            },
+                            "id": "A=1@O=Odense St.@X=10386739@Y=55401778@U=86@L=8600512@",
+                            "extId": "8600512",
+                            "name": "Odense St.",
+                            "lon": 10.386739,
+                            "lat": 55.401778,
+                            "products": 15
+                        },
+                        {
+                            "LocationNotes": {
+                                "LocationNote": [
+                                    {
+                                        "value": "",
+                                        "key": "FB",
+                                        "type": "A",
+                                        "txtN": ""
+                                    },
+                                    {
+                                        "value": "8600079///741,74/",
+                                        "key": "TE",
+                                        "type": "I",
+                                        "txtN": "8600079///741,74/"
+                                    },
+                                    {
+                                        "value": "3530",
+                                        "key": "TN",
+                                        "type": "I",
+                                        "txtN": "3530"
+                                    },
+                                    {
+                                        "value": "SYD",
+                                        "key": "TP",
+                                        "type": "I",
+                                        "txtN": "SYD"
+                                    },
+                                    {
+                                        "value": "ST 530",
+                                        "key": "TR",
+                                        "type": "I",
+                                        "txtN": "ST 530"
+                                    },
+                                    {
+                                        "value": "530",
+                                        "key": "TW",
+                                        "type": "I",
+                                        "txtN": "530"
+                                    },
+                                    {
+                                        "value": "200",
+                                        "key": "en",
+                                        "type": "I",
+                                        "txtN": "200"
+                                    },
+                                    {
+                                        "value": "200",
+                                        "key": "ev",
+                                        "type": "I",
+                                        "txtN": "200"
+                                    }
+                                ]
+                            },
+                            "id": "A=1@O=Fredericia St.@X=9740639@Y=55568213@U=86@L=8600079@",
+                            "extId": "8600079",
+                            "name": "Fredericia St.",
+                            "lon": 9.740639,
+                            "lat": 55.568213,
+                            "products": 7
+                        }
+                    ]
+                },
+                "validFromStop": {
+                    "name": "Odense St.",
+                    "id": "A=1@O=Odense St.@X=10386739@Y=55401778@U=86@L=8600512@",
+                    "extId": "8600512",
+                    "routeIdx": 0,
+                    "lon": 10.386739,
+                    "lat": 55.401778,
+                    "minimumChangeDuration": "PT5M"
+                },
+                "validToStop": {
+                    "name": "Fredericia St.",
+                    "id": "A=1@O=Fredericia St.@X=9740639@Y=55568213@U=86@L=8600079@",
+                    "extId": "8600079",
+                    "routeIdx": 11,
+                    "lon": 9.740639,
+                    "lat": 55.568213,
+                    "minimumChangeDuration": "PT5M"
+                },
+                "channel": [
+                    {
+                        "name": "TIMETABLE",
+                        "validFromTime": "18:00:00",
+                        "validFromDate": "2024-11-27",
+                        "validToTime": "21:00:00",
+                        "validToDate": "2024-11-27"
+                    }
+                ],
+                "messageCategory": [
+                    {
+                        "id": 5
+                    }
+                ],
+                "id": "379936",
+                "act": true,
+                "head": "Ingen regionaltog mellem Odense og Fredericia - resten af driftsd\u00f8gnet",
+                "lead": "Vi har bestilt Togbusser til at k\u00f8re i stedet, vi vender tilbage med nyt snarest.   Det skyldes, at en k\u00f8reledning er faldet ned mellem Ejby og Gelsted. Banedanmarks teknikere er i gang med at reparationsarbejdet.",
+                "text": "Vi har bestilt Togbusser til at k\u00f8re i stedet, vi vender tilbage med nyt snarest.   Det skyldes, at en k\u00f8reledning er faldet ned mellem Ejby og Gelsted. Banedanmarks teknikere er i gang med at reparationsarbejdet.",
+                "company": "DcDK",
+                "category": "5",
+                "products": 7,
+                "icon": "HIM5",
+                "routeIdxFrom": 0,
+                "routeIdxTo": 11,
+                "sTime": "18:00:00",
+                "sDate": "2024-11-27",
+                "eTime": "21:00:00",
+                "eDate": "2024-11-27",
+                "modTime": "18:31:22",
+                "modDate": "2024-11-27",
+                "dailyStartingAt": "00:00:00",
+                "dailyDuration": "PT23H59M0S"
+            }
+        ]
+    },
+    "JourneyStatus": "P",
+    "ServiceDays": [
+        {
+            "planningPeriodBegin": "2024-11-26",
+            "planningPeriodEnd": "2025-02-12",
+            "sDaysR": "ikke altid",
+            "sDaysI": "28. nov - 14. dec 2024",
+            "sDaysB": "BFFFE000000000000000",
+            "routeIdxFrom": 0,
+            "routeIdxTo": 11
+        }
+    ],
+    "TechnicalMessages": {
+        "TechnicalMessage": [
+            {
+                "value": "2024-11-27 18:42:59",
+                "key": "requestTime"
+            },
+            {
+                "value": "ttp=16402#16480 plancode0=xubi5 planid=1732618831 planid0=1732618831 planid_adr=1732528415 plancode_adr=xsdrl planid_poi=1732519734 plancode_poi=xr62g srvv=5.45.Rejseplanen.15.4.11 (customer/hcudk/release/2024.4.2.0) [2024-09-13] tlibv=TRFVER: rel/dk/10.05.5 2024-08-23 16:30:57 +0200 Rejsekort v10.5.5 jno=1",
+                "key": "backendInfo"
+            }
+        ]
+    },
+    "serverVersion": "2.45.2",
+    "dialectVersion": "2.45-Rejseplanen",
+    "planRtTs": "2024-11-27T18:42:52.000+01:00",
+    "requestId": "qgwwyzkw4qsygm4s",
+    "cancelled": true,
+    "reachable": false,
+    "dayOfOperation": "2024-11-27",
+    "ref": "2|#VN#1#ST#1732618831#PI#0#ZI#2086#TA#0#DA#271124#1S#8600079#1T#1930#LS#8600512#LT#2013#PU#86#RT#1#CA#004#ZE#4764#ZB#Re 4764#PC#2#FR#8600079#FT#1930#TO#8600512#TT#2013#"
+}
